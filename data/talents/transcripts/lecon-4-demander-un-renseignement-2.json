@@ -1,0 +1,82 @@
+{
+ "slug": "lecon-4-demander-un-renseignement-2",
+ "model": "medium",
+ "kind": "vocab",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.35,
+   "text": "Unité 1, leçon 4."
+  },
+  {
+   "start": 2.73,
+   "end": 3.59,
+   "text": "Vocabulaire."
+  },
+  {
+   "start": 4.84,
+   "end": 5.34,
+   "text": "musée"
+  },
+  {
+   "start": 7.26,
+   "end": 7.99,
+   "text": "cathédrale."
+  },
+  {
+   "start": 10.0,
+   "end": 10.43,
+   "text": "Tour."
+  },
+  {
+   "start": 12.21,
+   "end": 12.76,
+   "text": "Écrivain."
+  },
+  {
+   "start": 14.63,
+   "end": 15.09,
+   "text": "Au revoir."
+  },
+  {
+   "start": 16.96,
+   "end": 17.65,
+   "text": "Reine."
+  },
+  {
+   "start": 19.53,
+   "end": 19.96,
+   "text": "Homme."
+  },
+  {
+   "start": 21.7,
+   "end": 22.45,
+   "text": "chanteur"
+  },
+  {
+   "start": 24.17,
+   "end": 24.89,
+   "text": "artiste."
+  },
+  {
+   "start": 26.61,
+   "end": 27.32,
+   "text": "touriste"
+  },
+  {
+   "start": 29.03,
+   "end": 29.56,
+   "text": "chanter"
+  },
+  {
+   "start": 31.62,
+   "end": 32.32,
+   "text": "politique."
+  },
+  {
+   "start": 34.03,
+   "end": 34.93,
+   "text": "scientifique"
+  }
+ ]
+}

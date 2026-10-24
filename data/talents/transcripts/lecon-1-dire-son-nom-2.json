@@ -1,0 +1,77 @@
+{
+ "slug": "lecon-1-dire-son-nom-2",
+ "model": "medium",
+ "kind": "vocab",
+ "segments": [
+  {
+   "start": 0.44,
+   "end": 1.58,
+   "text": "Unité 0."
+  },
+  {
+   "start": 2.29,
+   "end": 3.15,
+   "text": "Leçon 1"
+  },
+  {
+   "start": 3.69,
+   "end": 4.54,
+   "text": "Vocabulaire."
+  },
+  {
+   "start": 5.54,
+   "end": 6.22,
+   "text": "Madame."
+  },
+  {
+   "start": 8.32,
+   "end": 8.98,
+   "text": "artiste."
+  },
+  {
+   "start": 11.11,
+   "end": 11.83,
+   "text": "étudiante."
+  },
+  {
+   "start": 13.88,
+   "end": 14.59,
+   "text": "grand-mère."
+  },
+  {
+   "start": 16.81,
+   "end": 17.27,
+   "text": "louer."
+  },
+  {
+   "start": 19.49,
+   "end": 19.95,
+   "text": "appeler."
+  },
+  {
+   "start": 22.15,
+   "end": 22.87,
+   "text": "célèbre."
+  },
+  {
+   "start": 24.76,
+   "end": 25.33,
+   "text": "français"
+  },
+  {
+   "start": 27.53,
+   "end": 28.28,
+   "text": "Au revoir."
+  },
+  {
+   "start": 30.21,
+   "end": 30.65,
+   "text": "Salut."
+  },
+  {
+   "start": 32.81,
+   "end": 33.51,
+   "text": "Bonjour."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "evaluation-unite-8-9",
+ "model": "medium",
+ "kind": "dialogue",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.36,
+   "text": "Unité 8. Lisez les propositions. Écoutez le dialogue. Cochez la réponse correcte."
+  },
+  {
+   "start": 7.36,
+   "end": 15.6,
+   "text": "Bonjour les garçons ! Salut Costanza, comment vas-tu ? Ça va, ça va. Mon père est reparti"
+  },
+  {
+   "start": 15.6,
+   "end": 21.24,
+   "text": "pour le bar. Il est bien arrivé ? Oui, oui. Il a laissé un message sur le répondeur"
+  },
+  {
+   "start": 21.24,
+   "end": 28.48,
+   "text": "de la villa des jeunes européens. Et votre film, il était bien ? Bof ! Hein ? Il"
+  },
+  {
+   "start": 28.48,
+   "end": 34.36,
+   "text": "était super bien tu veux dire ? Vous n'êtes pas d'accord. Qu'avez-vous vu ? Nous avons"
+  },
+  {
+   "start": 34.36,
+   "end": 40.16,
+   "text": "vu le dernier film de Claude Lelouche. Un plus une. De quoi parle le film ? D'un"
+  },
+  {
+   "start": 40.16,
+   "end": 46.0,
+   "text": "compositeur qui fait des musiques de films. Un jour, il part en Inde pour travailler et"
+  },
+  {
+   "start": 46.0,
+   "end": 51.04,
+   "text": "il rencontre une jeune femme qui est très différente de lui. Et tu n'as pas aimé"
+  },
+  {
+   "start": 51.04,
+   "end": 56.8,
+   "text": "Quentin ? Non, c'est un film romantique. Je l'ai trouvée stupide. Je n'aime pas"
+  },
+  {
+   "start": 56.84,
+   "end": 64.64,
+   "text": "les films romantiques. Je préfère les comédies. Et toi Nicolas ? Moi j'ai adoré. Les acteurs"
+  },
+  {
+   "start": 64.64,
+   "end": 72.08,
+   "text": "sont super. Jean Dujardin est magnifique. Les paysages sont très beaux. Bof ! En plus,"
+  },
+  {
+   "start": 72.08,
+   "end": 76.8,
+   "text": "on connaît la fin rapidement. Et puis, je n'aime pas ces acteurs. Tu n'as pas aimé"
+  },
+  {
+   "start": 76.8,
+   "end": 83.44,
+   "text": "la musique ? Elle était magnifique. Bon, d'accord. La musique était très belle. Mais"
+  },
+  {
+   "start": 83.44,
+   "end": 87.2,
+   "text": "le film était trop long. Quentin, tu n'es jamais content."
+  }
+ ]
+}

@@ -3,34 +3,47 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>法语 A1 词汇 · Lexique A1</title>
+<title>法语 A1 · Talents A1</title>
 <meta name="theme-color" content="#1d3fd6">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="top">
   <div class="top-inner">
-    <h1><span class="zh">法语 A1 词汇</span><span class="fr">Lexique A1 · Talents</span></h1>
+    <h1><span class="zh">法语 A1 学习</span><span class="fr">Talents A1 · lexique &amp; audio</span></h1>
     <div class="progress" aria-live="polite">
       <div class="progress-text"><strong id="prog-count">0</strong> / <span id="prog-total">0</span> <span class="muted">已掌握 · maîtrisés</span></div>
       <div class="bar"><div class="bar-fill" id="prog-bar"></div></div>
     </div>
   </div>
+  <nav class="tabs top-inner" aria-label="视图 Vue">
+    <a href="#unit/0" id="tab-units" class="tab">单元学习 <small>Par unité</small></a>
+    <a href="#lexique" id="tab-lexique" class="tab">全部词汇 <small>Lexique complet</small></a>
+  </nav>
 </header>
 
 <section class="controls">
-  <div class="search">
-    <input id="q" type="search" placeholder="搜索 · Rechercher (français / 中文)" autocomplete="off">
+  <!-- Vue unités : choix de l'unité -->
+  <div id="units-nav" class="row" role="group" aria-label="单元 Unité">
+    <span class="row-label">单元<small>Unité</small></span>
+    <div class="chips" id="unit-tabs"></div>
   </div>
 
-  <div class="row" role="group" aria-label="单元 Unité">
-    <span class="row-label">单元<small>Unité</small></span>
-    <div class="chips" id="units"></div>
+  <!-- Vue lexique : recherche + filtres -->
+  <div id="lexique-filters">
+    <div class="search">
+      <input id="q" type="search" placeholder="搜索 · Rechercher (français / 中文)" autocomplete="off">
+    </div>
+    <div class="row" role="group" aria-label="单元 Unité">
+      <span class="row-label">单元<small>Unité</small></span>
+      <div class="chips" id="units"></div>
+    </div>
+    <div class="row" role="group" aria-label="课 Leçon">
+      <span class="row-label">课<small>Leçon</small></span>
+      <div class="chips" id="lessons"></div>
+    </div>
   </div>
-  <div class="row" role="group" aria-label="课 Leçon">
-    <span class="row-label">课<small>Leçon</small></span>
-    <div class="chips" id="lessons"></div>
-  </div>
+
   <div class="row" role="group" aria-label="状态 Statut">
     <span class="row-label">状态<small>Statut</small></span>
     <div class="chips" id="status"></div>
@@ -40,27 +53,37 @@
     <label class="toggle"><input type="checkbox" id="hide-zh"><span>隐藏中文<small>Masquer le chinois</small></span></label>
     <label class="toggle"><input type="checkbox" id="hide-fr"><span>隐藏法语<small>Masquer le français</small></span></label>
     <label class="toggle"><input type="checkbox" id="slow"><span>慢速<small>Lent</small></span></label>
-    <label class="toggle"><input type="checkbox" id="male-voice"><span>男声<small>Voix d'homme</small></span></label>
+    <label class="toggle"><input type="checkbox" id="male-voice"><span>AI 男声<small>Voix IA d'homme</small></span></label>
     <label class="toggle"><input type="checkbox" id="shuffle"><span>随机顺序<small>Mélanger</small></span></label>
   </div>
 </section>
 
 <main>
-  <p class="result-info" id="result-info"></p>
-  <ul class="list" id="list"></ul>
-  <p class="empty" id="empty" hidden>没有符合条件的单词 · Aucun mot ne correspond</p>
+  <div id="unit-view"></div>
+  <div id="lexique-view">
+    <p class="result-info" id="result-info"></p>
+    <ul class="list" id="list"></ul>
+    <p class="empty" id="empty" hidden>没有符合条件的单词 · Aucun mot ne correspond</p>
+  </div>
 </main>
 
 <footer class="foot">
   <p>
-    <span class="fix-badge static">已更正</span>
-    = 原 PDF 中文翻译有误，已更正（点击查看原文）· traduction du PDF corrigée (toucher pour voir l'original)
+    <span class="src static native">原声</span> 教材原声录音 · enregistrement du manuel ;
+    <span class="src static">AI</span> 语音合成 · synthèse vocale (mot absent de l'enregistrement).
   </p>
-  <p>发音：神经网络语音合成 · Prononciation : synthèse vocale neuronale. 进度保存在本浏览器中 · Progression enregistrée dans ce navigateur.</p>
+  <p>
+    <span class="fix-badge static">已更正</span>
+    原 PDF 中文翻译有误，已更正（点击查看原文）· traduction du PDF corrigée (toucher pour voir l'original).
+  </p>
+  <p>音频文字为自动转写，可能有误 · Les transcriptions sont automatiques et peuvent contenir des erreurs.</p>
+  <p>音频与练习 © CLE International（Talents A1），仅供个人学习 · Audios et exercices © CLE International, usage personnel uniquement.
+     进度保存在本浏览器中 · Progression enregistrée dans ce navigateur.</p>
   <p><button class="link" id="reset">重置进度 · Réinitialiser la progression</button></p>
 </footer>
 
 <script src="words.js"></script>
+<script src="units.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

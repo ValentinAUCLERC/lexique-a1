@@ -2,3 +2,6 @@
 work/tts-test/
 __pycache__/
 work/qa_*
+# audios de l'éditeur (© CLE International) : récupérables via scripts/fetch_talents.py
+data/talents/audio/*.mp3
+site/talents/

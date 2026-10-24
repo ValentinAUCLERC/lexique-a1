@@ -1,0 +1,82 @@
+{
+ "slug": "evaluation-unite-4-9",
+ "model": "medium",
+ "kind": "dialogue",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 8.0,
+   "text": "Unité 4. Observez les images, écoutez le dialogue, cochez là où les réponses correctes."
+  },
+  {
+   "start": 9.0,
+   "end": 11.0,
+   "text": "Salut Quentin !"
+  },
+  {
+   "start": 11.0,
+   "end": 12.0,
+   "text": "Salut Costanza !"
+  },
+  {
+   "start": 12.0,
+   "end": 17.0,
+   "text": "Demain c'est la fête de la villa des jeunes européens. On fait un pique-nique. Tu viens ?"
+  },
+  {
+   "start": 17.0,
+   "end": 20.0,
+   "text": "Oui, oui, bien sûr. J'apporte mon sandwich."
+  },
+  {
+   "start": 20.0,
+   "end": 27.0,
+   "text": "Il faut apporter un plat pour quatre personnes. Moi, je fais une salade de tomates mozzarella et un dessert."
+  },
+  {
+   "start": 27.0,
+   "end": 28.0,
+   "text": "Super !"
+  },
+  {
+   "start": 28.0,
+   "end": 32.0,
+   "text": "Nicolas apporte du poulet et une salade de champignons à la grecque."
+  },
+  {
+   "start": 32.0,
+   "end": 38.0,
+   "text": "D'accord. Alors, j'apporte du pâté et du saucisson. Qu'est-ce que tu fais en dessert ?"
+  },
+  {
+   "start": 38.0,
+   "end": 41.0,
+   "text": "Je fais une tarte aux pommes et j'apporte des fraises."
+  },
+  {
+   "start": 41.0,
+   "end": 45.0,
+   "text": "Je prends du fromage et du pain. Et la boisson ?"
+  },
+  {
+   "start": 45.0,
+   "end": 53.0,
+   "text": "Hum, il y a de l'eau. Nicolas apporte de la bière. Tu apportes une bouteille de jus de fruits. Je ne bois pas d'alcool."
+  },
+  {
+   "start": 53.0,
+   "end": 61.0,
+   "text": "D'accord. Je dois noter du pâté, du saucisson, du fromage, du pain et des fraises."
+  },
+  {
+   "start": 61.0,
+   "end": 71.0,
+   "text": "Non, pas les fraises. C'est moi. Toi, tu apportes du saucisson, du pâté, du pain, du fromage et une bouteille de jus de fruits."
+  },
+  {
+   "start": 71.0,
+   "end": 76.0,
+   "text": "Et moi, une salade de tomates, des fraises et une tarte aux pommes."
+  }
+ ]
+}

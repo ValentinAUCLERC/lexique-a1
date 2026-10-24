@@ -1,0 +1,57 @@
+{
+ "slug": "projet-offrir-un-cadeau-2",
+ "model": "medium",
+ "kind": "vocab",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.24,
+   "text": "Unité 6"
+  },
+  {
+   "start": 1.69,
+   "end": 2.16,
+   "text": "projet,"
+  },
+  {
+   "start": 2.65,
+   "end": 3.38,
+   "text": "Vocabulaire."
+  },
+  {
+   "start": 4.44,
+   "end": 5.04,
+   "text": "Amitié."
+  },
+  {
+   "start": 6.8,
+   "end": 7.46,
+   "text": "cuisine"
+  },
+  {
+   "start": 9.05,
+   "end": 9.61,
+   "text": "collège"
+  },
+  {
+   "start": 11.01,
+   "end": 11.93,
+   "text": "spécialité."
+  },
+  {
+   "start": 13.56,
+   "end": 14.33,
+   "text": "stage"
+  },
+  {
+   "start": 15.7,
+   "end": 16.64,
+   "text": "stagiaire"
+  },
+  {
+   "start": 18.14,
+   "end": 18.81,
+   "text": "Animateur."
+  }
+ ]
+}

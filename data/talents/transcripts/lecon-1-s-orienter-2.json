@@ -1,0 +1,62 @@
+{
+ "slug": "lecon-1-s-orienter-2",
+ "model": "medium",
+ "kind": "vocab",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.28,
+   "text": "Unité 2, leçon 1."
+  },
+  {
+   "start": 2.66,
+   "end": 3.49,
+   "text": "Vocabulaire."
+  },
+  {
+   "start": 4.33,
+   "end": 4.95,
+   "text": "Gare"
+  },
+  {
+   "start": 6.48,
+   "end": 7.24,
+   "text": "étage"
+  },
+  {
+   "start": 8.8,
+   "end": 9.51,
+   "text": "sortie"
+  },
+  {
+   "start": 11.3,
+   "end": 11.97,
+   "text": "couloir"
+  },
+  {
+   "start": 13.6,
+   "end": 14.17,
+   "text": "Numéro."
+  },
+  {
+   "start": 16.2,
+   "end": 16.85,
+   "text": "Accueil."
+  },
+  {
+   "start": 18.52,
+   "end": 18.87,
+   "text": "Allez."
+  },
+  {
+   "start": 20.8,
+   "end": 21.23,
+   "text": "Tourner."
+  },
+  {
+   "start": 22.99,
+   "end": 23.53,
+   "text": "Continuer."
+  }
+ ]
+}

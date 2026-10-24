@@ -1,0 +1,172 @@
+{
+ "slug": "evaluation-unite-9-9",
+ "model": "medium",
+ "kind": "dialogue",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 7.0,
+   "text": "Unité 9. Vrai ou faux ? Écoutez le dialogue. Cochez les réponses correctes."
+  },
+  {
+   "start": 7.0,
+   "end": 9.0,
+   "text": "Bonjour tous les deux !"
+  },
+  {
+   "start": 9.0,
+   "end": 11.0,
+   "text": "Bonjour Quentin, tu vas bien ?"
+  },
+  {
+   "start": 11.0,
+   "end": 14.0,
+   "text": "Oui, j'ai une grande nouvelle à vous annoncer."
+  },
+  {
+   "start": 14.0,
+   "end": 15.0,
+   "text": "Ah oui ?"
+  },
+  {
+   "start": 15.0,
+   "end": 20.0,
+   "text": "Oui, samedi je déménage. Je pars de la villa des jeunes européens."
+  },
+  {
+   "start": 20.0,
+   "end": 21.0,
+   "text": "Ah bon ?"
+  },
+  {
+   "start": 21.0,
+   "end": 22.0,
+   "text": "Tu vas où ?"
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "text": "J'ai trouvé un appartement pas très loin."
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "text": "Et tu vas y habiter tout seul ?"
+  },
+  {
+   "start": 27.0,
+   "end": 29.0,
+   "text": "Non, avec ma copine."
+  },
+  {
+   "start": 29.0,
+   "end": 31.0,
+   "text": "Tu as une copine ?"
+  },
+  {
+   "start": 31.0,
+   "end": 34.0,
+   "text": "Ça alors ? Ça fait deux nouvelles ?"
+  },
+  {
+   "start": 34.0,
+   "end": 39.0,
+   "text": "Oui, oui. Bon, mais vous êtes invité chez moi ?"
+  },
+  {
+   "start": 39.0,
+   "end": 41.0,
+   "text": "Ton appartement est grand ?"
+  },
+  {
+   "start": 41.0,
+   "end": 44.0,
+   "text": "Il y a deux pièces, le salon et la chambre."
+  },
+  {
+   "start": 44.0,
+   "end": 47.0,
+   "text": "Une petite salle de bain avec les toilettes et une cuisine."
+  },
+  {
+   "start": 47.0,
+   "end": 51.0,
+   "text": "Ce n'est pas très grand, mais pour nous deux c'est suffisant."
+  },
+  {
+   "start": 51.0,
+   "end": 53.0,
+   "text": "Et puis il est très clair."
+  },
+  {
+   "start": 53.0,
+   "end": 57.0,
+   "text": "Les fenêtres sont grandes et on voit le parc qui est près de l'église."
+  },
+  {
+   "start": 57.0,
+   "end": 59.0,
+   "text": "Quelle est sa superficie ?"
+  },
+  {
+   "start": 59.0,
+   "end": 62.0,
+   "text": "Il mesure 40 mètres carrés, ça va."
+  },
+  {
+   "start": 62.0,
+   "end": 63.0,
+   "text": "Tu as des meubles ?"
+  },
+  {
+   "start": 63.0,
+   "end": 68.0,
+   "text": "Non, mais la mère de ma copine va nous donner des étagères et un fauteuil."
+  },
+  {
+   "start": 68.0,
+   "end": 73.0,
+   "text": "Mon père va nous apporter un canapé. Nous devons acheter un lit et une table."
+  },
+  {
+   "start": 73.0,
+   "end": 75.0,
+   "text": "Et pour la cuisine ?"
+  },
+  {
+   "start": 75.0,
+   "end": 78.0,
+   "text": "Ce n'est pas nécessaire, elle est équipée."
+  },
+  {
+   "start": 78.0,
+   "end": 82.0,
+   "text": "Il y a un frigidaire, un four et la table de cuisson."
+  },
+  {
+   "start": 82.0,
+   "end": 85.0,
+   "text": "Et ton vélo ? Tu ne peux pas le laisser dans la rue ?"
+  },
+  {
+   "start": 85.0,
+   "end": 90.0,
+   "text": "Non, non, mais il y a un garage pour les vélos et même une cave."
+  },
+  {
+   "start": 90.0,
+   "end": 93.0,
+   "text": "Eh bien, quelle nouvelle !"
+  },
+  {
+   "start": 93.0,
+   "end": 98.0,
+   "text": "Mais ça veut dire que Costanza et moi, on n'est plus que tous les deux pour nos soirées ?"
+  },
+  {
+   "start": 98.0,
+   "end": 100.0,
+   "text": "Tu oublies Kevin, Nicolas."
+  }
+ ]
+}

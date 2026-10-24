@@ -1,0 +1,127 @@
+{
+ "slug": "lecon-1-se-presenter-2",
+ "model": "medium",
+ "kind": "vocab",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.02,
+   "text": "Unité 1."
+  },
+  {
+   "start": 1.54,
+   "end": 2.41,
+   "text": "Leçon 1"
+  },
+  {
+   "start": 2.99,
+   "end": 3.83,
+   "text": "Vocabulaire."
+  },
+  {
+   "start": 4.4,
+   "end": 5.23,
+   "text": "Locataire."
+  },
+  {
+   "start": 7.05,
+   "end": 7.88,
+   "text": "ingénieur"
+  },
+  {
+   "start": 9.78,
+   "end": 10.67,
+   "text": "Informatique."
+  },
+  {
+   "start": 12.57,
+   "end": 12.92,
+   "text": "Rue."
+  },
+  {
+   "start": 14.9,
+   "end": 15.64,
+   "text": "petite-fille"
+  },
+  {
+   "start": 17.5,
+   "end": 17.84,
+   "text": "Non."
+  },
+  {
+   "start": 19.73,
+   "end": 20.52,
+   "text": "Prénom."
+  },
+  {
+   "start": 22.02,
+   "end": 22.69,
+   "text": "Profession."
+  },
+  {
+   "start": 24.54,
+   "end": 25.42,
+   "text": "nationalité"
+  },
+  {
+   "start": 27.47,
+   "end": 28.21,
+   "text": "Adresse."
+  },
+  {
+   "start": 29.97,
+   "end": 30.71,
+   "text": "Téléphone"
+  },
+  {
+   "start": 32.56,
+   "end": 33.24,
+   "text": "Courriel"
+  },
+  {
+   "start": 35.04,
+   "end": 35.57,
+   "text": "Radio."
+  },
+  {
+   "start": 37.5,
+   "end": 38.02,
+   "text": "Série."
+  },
+  {
+   "start": 40.2,
+   "end": 40.68,
+   "text": "Être"
+  },
+  {
+   "start": 42.36,
+   "end": 42.97,
+   "text": "Entrer."
+  },
+  {
+   "start": 44.96,
+   "end": 45.52,
+   "text": "Habiter."
+  },
+  {
+   "start": 47.57,
+   "end": 48.37,
+   "text": "asseoir"
+  },
+  {
+   "start": 48.82,
+   "end": 49.75,
+   "text": "s'asseoir."
+  },
+  {
+   "start": 51.65,
+   "end": 52.11,
+   "text": "Nouveau."
+  },
+  {
+   "start": 54.17,
+   "end": 54.77,
+   "text": "belge"
+  }
+ ]
+}

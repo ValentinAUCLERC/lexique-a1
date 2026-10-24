@@ -1,0 +1,102 @@
+{
+ "slug": "evaluation-unite-6-9",
+ "model": "medium",
+ "kind": "dialogue",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 9.0,
+   "text": "Unité 6. Lisez les propositions, écoutez le dialogue, cochez là où les réponses correctes."
+  },
+  {
+   "start": 9.0,
+   "end": 13.0,
+   "text": "Ah, Constanza, tu arrives au bon moment."
+  },
+  {
+   "start": 13.0,
+   "end": 14.0,
+   "text": "Pourquoi ?"
+  },
+  {
+   "start": 14.0,
+   "end": 21.0,
+   "text": "Parce que tu vas m'aider. Je cherche un cadeau pour ma mère. C'est son anniversaire la semaine prochaine et je n'ai pas d'idées."
+  },
+  {
+   "start": 21.0,
+   "end": 22.0,
+   "text": "Des fleurs ?"
+  },
+  {
+   "start": 22.0,
+   "end": 25.0,
+   "text": "Ce n'est pas original et ma mère a un grand jardin."
+  },
+  {
+   "start": 25.0,
+   "end": 26.0,
+   "text": "Qu'est-ce que tu regardes ?"
+  },
+  {
+   "start": 26.0,
+   "end": 29.0,
+   "text": "Je suis sur le site internet d'un grand magasin."
+  },
+  {
+   "start": 30.0,
+   "end": 33.0,
+   "text": "Regarde ce pull, il est joli."
+  },
+  {
+   "start": 33.0,
+   "end": 39.0,
+   "text": "Ma mère n'aime pas les vêtements en cadeau. Elle préfère acheter elle-même ses pulls ou ses chemisiers."
+  },
+  {
+   "start": 39.0,
+   "end": 42.0,
+   "text": "Un objet pour la maison ? Un coussin ?"
+  },
+  {
+   "start": 42.0,
+   "end": 45.0,
+   "text": "Si c'est pour la maison, ce n'est pas personnel."
+  },
+  {
+   "start": 45.0,
+   "end": 54.0,
+   "text": "Tiens, regarde ce collier. Il est joli, il n'est pas cher, il est original. Et tu peux aller dans la boutique ?"
+  },
+  {
+   "start": 54.0,
+   "end": 60.0,
+   "text": "Une carte-cadeau ? Regarde, il y en a pour 10 euros, 15 euros ou 20 euros."
+  },
+  {
+   "start": 60.0,
+   "end": 61.0,
+   "text": "Bof !"
+  },
+  {
+   "start": 61.0,
+   "end": 65.0,
+   "text": "Offre un séjour de deux jours dans un hôtel au bord de la mer."
+  },
+  {
+   "start": 65.0,
+   "end": 66.0,
+   "text": "C'est trop cher."
+  },
+  {
+   "start": 66.0,
+   "end": 69.0,
+   "text": "Nicolas, tu es difficile."
+  },
+  {
+   "start": 69.0,
+   "end": 75.0,
+   "text": "Bon, tu as raison. Je vais acheter le collier. Tu veux venir avec moi à la boutique ?"
+  }
+ ]
+}

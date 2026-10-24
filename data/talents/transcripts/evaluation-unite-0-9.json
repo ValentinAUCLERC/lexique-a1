@@ -1,0 +1,127 @@
+{
+ "slug": "evaluation-unite-0-9",
+ "model": "medium",
+ "kind": "dialogue",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Unité zéro."
+  },
+  {
+   "start": 2.0,
+   "end": 3.0,
+   "text": "Un."
+  },
+  {
+   "start": 3.0,
+   "end": 5.0,
+   "text": "Observer les images."
+  },
+  {
+   "start": 5.0,
+   "end": 7.0,
+   "text": "Écouter."
+  },
+  {
+   "start": 7.0,
+   "end": 11.0,
+   "text": "Numéroter les images dans l'ordre du dialogue."
+  },
+  {
+   "start": 11.0,
+   "end": 15.0,
+   "text": "Bonjour, Mélanie. Comment ça va ? Tu veux un café ?"
+  },
+  {
+   "start": 15.0,
+   "end": 17.0,
+   "text": "Salut, Greg. Oui, merci."
+  },
+  {
+   "start": 19.0,
+   "end": 21.0,
+   "text": "Greg, tu aimes le cinéma ?"
+  },
+  {
+   "start": 21.0,
+   "end": 25.0,
+   "text": "Oui, j'aime beaucoup les films avec Omar Sy. Et toi ?"
+  },
+  {
+   "start": 25.0,
+   "end": 27.0,
+   "text": "J'aime la musique."
+  },
+  {
+   "start": 27.0,
+   "end": 29.0,
+   "text": "Oui, tu es une artiste."
+  },
+  {
+   "start": 31.0,
+   "end": 33.0,
+   "text": "Deux."
+  },
+  {
+   "start": 33.0,
+   "end": 35.0,
+   "text": "Écouter le dialogue."
+  },
+  {
+   "start": 35.0,
+   "end": 37.0,
+   "text": "Cocher les chiffres de Mélanie."
+  },
+  {
+   "start": 38.0,
+   "end": 42.0,
+   "text": "Regarde, j'ai un billet de l'auto. Dis-moi des chiffres."
+  },
+  {
+   "start": 43.0,
+   "end": 47.0,
+   "text": "Le 3. Le 7."
+  },
+  {
+   "start": 47.0,
+   "end": 51.0,
+   "text": "Le 3, le 7 et puis ?"
+  },
+  {
+   "start": 51.0,
+   "end": 53.0,
+   "text": "Le 9."
+  },
+  {
+   "start": 53.0,
+   "end": 55.0,
+   "text": "Le 9 et ?"
+  },
+  {
+   "start": 55.0,
+   "end": 56.0,
+   "text": "Encore ?"
+  },
+  {
+   "start": 56.0,
+   "end": 58.0,
+   "text": "Encore deux chiffres."
+  },
+  {
+   "start": 58.0,
+   "end": 62.0,
+   "text": "Le 0 et le 8."
+  },
+  {
+   "start": 62.0,
+   "end": 63.0,
+   "text": "C'est bon ?"
+  },
+  {
+   "start": 63.0,
+   "end": 67.0,
+   "text": "Le 0 et le 8. Oui, c'est bon. Merci, Mélanie."
+  }
+ ]
+}

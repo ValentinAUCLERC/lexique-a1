@@ -1,0 +1,192 @@
+{
+ "slug": "evaluation-unite-3-10",
+ "model": "medium",
+ "kind": "dialogue",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Unité 3"
+  },
+  {
+   "start": 2.0,
+   "end": 3.0,
+   "text": "1"
+  },
+  {
+   "start": 3.0,
+   "end": 4.0,
+   "text": "Samedi"
+  },
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "text": "Observez les images."
+  },
+  {
+   "start": 6.0,
+   "end": 8.0,
+   "text": "Écoutez le dialogue."
+  },
+  {
+   "start": 8.0,
+   "end": 10.0,
+   "text": "Notez les heures."
+  },
+  {
+   "start": 10.0,
+   "end": 12.0,
+   "text": "Au café."
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "text": "Costanza ! On est là !"
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "text": "Ah, salut Nicolas !"
+  },
+  {
+   "start": 18.0,
+   "end": 20.0,
+   "text": "Merci pour l'itinéraire, Quentin."
+  },
+  {
+   "start": 20.0,
+   "end": 22.0,
+   "text": "On va au cinéma demain. Tu viens ?"
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "text": "Samedi ?"
+  },
+  {
+   "start": 24.0,
+   "end": 27.0,
+   "text": "À 9 heures, je vais au cours de français."
+  },
+  {
+   "start": 27.0,
+   "end": 29.0,
+   "text": "Un samedi ?"
+  },
+  {
+   "start": 29.0,
+   "end": 30.0,
+   "text": "Oui, un samedi."
+  },
+  {
+   "start": 30.0,
+   "end": 33.0,
+   "text": "Et ensuite, à midi, je déjeune avec une amie française."
+  },
+  {
+   "start": 33.0,
+   "end": 35.0,
+   "text": "Et l'après-midi ?"
+  },
+  {
+   "start": 35.0,
+   "end": 37.0,
+   "text": "À 13 heures, je vais à la bibliothèque."
+  },
+  {
+   "start": 37.0,
+   "end": 41.0,
+   "text": "À 14 heures, je vais au parc avec les enfants de mon amie."
+  },
+  {
+   "start": 41.0,
+   "end": 44.0,
+   "text": "Elle travaille dans un café et je reste avec les enfants."
+  },
+  {
+   "start": 44.0,
+   "end": 47.0,
+   "text": "Bon, il y a une séance à 17h30."
+  },
+  {
+   "start": 47.0,
+   "end": 49.0,
+   "text": "17h30 ?"
+  },
+  {
+   "start": 49.0,
+   "end": 51.0,
+   "text": "Oui, c'est bon."
+  },
+  {
+   "start": 51.0,
+   "end": 53.0,
+   "text": "Ah non, mon père arrive d'Italie."
+  },
+  {
+   "start": 53.0,
+   "end": 56.0,
+   "text": "Je vais à la gare, il ne connaît pas la ville."
+  },
+  {
+   "start": 56.0,
+   "end": 58.0,
+   "text": "Et le soir, on va dîner au restaurant."
+  },
+  {
+   "start": 58.0,
+   "end": 61.0,
+   "text": "Donc tu ne viens pas au cinéma demain ?"
+  },
+  {
+   "start": 61.0,
+   "end": 65.0,
+   "text": "Non, désolée. Demain, samedi, ce n'est pas possible."
+  },
+  {
+   "start": 65.0,
+   "end": 67.0,
+   "text": "Et dimanche ?"
+  },
+  {
+   "start": 67.0,
+   "end": 69.0,
+   "text": "Je suis avec mon père."
+  },
+  {
+   "start": 69.0,
+   "end": 73.0,
+   "text": "Le matin, on va prendre un petit déjeuner dans le Grand Parc,"
+  },
+  {
+   "start": 73.0,
+   "end": 75.0,
+   "text": "à côté de la cathédrale."
+  },
+  {
+   "start": 75.0,
+   "end": 79.0,
+   "text": "À midi, on déjeune avec des amis italiens."
+  },
+  {
+   "start": 79.0,
+   "end": 82.0,
+   "text": "Et l'après-midi, on va au théâtre."
+  },
+  {
+   "start": 82.0,
+   "end": 85.0,
+   "text": "Dimanche, je ne suis pas libre."
+  },
+  {
+   "start": 85.0,
+   "end": 87.0,
+   "text": "Bon, une prochaine fois alors ?"
+  },
+  {
+   "start": 87.0,
+   "end": 91.0,
+   "text": "Sous-titrage ST'501"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "lecon-2-acheter-2",
+ "model": "medium",
+ "kind": "vocab",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.38,
+   "text": "Unité 6, leçon 2."
+  },
+  {
+   "start": 2.88,
+   "end": 3.75,
+   "text": "Vocabulaire."
+  },
+  {
+   "start": 5.35,
+   "end": 5.98,
+   "text": "Occasion."
+  },
+  {
+   "start": 7.96,
+   "end": 8.44,
+   "text": "Compte"
+  },
+  {
+   "start": 10.19,
+   "end": 10.61,
+   "text": "Panier."
+  },
+  {
+   "start": 12.53,
+   "end": 13.19,
+   "text": "Papeterie."
+  },
+  {
+   "start": 14.91,
+   "end": 15.74,
+   "text": "magazine"
+  },
+  {
+   "start": 17.47,
+   "end": 18.08,
+   "text": "Enquête."
+  },
+  {
+   "start": 19.75,
+   "end": 20.22,
+   "text": "Produit."
+  },
+  {
+   "start": 22.17,
+   "end": 23.08,
+   "text": "Bande dessinée."
+  },
+  {
+   "start": 24.91,
+   "end": 25.46,
+   "text": "Chèque."
+  },
+  {
+   "start": 27.27,
+   "end": 28.19,
+   "text": "Carte bancaire."
+  },
+  {
+   "start": 29.92,
+   "end": 30.33,
+   "text": "Monnaie"
+  },
+  {
+   "start": 32.25,
+   "end": 32.66,
+   "text": "Achat."
+  },
+  {
+   "start": 34.43,
+   "end": 34.9,
+   "text": "Délai."
+  },
+  {
+   "start": 36.6,
+   "end": 37.36,
+   "text": "Supermarché."
+  }
+ ]
+}

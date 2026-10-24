@@ -1,12 +1,18 @@
-# Lexique A1 · 法语 A1 词汇
+# Lexique A1 · 法语 A1 学习
 
-Mini-site statique pour réviser le lexique du manuel *Talents A1* (871 mots) :
-mot français (avec article), traduction chinoise, prononciation audio, case « je maîtrise ».
+Site statique pour réviser le manuel *Talents A1* (CLE International), interface français / chinois :
+
+- **Par unité** (`#unit/N`) : pour chaque leçon, l'enregistrement « vocabulaire » de l'éditeur (avec transcription
+  cliquable), puis les mots de la leçon, puis les liens vers les exercices interactifs archivés ;
+  en fin d'unité, l'audio de l'**évaluation**.
+- **Lexique complet** (`#lexique`) : les 871 mots, recherche et filtres.
+- Chaque mot : forme avec article, traduction chinoise (corrigée si besoin), prononciation, case « je maîtrise ».
+  Prononciation = **extrait de l'enregistrement de l'éditeur** (badge 原声) quand le mot y a été retrouvé,
+  sinon synthèse vocale (badge AI, voix Denise ou Henri).
 
 ## Utiliser
 
-Ouvrir `site/index.html` dans un navigateur (double-clic, fonctionne hors ligne, `file://` OK).
-Ou servir le dossier :
+Ouvrir `site/index.html` dans un navigateur (fonctionne hors ligne, `file://` OK), ou :
 
 ```bash
 python3 -m http.server -d site 8080
@@ -16,18 +22,29 @@ La progression est stockée dans le `localStorage` du navigateur (par appareil, 
 
 ## Données
 
-- `data/lexique.pdf` : source.
-- `data/raw.json` : extraction brute du PDF (`scripts/extract.py`).
-- `work/out*.jsonl` : annotations (forme affichée avec article, texte TTS, catégorie, chinois corrigé, note de correction).
-- `data/overrides.json` : surcharges manuelles, prioritaires (mois sans article, noms épicènes…). **C'est ici qu'on corrige un mot.**
-- `site/words.js` : généré, ne pas éditer.
+- `data/lexique.pdf` : source du lexique ; `data/raw.json` : extraction brute (`scripts/extract.py`).
+- `work/out*.jsonl` : annotations (article, texte TTS, catégorie, chinois corrigé, note).
+- `data/overrides.json` : surcharges manuelles prioritaires. **C'est ici qu'on corrige un mot.**
+- `data/talents/catalog.json` : ressources de la plateforme Talents (extraites de la Wayback Machine, snapshot 2026-02-08).
+- `data/talents/titles.json` : titres des unités/leçons en français et chinois.
+- `data/talents/audio/` : MP3 de l'éditeur (non versionnés) + `manifest.json`.
+- `data/talents/transcripts/` : transcriptions Whisper.
+- `site/words.js`, `site/units.js`, `site/talents/` : générés, ne pas éditer.
+
+Audios introuvables dans l'archive (jamais capturés) : vocabulaire U7 L3, vocabulaire projet U7, évaluation U7.
 
 ## Régénérer
 
 ```bash
 python3 -m venv .venv && .venv/bin/pip install pdfplumber edge-tts faster-whisper
-.venv/bin/python scripts/build.py          # données + audio manquant/modifié (voix fr-FR-DeniseNeural)
-.venv/bin/python scripts/qa_audio.py small # contrôle : retranscrit l'audio avec Whisper, liste les écarts
+.venv/bin/python scripts/build.py               # lexique + audio TTS (Denise/Henri)
+.venv/bin/python scripts/fetch_talents.py       # audios éditeur depuis web.archive.org (idempotent)
+.venv/bin/python scripts/transcribe_talents.py  # transcriptions (Whisper medium, ~1 h CPU la 1re fois)
+.venv/bin/python scripts/build_units.py         # unités + extraits audio par mot -> site/units.js, words.js
+.venv/bin/python scripts/qa_audio.py small      # contrôle de l'audio TTS
 ```
 
-L'audio est nommé `audio/<id>-<hash>.mp3` : seul un mot dont le texte TTS change est régénéré.
+`build.py` réécrit `words.js` : toujours relancer `build_units.py` après.
+Les mots non retrouvés dans l'audio éditeur sont listés dans `work/align_report.json`.
+
+Audios et exercices © CLE International — usage personnel uniquement, ne pas publier le dossier `site/talents/`.
