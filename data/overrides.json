@@ -1,0 +1,101 @@
+{
+ "43": {
+  "display": "août",
+  "tts": "août"
+ },
+ "69": {
+  "display": "avril",
+  "tts": "avril"
+ },
+ "239": {
+  "display": "décembre",
+  "tts": "décembre"
+ },
+ "350": {
+  "display": "février",
+  "tts": "février"
+ },
+ "433": {
+  "display": "janvier",
+  "tts": "janvier"
+ },
+ "449": {
+  "display": "juillet",
+  "tts": "juillet"
+ },
+ "450": {
+  "display": "juin",
+  "tts": "juin"
+ },
+ "488": {
+  "display": "mai",
+  "tts": "mai"
+ },
+ "500": {
+  "display": "mars",
+  "tts": "mars"
+ },
+ "556": {
+  "display": "novembre",
+  "tts": "novembre"
+ },
+ "565": {
+  "display": "octobre",
+  "tts": "octobre"
+ },
+ "741": {
+  "display": "septembre",
+  "tts": "septembre"
+ },
+ "48": {
+  "pos": "n.mf.",
+  "display": "l'architecte",
+  "tts": "l'architecte"
+ },
+ "54": {
+  "pos": "n.mf.",
+  "display": "l'artiste",
+  "tts": "l'artiste"
+ },
+ "385": {
+  "pos": "n.mf.",
+  "display": "le / la graphiste",
+  "tts": "le, la graphiste"
+ },
+ "737": {
+  "pos": "n.mf.",
+  "display": "le / la secrétaire",
+  "tts": "le, la secrétaire"
+ },
+ "771": {
+  "pos": "n.mf.",
+  "display": "le / la stagiaire",
+  "tts": "le, la stagiaire"
+ },
+ "775": {
+  "pos": "n.mf.",
+  "display": "le / la styliste",
+  "tts": "le, la styliste"
+ },
+ "817": {
+  "pos": "n.mf.",
+  "display": "le / la touriste",
+  "tts": "le, la touriste"
+ },
+ "444": {
+  "pos": "n.mf.",
+  "display": "le / la journaliste",
+  "tts": "le, la journaliste"
+ },
+ "474": {
+  "pos": "n.mf.",
+  "display": "le / la locataire",
+  "tts": "le, la locataire"
+ },
+ "224": {
+  "fix": null
+ },
+ "313": {
+  "fix": null
+ }
+}

@@ -1,0 +1,218 @@
+{"id": 219, "display": "le cours", "tts": "le cours", "pos": "n.m.", "zh": "课，课程", "fix": "过程 = processus ; cours (classe) = 课，课程", "tts_risk": null}
+{"id": 220, "display": "les courses", "tts": "les courses", "pos": "n.f.pl.", "zh": "购物", "fix": null, "tts_risk": null}
+{"id": 221, "display": "court", "tts": "court", "pos": "adj.", "zh": "短的", "fix": null, "tts_risk": null}
+{"id": 222, "display": "le cousin", "tts": "le cousin", "pos": "n.m.", "zh": "堂兄弟，表兄弟", "fix": "堂兄弟 = côté paternel seul ; ajout 表兄弟", "tts_risk": null}
+{"id": 223, "display": "le coussin", "tts": "le coussin", "pos": "n.m.", "zh": "坐垫", "fix": null, "tts_risk": "coussin /kusɛ̃/ ≠ cousin /kuzɛ̃/"}
+{"id": 224, "display": "coûter", "tts": "coûter", "pos": "v.", "zh": "值多少钱，花费", "fix": "值（多少钱） reformulé sans parenthèses", "tts_risk": null}
+{"id": 225, "display": "la couverture", "tts": "la couverture", "pos": "n.f.", "zh": "毯子，封面", "fix": "屋顶 = toit ; couverture = 毯子 (lit), 封面", "tts_risk": null}
+{"id": 226, "display": "le covoiturage", "tts": "le covoiturage", "pos": "n.m.", "zh": "拼车", "fix": null, "tts_risk": null}
+{"id": 227, "display": "la cravate", "tts": "la cravate", "pos": "n.f.", "zh": "领带", "fix": null, "tts_risk": null}
+{"id": 228, "display": "la création", "tts": "la création", "pos": "n.f.", "zh": "创造", "fix": null, "tts_risk": null}
+{"id": 229, "display": "créer", "tts": "créer", "pos": "v.", "zh": "创造", "fix": null, "tts_risk": null}
+{"id": 230, "display": "la crise", "tts": "la crise", "pos": "n.f.", "zh": "危机", "fix": null, "tts_risk": null}
+{"id": 231, "display": "croire", "tts": "croire", "pos": "v.", "zh": "相信", "fix": null, "tts_risk": null}
+{"id": 232, "display": "le croissant", "tts": "le croissant", "pos": "n.m.", "zh": "牛角面包", "fix": null, "tts_risk": null}
+{"id": 233, "display": "la cuisine", "tts": "la cuisine", "pos": "n.f.", "zh": "厨房，菜肴", "fix": "ajout du sens « cuisine (plats) » = 菜肴", "tts_risk": null}
+{"id": 234, "display": "danser", "tts": "danser", "pos": "v.", "zh": "跳舞", "fix": null, "tts_risk": null}
+{"id": 235, "display": "la date", "tts": "la date", "pos": "n.f.", "zh": "日期", "fix": null, "tts_risk": null}
+{"id": 236, "display": "la date de naissance", "tts": "la date de naissance", "pos": "n.f.", "zh": "出生日期", "fix": null, "tts_risk": null}
+{"id": 237, "display": "de rien", "tts": "de rien", "pos": "expr.", "zh": "不客气", "fix": "没关系 répond à « pardon » ; de rien (après merci) = 不客气", "tts_risk": null}
+{"id": 238, "display": "le débat", "tts": "le débat", "pos": "n.m.", "zh": "讨论，辩论", "fix": null, "tts_risk": null}
+{"id": 239, "display": "le mois de décembre", "tts": "le mois de décembre", "pos": "n.m.", "zh": "十二月", "fix": null, "tts_risk": null}
+{"id": 240, "display": "la déception", "tts": "la déception", "pos": "n.f.", "zh": "失望", "fix": null, "tts_risk": null}
+{"id": 241, "display": "décontracté", "tts": "décontracté", "pos": "adj.", "zh": "轻松的，休闲的", "fix": "ajout du sens vestimentaire « tenue décontractée » = 休闲的", "tts_risk": null}
+{"id": 242, "display": "décorer", "tts": "décorer", "pos": "v.", "zh": "装饰", "fix": null, "tts_risk": null}
+{"id": 243, "display": "la découverte", "tts": "la découverte", "pos": "n.f.", "zh": "发现", "fix": null, "tts_risk": null}
+{"id": 244, "display": "découvrir", "tts": "découvrir", "pos": "v.", "zh": "发现", "fix": null, "tts_risk": null}
+{"id": 245, "display": "déjeuner", "tts": "déjeuner", "pos": "v.", "zh": "吃午饭", "fix": "吃早饭 = petit-déjeuner ; déjeuner = 吃午饭", "tts_risk": null}
+{"id": 246, "display": "le délai", "tts": "le délai", "pos": "n.m.", "zh": "期限，等待时间", "fix": "延期 = report ; délai (attente) = 等待时间", "tts_risk": null}
+{"id": 247, "display": "délicieux", "tts": "délicieux", "pos": "adj.", "zh": "美味的", "fix": null, "tts_risk": null}
+{"id": 248, "display": "demander", "tts": "demander", "pos": "v.", "zh": "问，请求", "fix": "ajout du sens « poser une question » = 问", "tts_risk": null}
+{"id": 249, "display": "demi", "tts": "demi", "pos": "adj.", "zh": "一半的", "fix": null, "tts_risk": null}
+{"id": 250, "display": "le départ", "tts": "le départ", "pos": "n.m.", "zh": "离开，出发", "fix": null, "tts_risk": null}
+{"id": 251, "display": "dépasser", "tts": "dépasser", "pos": "v.", "zh": "超出，超过", "fix": null, "tts_risk": null}
+{"id": 252, "display": "la dépense", "tts": "la dépense", "pos": "n.f.", "zh": "开支，费用", "fix": null, "tts_risk": null}
+{"id": 253, "display": "le député", "tts": "le député", "pos": "n.m.", "zh": "众议员", "fix": null, "tts_risk": null}
+{"id": 254, "display": "descendre", "tts": "descendre", "pos": "v.", "zh": "下降", "fix": null, "tts_risk": null}
+{"id": 255, "display": "désolé", "tts": "désolé", "pos": "adj.", "zh": "抱歉的，遗憾的", "fix": null, "tts_risk": null}
+{"id": 256, "display": "le dessert", "tts": "le dessert", "pos": "n.m.", "zh": "餐后点心", "fix": null, "tts_risk": "dessert /desɛʁ/ ≠ désert"}
+{"id": 257, "display": "devoir", "tts": "devoir", "pos": "v.", "zh": "必须，应该，欠", "fix": "ajout du sens « owe » = 欠", "tts_risk": null}
+{"id": 258, "display": "le dieu", "tts": "le dieu", "pos": "n.m.", "zh": "上帝，神", "fix": null, "tts_risk": null}
+{"id": 259, "display": "difficile", "tts": "difficile", "pos": "adj.", "zh": "困难的", "fix": null, "tts_risk": null}
+{"id": 260, "display": "le dimanche", "tts": "le dimanche", "pos": "n.m.", "zh": "星期日", "fix": null, "tts_risk": null}
+{"id": 261, "display": "le dîner", "tts": "le dîner", "pos": "n.m.", "zh": "晚餐", "fix": null, "tts_risk": null}
+{"id": 262, "display": "dire", "tts": "dire", "pos": "v.", "zh": "说", "fix": null, "tts_risk": null}
+{"id": 263, "display": "le directeur", "tts": "le directeur", "pos": "n.m.", "zh": "校长，经理", "fix": null, "tts_risk": null}
+{"id": 264, "display": "la discussion", "tts": "la discussion", "pos": "n.f.", "zh": "讨论", "fix": null, "tts_risk": null}
+{"id": 265, "display": "le disque", "tts": "le disque", "pos": "n.m.", "zh": "唱片", "fix": null, "tts_risk": null}
+{"id": 266, "display": "la distance", "tts": "la distance", "pos": "n.f.", "zh": "距离", "fix": null, "tts_risk": null}
+{"id": 267, "display": "divorcé", "tts": "divorcé", "pos": "adj.", "zh": "离婚的", "fix": null, "tts_risk": null}
+{"id": 268, "display": "le divorce", "tts": "le divorce", "pos": "n.m.", "zh": "离婚", "fix": null, "tts_risk": null}
+{"id": 269, "display": "le doctorat", "tts": "le doctorat", "pos": "n.m.", "zh": "博士学位", "fix": null, "tts_risk": null}
+{"id": 270, "display": "le document", "tts": "le document", "pos": "n.m.", "zh": "文件", "fix": null, "tts_risk": null}
+{"id": 271, "display": "le documentaire", "tts": "le documentaire", "pos": "n.m.", "zh": "纪录影片", "fix": null, "tts_risk": null}
+{"id": 272, "display": "donner", "tts": "donner", "pos": "v.", "zh": "给", "fix": null, "tts_risk": null}
+{"id": 273, "display": "dormir", "tts": "dormir", "pos": "v.", "zh": "睡觉", "fix": null, "tts_risk": null}
+{"id": 274, "display": "le dossier", "tts": "le dossier", "pos": "n.m.", "zh": "档案材料", "fix": null, "tts_risk": null}
+{"id": 275, "display": "la douche", "tts": "la douche", "pos": "n.f.", "zh": "淋浴", "fix": null, "tts_risk": null}
+{"id": 276, "display": "le drap", "tts": "le drap", "pos": "n.m.", "zh": "床单", "fix": "大毛巾 = grande serviette ; drap = 床单", "tts_risk": null}
+{"id": 277, "display": "le droit", "tts": "le droit", "pos": "n.m.", "zh": "权利", "fix": null, "tts_risk": null}
+{"id": 278, "display": "dynamique", "tts": "dynamique", "pos": "adj.", "zh": "运动的，有活力的", "fix": null, "tts_risk": null}
+{"id": 279, "display": "l'eau minérale", "tts": "l'eau minérale", "pos": "n.f.", "zh": "矿泉水", "fix": null, "tts_risk": null}
+{"id": 280, "display": "échanger", "tts": "échanger", "pos": "v.", "zh": "交换", "fix": null, "tts_risk": null}
+{"id": 281, "display": "l'écharpe", "tts": "l'écharpe", "pos": "n.f.", "zh": "围巾", "fix": "肩带 = bandoulière ; écharpe = 围巾", "tts_risk": null}
+{"id": 282, "display": "écouter", "tts": "écouter", "pos": "v.", "zh": "听", "fix": null, "tts_risk": null}
+{"id": 283, "display": "l'écran", "tts": "l'écran", "pos": "n.m.", "zh": "屏幕", "fix": null, "tts_risk": null}
+{"id": 284, "display": "écrire", "tts": "écrire", "pos": "v.", "zh": "写", "fix": null, "tts_risk": null}
+{"id": 285, "display": "l'écrivain", "tts": "l'écrivain", "pos": "n.m.", "zh": "作家，作者", "fix": null, "tts_risk": null}
+{"id": 286, "display": "l'église", "tts": "l'église", "pos": "n.f.", "zh": "教堂", "fix": "教会 = institution ; église (bâtiment) = 教堂", "tts_risk": null}
+{"id": 287, "display": "électrique", "tts": "électrique", "pos": "adj.", "zh": "电的", "fix": null, "tts_risk": null}
+{"id": 288, "display": "embrasser", "tts": "embrasser", "pos": "v.", "zh": "拥抱，亲吻", "fix": "ajout du sens « kiss » = 亲吻", "tts_risk": null}
+{"id": 289, "display": "l'émotion", "tts": "l'émotion", "pos": "n.f.", "zh": "感情", "fix": null, "tts_risk": null}
+{"id": 290, "display": "l'employé", "tts": "l'employé", "pos": "n.m.", "zh": "职员，雇员", "fix": null, "tts_risk": null}
+{"id": 291, "display": "en avance", "tts": "en avance", "pos": "expr.", "zh": "提前", "fix": null, "tts_risk": null}
+{"id": 292, "display": "en retard", "tts": "en retard", "pos": "expr.", "zh": "迟到", "fix": null, "tts_risk": null}
+{"id": 293, "display": "enchanté", "tts": "enchanté", "pos": "adj.", "zh": "非常高兴的", "fix": null, "tts_risk": null}
+{"id": 294, "display": "l'énergie", "tts": "l'énergie", "pos": "n.f.", "zh": "能量，精力", "fix": "毅力 = persévérance ; énergie = 能量，精力", "tts_risk": null}
+{"id": 295, "display": "s'ennuyer", "tts": "s'ennuyer", "pos": "v.", "zh": "感到厌倦", "fix": null, "tts_risk": null}
+{"id": 296, "display": "énorme", "tts": "énorme", "pos": "adj.", "zh": "巨大的", "fix": null, "tts_risk": null}
+{"id": 297, "display": "l'enquête", "tts": "l'enquête", "pos": "n.f.", "zh": "调查", "fix": null, "tts_risk": null}
+{"id": 298, "display": "enquêter", "tts": "enquêter", "pos": "v.", "zh": "调查", "fix": null, "tts_risk": null}
+{"id": 299, "display": "ensemble", "tts": "ensemble", "pos": "adv.", "zh": "共同，一起", "fix": null, "tts_risk": null}
+{"id": 300, "display": "entendre", "tts": "entendre", "pos": "v.", "zh": "听见", "fix": null, "tts_risk": null}
+{"id": 301, "display": "l'entrée", "tts": "l'entrée", "pos": "n.f.", "zh": "入口，头盘", "fix": "ajout du sens « starter » (repas) = 头盘", "tts_risk": null}
+{"id": 302, "display": "l'entreprise", "tts": "l'entreprise", "pos": "n.f.", "zh": "企业，公司", "fix": null, "tts_risk": null}
+{"id": 303, "display": "entrer", "tts": "entrer", "pos": "v.", "zh": "进入", "fix": null, "tts_risk": null}
+{"id": 304, "display": "l'environnement", "tts": "l'environnement", "pos": "n.m.", "zh": "环境", "fix": null, "tts_risk": null}
+{"id": 305, "display": "envoyer", "tts": "envoyer", "pos": "v.", "zh": "寄，送", "fix": null, "tts_risk": null}
+{"id": 306, "display": "l'époque", "tts": "l'époque", "pos": "n.f.", "zh": "时代", "fix": null, "tts_risk": null}
+{"id": 307, "display": "épouser", "tts": "épouser", "pos": "v.", "zh": "和……结婚", "fix": "娶 = seulement un homme épousant une femme", "tts_risk": null}
+{"id": 308, "display": "équipé", "tts": "équipé", "pos": "adj.", "zh": "设备齐全的", "fix": null, "tts_risk": null}
+{"id": 309, "display": "l'escalier", "tts": "l'escalier", "pos": "n.m.", "zh": "楼梯", "fix": null, "tts_risk": null}
+{"id": 310, "display": "l'espace", "tts": "l'espace", "pos": "n.m.", "zh": "空间", "fix": null, "tts_risk": null}
+{"id": 311, "display": "espérer", "tts": "espérer", "pos": "v.", "zh": "希望", "fix": null, "tts_risk": null}
+{"id": 312, "display": "essayer", "tts": "essayer", "pos": "v.", "zh": "尝试", "fix": null, "tts_risk": null}
+{"id": 313, "display": "l'étage", "tts": "l'étage", "pos": "n.m.", "zh": "楼层", "fix": "（楼房的）层 reformulé sans parenthèses", "tts_risk": null}
+{"id": 314, "display": "l'état", "tts": "l'état", "pos": "n.m.", "zh": "状态，国家", "fix": "ajout du sens « État » = 国家", "tts_risk": null}
+{"id": 315, "display": "l'été", "tts": "l'été", "pos": "n.m.", "zh": "夏天", "fix": null, "tts_risk": null}
+{"id": 316, "display": "ethnique", "tts": "ethnique", "pos": "adj.", "zh": "民族的，民族风格的", "fix": "种族的 = racial ; ethnique = 民族（风格）的", "tts_risk": null}
+{"id": 317, "display": "l'étranger", "tts": "l'étranger", "pos": "n.m.", "zh": "外国人", "fix": null, "tts_risk": null}
+{"id": 318, "display": "être", "tts": "être", "pos": "v.", "zh": "是", "fix": null, "tts_risk": null}
+{"id": 319, "display": "l'étudiante", "tts": "l'étudiante", "pos": "n.f.", "zh": "女大学生", "fix": null, "tts_risk": null}
+{"id": 320, "display": "l'euro", "tts": "l'euro", "pos": "n.m.", "zh": "欧元", "fix": null, "tts_risk": null}
+{"id": 321, "display": "européen", "tts": "européen", "pos": "adj.", "zh": "欧洲的", "fix": null, "tts_risk": null}
+{"id": 322, "display": "l'examen", "tts": "l'examen", "pos": "n.m.", "zh": "考试，检查", "fix": "ajout du sens « examen médical » = 检查", "tts_risk": null}
+{"id": 323, "display": "s'excuser", "tts": "s'excuser", "pos": "v.", "zh": "道歉", "fix": "原谅 = pardonner ; s'excuser = 道歉", "tts_risk": null}
+{"id": 324, "display": "l'exemple", "tts": "l'exemple", "pos": "n.m.", "zh": "例子", "fix": null, "tts_risk": null}
+{"id": 325, "display": "l'exercice", "tts": "l'exercice", "pos": "n.m.", "zh": "练习", "fix": null, "tts_risk": null}
+{"id": 326, "display": "exotique", "tts": "exotique", "pos": "adj.", "zh": "异国情调的", "fix": "外来的 = importé ; exotique = 异国情调的", "tts_risk": null}
+{"id": 327, "display": "l'expérience", "tts": "l'expérience", "pos": "n.f.", "zh": "经验，经历，实验", "fix": "ajout des sens « vécu » 经历 et « experiment » 实验", "tts_risk": null}
+{"id": 328, "display": "expliquer", "tts": "expliquer", "pos": "v.", "zh": "解释", "fix": null, "tts_risk": null}
+{"id": 329, "display": "l'exposition", "tts": "l'exposition", "pos": "n.f.", "zh": "展览", "fix": null, "tts_risk": null}
+{"id": 330, "display": "extraordinaire", "tts": "extraordinaire", "pos": "adj.", "zh": "非凡的，了不起的", "fix": "特别的 = spécial ; extraordinaire = 非凡的", "tts_risk": null}
+{"id": 331, "display": "la faculté", "tts": "la faculté", "pos": "n.f.", "zh": "院系，专科", "fix": null, "tts_risk": null}
+{"id": 332, "display": "avoir faim", "tts": "avoir faim", "pos": "v.", "zh": "感到饿", "fix": null, "tts_risk": null}
+{"id": 333, "display": "faire", "tts": "faire", "pos": "v.", "zh": "做", "fix": null, "tts_risk": null}
+{"id": 334, "display": "falloir (il faut)", "tts": "falloir, il faut", "pos": "v.", "zh": "必须，应该", "fix": null, "tts_risk": null}
+{"id": 335, "display": "la famille", "tts": "la famille", "pos": "n.f.", "zh": "家庭", "fix": null, "tts_risk": null}
+{"id": 336, "display": "la famine", "tts": "la famine", "pos": "n.f.", "zh": "饥荒", "fix": "饥饿 = la faim ; famine = 饥荒", "tts_risk": null}
+{"id": 337, "display": "fatigué", "tts": "fatigué", "pos": "adj.", "zh": "劳累的", "fix": null, "tts_risk": null}
+{"id": 338, "display": "la faute", "tts": "la faute", "pos": "n.f.", "zh": "错误", "fix": null, "tts_risk": null}
+{"id": 339, "display": "le fauteuil", "tts": "le fauteuil", "pos": "n.m.", "zh": "扶手椅", "fix": null, "tts_risk": null}
+{"id": 340, "display": "faux", "tts": "faux", "pos": "adj.", "zh": "假的，错误的", "fix": null, "tts_risk": null}
+{"id": 341, "display": "les félicitations", "tts": "les félicitations", "pos": "n.f.pl.", "zh": "祝贺", "fix": "庆祝 = célébrer ; félicitations = 祝贺", "tts_risk": null}
+{"id": 342, "display": "féliciter", "tts": "féliciter", "pos": "v.", "zh": "祝贺", "fix": "庆祝 = célébrer ; féliciter = 祝贺", "tts_risk": null}
+{"id": 343, "display": "féminin", "tts": "féminin", "pos": "adj.", "zh": "女性的", "fix": null, "tts_risk": null}
+{"id": 344, "display": "la fenêtre", "tts": "la fenêtre", "pos": "n.f.", "zh": "窗户", "fix": null, "tts_risk": null}
+{"id": 345, "display": "fermer", "tts": "fermer", "pos": "v.", "zh": "关", "fix": null, "tts_risk": null}
+{"id": 346, "display": "le festival", "tts": "le festival", "pos": "n.m.", "zh": "节，艺术节", "fix": "节 seul trop vague ; festival = 艺术节", "tts_risk": null}
+{"id": 347, "display": "la fête", "tts": "la fête", "pos": "n.f.", "zh": "节日，聚会", "fix": "ajout du sens « party » = 聚会", "tts_risk": null}
+{"id": 348, "display": "le feu", "tts": "le feu", "pos": "n.m.", "zh": "火", "fix": null, "tts_risk": null}
+{"id": 349, "display": "la feuille", "tts": "la feuille", "pos": "n.f.", "zh": "叶子", "fix": null, "tts_risk": null}
+{"id": 350, "display": "le mois de février", "tts": "le mois de février", "pos": "n.m.", "zh": "二月", "fix": null, "tts_risk": null}
+{"id": 351, "display": "la fille", "tts": "la fille", "pos": "n.f.", "zh": "女孩", "fix": "女儿 = fille (enfant de) ; ici girl = 女孩", "tts_risk": null}
+{"id": 352, "display": "la fille", "tts": "la fille", "pos": "n.f.", "zh": "女儿", "fix": null, "tts_risk": null}
+{"id": 353, "display": "le film", "tts": "le film", "pos": "n.m.", "zh": "电影", "fix": null, "tts_risk": null}
+{"id": 354, "display": "le fils", "tts": "le fils", "pos": "n.m.", "zh": "儿子", "fix": null, "tts_risk": "le fils /fis/ (s prononcé, pas /fil/)"}
+{"id": 355, "display": "finir", "tts": "finir", "pos": "v.", "zh": "结束", "fix": null, "tts_risk": null}
+{"id": 356, "display": "la fois", "tts": "la fois", "pos": "n.f.", "zh": "次", "fix": null, "tts_risk": null}
+{"id": 357, "display": "la fonction", "tts": "la fonction", "pos": "n.f.", "zh": "功能", "fix": null, "tts_risk": null}
+{"id": 358, "display": "le football", "tts": "le football", "pos": "n.m.", "zh": "足球", "fix": null, "tts_risk": "anglicisme football /futbɔl/"}
+{"id": 359, "display": "la forêt", "tts": "la forêt", "pos": "n.f.", "zh": "森林", "fix": null, "tts_risk": null}
+{"id": 360, "display": "la formation", "tts": "la formation", "pos": "n.f.", "zh": "培训", "fix": null, "tts_risk": null}
+{"id": 361, "display": "formidable", "tts": "formidable", "pos": "adj.", "zh": "了不起的，极好的", "fix": "巨大的 = énorme ; formidable = 极好的", "tts_risk": null}
+{"id": 362, "display": "fort", "tts": "fort", "pos": "adj.", "zh": "强壮的", "fix": null, "tts_risk": null}
+{"id": 363, "display": "le forum", "tts": "le forum", "pos": "n.m.", "zh": "论坛", "fix": null, "tts_risk": "forum /fɔʁɔm/ (-um latin)"}
+{"id": 364, "display": "le foulard", "tts": "le foulard", "pos": "n.m.", "zh": "纱巾", "fix": null, "tts_risk": null}
+{"id": 365, "display": "le four", "tts": "le four", "pos": "n.m.", "zh": "烤箱", "fix": "炉子 = poêle, réchaud ; four = 烤箱", "tts_risk": null}
+{"id": 366, "display": "la fraise", "tts": "la fraise", "pos": "n.f.", "zh": "草莓", "fix": null, "tts_risk": null}
+{"id": 367, "display": "français", "tts": "français", "pos": "adj.", "zh": "法国的", "fix": null, "tts_risk": null}
+{"id": 368, "display": "le frère", "tts": "le frère", "pos": "n.m.", "zh": "兄弟", "fix": null, "tts_risk": null}
+{"id": 369, "display": "la fresque", "tts": "la fresque", "pos": "n.f.", "zh": "壁画", "fix": null, "tts_risk": null}
+{"id": 370, "display": "la frite", "tts": "la frite", "pos": "n.f.", "zh": "炸薯条", "fix": null, "tts_risk": null}
+{"id": 371, "display": "le fruit", "tts": "le fruit", "pos": "n.m.", "zh": "水果", "fix": null, "tts_risk": null}
+{"id": 372, "display": "le garage", "tts": "le garage", "pos": "n.m.", "zh": "车库", "fix": null, "tts_risk": null}
+{"id": 373, "display": "garder", "tts": "garder", "pos": "v.", "zh": "保留，看管", "fix": "ajout du sens « keep » = 保留", "tts_risk": null}
+{"id": 374, "display": "la gare", "tts": "la gare", "pos": "n.f.", "zh": "车站", "fix": null, "tts_risk": null}
+{"id": 375, "display": "le gâteau", "tts": "le gâteau", "pos": "n.m.", "zh": "蛋糕", "fix": null, "tts_risk": null}
+{"id": 376, "display": "génial", "tts": "génial", "pos": "adj.", "zh": "太棒了，极好的", "fix": "天才的 = de génie ; génial (A1) = 太棒了", "tts_risk": null}
+{"id": 377, "display": "le génie", "tts": "le génie", "pos": "n.m.", "zh": "天才", "fix": "天资 = don naturel ; génie = 天才", "tts_risk": null}
+{"id": 378, "display": "les gens", "tts": "les gens", "pos": "n.m.pl.", "zh": "人们", "fix": null, "tts_risk": null}
+{"id": 379, "display": "gentil", "tts": "gentil", "pos": "adj.", "zh": "友善的，亲切的", "fix": "可爱的 = mignon ; gentil = 友善的", "tts_risk": null}
+{"id": 380, "display": "la glace", "tts": "la glace", "pos": "n.f.", "zh": "冰淇淋", "fix": "冰 = glace (eau gelée) ; ici ice cream = 冰淇淋", "tts_risk": null}
+{"id": 381, "display": "la grammaire", "tts": "la grammaire", "pos": "n.f.", "zh": "语法", "fix": null, "tts_risk": null}
+{"id": 382, "display": "le gramme", "tts": "le gramme", "pos": "n.m.", "zh": "克", "fix": null, "tts_risk": null}
+{"id": 383, "display": "grand", "tts": "grand", "pos": "adj.", "zh": "大的", "fix": null, "tts_risk": null}
+{"id": 384, "display": "la grand-mère", "tts": "la grand-mère", "pos": "n.f.", "zh": "奶奶，外婆", "fix": "奶奶 = côté paternel seul ; ajout 外婆", "tts_risk": null}
+{"id": 385, "display": "le graphiste", "tts": "le graphiste", "pos": "n.m.", "zh": "平面设计师", "fix": "图像工作者 imprécis ; graphiste = 平面设计师", "tts_risk": null}
+{"id": 386, "display": "gratuit", "tts": "gratuit", "pos": "adj.", "zh": "免费的", "fix": null, "tts_risk": null}
+{"id": 387, "display": "grave", "tts": "grave", "pos": "adv.", "zh": "严重地", "fix": null, "tts_risk": null}
+{"id": 388, "display": "gris", "tts": "gris", "pos": "adj.", "zh": "灰色的", "fix": null, "tts_risk": null}
+{"id": 389, "display": "le groupe", "tts": "le groupe", "pos": "n.m.", "zh": "团体", "fix": null, "tts_risk": null}
+{"id": 390, "display": "la gymnastique", "tts": "la gymnastique", "pos": "n.f.", "zh": "体操", "fix": null, "tts_risk": null}
+{"id": 391, "display": "s'habiller", "tts": "s'habiller", "pos": "v.", "zh": "穿衣", "fix": null, "tts_risk": null}
+{"id": 392, "display": "l'habitant", "tts": "l'habitant", "pos": "n.m.", "zh": "居民", "fix": null, "tts_risk": null}
+{"id": 393, "display": "habiter", "tts": "habiter", "pos": "v.", "zh": "居住", "fix": null, "tts_risk": null}
+{"id": 394, "display": "haut", "tts": "haut", "pos": "adj.", "zh": "高的", "fix": null, "tts_risk": null}
+{"id": 395, "display": "l'héritage", "tts": "l'héritage", "pos": "n.m.", "zh": "遗产", "fix": "继承 = action d'hériter ; héritage = 遗产", "tts_risk": null}
+{"id": 396, "display": "l'heure", "tts": "l'heure", "pos": "n.f.", "zh": "时间，时", "fix": null, "tts_risk": null}
+{"id": 397, "display": "heureux", "tts": "heureux", "pos": "adj.", "zh": "幸福的", "fix": null, "tts_risk": null}
+{"id": 398, "display": "l'histoire", "tts": "l'histoire", "pos": "n.f.", "zh": "历史", "fix": null, "tts_risk": null}
+{"id": 399, "display": "historique", "tts": "historique", "pos": "adj.", "zh": "历史的", "fix": null, "tts_risk": null}
+{"id": 400, "display": "l'hiver", "tts": "l'hiver", "pos": "n.m.", "zh": "冬天", "fix": null, "tts_risk": null}
+{"id": 401, "display": "l'homme", "tts": "l'homme", "pos": "n.m.", "zh": "男人", "fix": null, "tts_risk": null}
+{"id": 402, "display": "l'hôpital", "tts": "l'hôpital", "pos": "n.m.", "zh": "医院", "fix": null, "tts_risk": null}
+{"id": 403, "display": "l'horaire", "tts": "l'horaire", "pos": "n.m.", "zh": "时间表", "fix": null, "tts_risk": null}
+{"id": 404, "display": "hospitalier", "tts": "hospitalier", "pos": "adj.", "zh": "医院的", "fix": null, "tts_risk": null}
+{"id": 405, "display": "l'hôtel", "tts": "l'hôtel", "pos": "n.m.", "zh": "宾馆", "fix": null, "tts_risk": null}
+{"id": 406, "display": "l'humour", "tts": "l'humour", "pos": "n.m.", "zh": "幽默", "fix": null, "tts_risk": null}
+{"id": 407, "display": "idéal", "tts": "idéal", "pos": "adj.", "zh": "理想的", "fix": null, "tts_risk": null}
+{"id": 408, "display": "l'idée", "tts": "l'idée", "pos": "n.f.", "zh": "想法", "fix": null, "tts_risk": null}
+{"id": 409, "display": "l'île", "tts": "l'île", "pos": "n.f.", "zh": "岛", "fix": null, "tts_risk": null}
+{"id": 410, "display": "imaginer", "tts": "imaginer", "pos": "v.", "zh": "想象", "fix": null, "tts_risk": null}
+{"id": 411, "display": "l'immeuble", "tts": "l'immeuble", "pos": "n.m.", "zh": "楼房，大楼", "fix": "不动产 = bien immobilier ; immeuble = 楼房", "tts_risk": null}
+{"id": 412, "display": "l'immigré", "tts": "l'immigré", "pos": "n.m.", "zh": "入境移民", "fix": null, "tts_risk": null}
+{"id": 413, "display": "important", "tts": "important", "pos": "adj.", "zh": "重要的", "fix": null, "tts_risk": null}
+{"id": 414, "display": "impossible", "tts": "impossible", "pos": "adj.", "zh": "不可能的", "fix": null, "tts_risk": null}
+{"id": 415, "display": "impressionniste", "tts": "impressionniste", "pos": "adj.", "zh": "印象主义的", "fix": null, "tts_risk": null}
+{"id": 416, "display": "incroyable", "tts": "incroyable", "pos": "adj.", "zh": "难以相信的", "fix": null, "tts_risk": null}
+{"id": 417, "display": "l'informatique", "tts": "l'informatique", "pos": "n.f.", "zh": "信息技术，计算机科学", "fix": "计算机 = ordinateur ; informatique = 计算机科学", "tts_risk": null}
+{"id": 418, "display": "l'ingénieur", "tts": "l'ingénieur", "pos": "n.m.", "zh": "工程师", "fix": null, "tts_risk": null}
+{"id": 419, "display": "l'innovation", "tts": "l'innovation", "pos": "n.f.", "zh": "创新", "fix": "改革 = réforme ; innovation = 创新", "tts_risk": null}
+{"id": 420, "display": "s'inquiéter", "tts": "s'inquiéter", "pos": "v.", "zh": "担心", "fix": "使不安 = inquiéter qqn ; s'inquiéter = 担心", "tts_risk": null}
+{"id": 421, "display": "l'inscription", "tts": "l'inscription", "pos": "n.f.", "zh": "登记注册", "fix": null, "tts_risk": null}
+{"id": 422, "display": "s'inscrire", "tts": "s'inscrire", "pos": "v.", "zh": "登记", "fix": null, "tts_risk": null}
+{"id": 423, "display": "l'installation", "tts": "l'installation", "pos": "n.f.", "zh": "安装", "fix": null, "tts_risk": null}
+{"id": 424, "display": "installer", "tts": "installer", "pos": "v.", "zh": "安装", "fix": null, "tts_risk": null}
+{"id": 425, "display": "intelligent", "tts": "intelligent", "pos": "adj.", "zh": "聪明的", "fix": null, "tts_risk": null}
+{"id": 426, "display": "intéressant", "tts": "intéressant", "pos": "adj.", "zh": "有趣的", "fix": null, "tts_risk": null}
+{"id": 427, "display": "s'intéresser (à)", "tts": "s'intéresser à", "pos": "v.", "zh": "感兴趣", "fix": null, "tts_risk": null}
+{"id": 428, "display": "l'intérêt", "tts": "l'intérêt", "pos": "n.m.", "zh": "兴趣，利益", "fix": "利息 = intérêt bancaire ; ici interest = 兴趣", "tts_risk": null}
+{"id": 429, "display": "l'interview", "tts": "l'interview", "pos": "n.f.", "zh": "采访", "fix": null, "tts_risk": "anglicisme interview /ɛ̃tɛʁvju/"}
+{"id": 430, "display": "l'invitation", "tts": "l'invitation", "pos": "n.f.", "zh": "邀请", "fix": null, "tts_risk": null}
+{"id": 431, "display": "inviter", "tts": "inviter", "pos": "v.", "zh": "邀请", "fix": null, "tts_risk": null}
+{"id": 432, "display": "le jambon", "tts": "le jambon", "pos": "n.m.", "zh": "火腿", "fix": null, "tts_risk": null}
+{"id": 433, "display": "le mois de janvier", "tts": "le mois de janvier", "pos": "n.m.", "zh": "一月", "fix": null, "tts_risk": null}
+{"id": 434, "display": "le jardin", "tts": "le jardin", "pos": "n.m.", "zh": "花园", "fix": null, "tts_risk": null}
+{"id": 435, "display": "jaune", "tts": "jaune", "pos": "adj.", "zh": "黄色的", "fix": null, "tts_risk": null}
+{"id": 436, "display": "le jeu", "tts": "le jeu", "pos": "n.m.", "zh": "游戏", "fix": null, "tts_risk": null}

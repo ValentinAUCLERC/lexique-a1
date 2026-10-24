@@ -1,0 +1,218 @@
+id|fr|en|zh|unit
+655|producteur (n.m.)|producer (n.)|生产者（阳性名词）|U6
+656|produire (v.)|produce (v.)|生产（动词）|U8
+657|produit (n.m.)|product (n.)|产品（阳性名词）|U6
+658|profession (n.f.)|profession (n.)|职业（阴性名词）|U1
+659|professionnel (adj.)|professional (adj.)|专业的（形容词）|U8
+660|programme (n.m.)|programme (TV), program (computer) (n.)|节目（阳性名词）|U3
+661|projection (n.f.)|projection (n.)|发射（阴性名词）|U7
+662|projet (n.m.)|project (n.)|项目（阳性名词）|U4
+663|promenade (n.f.)|walk (n.)|散步（阴性名词）|U2
+664|promener (se) (v.)|walk (v.)|散步（动词）|U3
+665|prononcer (v.)|pronounce (v.)|宣布（动词）|U0
+666|proposer (v.)|propose (v.)|建议（动词）|U7
+667|proposition (n.f.)|proposal (n.)|建议（阴性名词）|U7
+668|public (n.m.)|public (n.)|公众（阳性名词）|U8
+669|publication (n.f.)|publication (n.)|公布（阴性名词）|U7
+670|pull (n.m.)|jumper (n.)|套衫（阳性名词）|U6
+671|quart (n.m.)|quarter (n.)|四分之一（阳性名词）|U3
+672|quartier (n.m.)|district (n.)|区（阳性名词）|U1
+673|quitter (v.)|quit (v.)|离开（动词）|U8
+674|radio (n.f.)|radio (n.)|无线广播（阴性名词）|U1
+675|radio-réveil (n.m.)|alarm clock (n.)|收音机闹钟（阳性名词）|U6
+676|rallye (n.m.)|rally (n.)|赛跑会（阳性名词）|U4
+677|randonnée (n.f.)|hiking (n.)|出游，远足（阴性名词）|U4
+678|rap (n.m.)|rap (n.)|说唱（阳性名词）|U8
+679|rapide (adj.)|fast (adj.)|快的（形容词）|U9
+680|rappeler (se) (v.)|remember (v.)|回忆起（动词）|U8
+681|rappeler (v.)|call back (v.)|召回（动词）|U7
+682|rapporter (v.)|report (v.)|再拿来（动词）|U7
+683|rater (v.)|miss (v.)|失败（动词）|U8
+684|recevoir (v.)|receive (v.)|收到（动词）|U5
+685|recherche (n.f.)|research (n.)|寻找（阴性名词）|U7
+686|récompense (n.f.)|reward (n.)|补偿（阴性名词）|U7
+687|refuser (v.)|refuse (v.)|拒绝（动词）|U6
+688|régime (n.m.)|diet, regime (n.)|政体（阳性名词）|U4
+689|région (n.f.)|region (n.)|地区（阴性名词）|U4
+690|regretter (v.)|regret (v.)|后悔（动词）|U8
+691|reine (n.f.)|queen (n.)|王后，皇后（阴性名词）|U1
+692|relier (v.)|link up (v.)|连接（动词）|U0
+693|rembourser (v.)|repay (v.)|偿还（动词）|U5
+694|remercier (v.)|thank (v.)|感谢（动词）|U6
+695|rendez-vous (n.m.)|appointment, date (n.)|约会（阳性名词）|U3
+696|rentrer (v.)|return (v.)|回来（动词）|U4
+697|répéter (v.)|repeat (v.)|重复（动词）|U0
+698|répondre (v.)|answer (v.)|回答（动词）|U0
+699|reposer (se) (v.)|rest (v.)|休息（动词）|U4
+700|responsable (adj.)|responsible (adj.)|负责的（形容词）|U6
+701|restaurant (n.m.)|restaurant (n.)|饭店（阳性名词）|U0
+702|rester (v.)|stay (v.)|待（动词）|U4
+703|retenue (n.f.)|restraint (n.)|扣留，扣除（阴性名词）|U5
+704|retour (n.m.)|return (n.)|返回（阳性名词）|U4
+705|retraite (n.f.)|retirement (n.)|退休（阴性名词）|U7
+706|réunion (n.f.)|meeting (n.)|集合（阴性名词）|U5
+707|rêve (n.m.)|dream (n.)|梦想（阳性名词）|U5
+708|réveiller (se) (v.)|wake up (v.)|醒来（动词）|U3
+709|rez-de-chaussée (n.m.)|ground floor (n.)|底层（阳性名词）|U9
+710|rivière (n.f.)|river (n.)|河（阴性名词）|U4
+711|riz (n.m.)|rice (n.)|米（阳性名词）|U4
+712|robe (n.f.)|dress (n.)|连衣裙（阴性名词）|U6
+713|roi (n.m.)|king (n.)|国王（阳性名词）|U1
+714|roller (n.m.)|rollerskate, rollerblade (n.)|旱冰鞋（阳性名词）|U3
+715|roman (n.m.)|novel (n.)|长篇小说（阳性名词）|U5
+716|romantique (adj.)|romantic (adj.)|浪漫主义的（形容词）|U5
+717|rue (n.f.)|street (n.)|街道（阴性名词）|U1
+718|rythme (n.m.)|rhythm (n.)|节奏（阳性名词）|U8
+719|s’il vous plaît|please|请|U0
+720|salade (n.f.)|salad, lettuce (n.)|沙拉（阴性名词）|U4
+721|salle à manger (n.f.)|dining room (n.)|饭厅（阴性名词）|U9
+722|salle de bain (n.f.)|bathroom (n.)|浴室（阴性名词）|U3
+723|salon (n.m.)|living room (n.)|客厅（阳性名词）|U5
+724|salut|hi|你好|U0
+725|samedi (n.m.)|saturday (n.)|星期六（阳性名词）|U2
+726|santé (n.f.)|health (n.)|健康（阴性名词）|U6
+727|satisfait (adj.)|satisfied (adj.)|满意的（形容词）|U6
+728|sauce (n.f.)|sauce (n.)|调味汁（阴性名词）|U4
+729|saucisson (n.m.)|salami (n.)|腊肠（阳性名词）|U4
+730|saumon (n.m.)|salmon (n.)|鲑鱼（阳性名词）|U4
+731|savoir (v.)|know (v.)|知道（动词）|U4
+732|scène (n.f.)|stage (n.)|场景（阴性名词）|U8
+733|science-fiction (n.f.)|science fiction (n.)|科学幻想小说（阴性名词）|U3
+734|scientifique (adj.)|scientific (adj.)|科学地（形容词）|U1
+735|sculpture (n.f.)|sculpture (n.)|雕刻（阴性名词）|U8
+736|séance (n.f.)|session (n.)|会议（阴性名词）|U3
+737|secrétaire (n.)|secretary (n.)|秘书（名词）|U7
+738|sécurité (n.f.)|security (n.)|安全（阴性名词）|U7
+739|sentimental (adj.)|sentimental (adj.)|多愁善感的（形容词）|U8
+740|séparer (v.)|separate (v.)|分开（动词）|U9
+741|septembre (n.m.)|September (n.)|九月（阳性名词）|U2
+742|série (n.f.)|series (n.)|系列（阴性名词）|U1
+743|serveur (n.m.)|server (n.)|服务也（阳性名词）|U7
+744|service (n.m.)|department (n.)|服务（阳性名词）|U2
+745|seul (adj.)|alone, only (adj.)|单独的（形容词）|U5
+746|siècle (n.m.)|century (n.)|世纪（阳性名词）|U2
+747|simple (adj.)|simple (adj.)|简单的（形容词）|U6
+748|site (n.m.)|site (n.)|风景（阳性名词）|U1
+749|situé (adj.)|located (adj.)|位于……的（形容词）|U9
+750|ski (n.m.)|skiing (n.)|滑雪（阳性名词）|U4
+751|skier (v.)|ski (v.)|滑雪者（名词）|U4
+752|société (n.f.)|company, society (n.)|社会（阴性名词）|U7
+753|sœur (n.f.)|sister (n.)|姐妹（阴性名词）|U3
+754|soir (n.m.)|evening (n.)|傍晚（阳性名词）|U3
+755|soir (n.m.)|evening (n.)|傍晚（阳性名词）|U3
+756|soirée (n.f.)|evening (n.)|夜间（阴性名词）|U4
+757|soleil (n.m.)|sun (n.)|太阳（阳性名词）|U5
+758|sombre (adj.)|dark (adj.)|阴暗的（形容词）|U9
+759|son (n.m.)|sound (n.)|声音（阳性名词）|U8
+760|sortie (n.f.)|exit (n.)|出口（阴性名词）|U2
+761|sortir (v.)|exit, go out (v.)|出去（动词）|U3
+762|souhaiter (v.)|wish (v.)|期望（动词）|U7
+763|sourd (adj.)|deaf (adj.)|沉闷的（形容词）|U8
+764|souvenir (n.m.)|memory, souvenir (n.)|记忆（阳性名词）|U6
+765|spécialité (n.f.)|speciality (n.)|专科，专业（阴性名词）|U6
+766|spectacle (n.m.)|show (n.)|景象，场面（阳性名词）|U2
+767|sport (n.m)|sport (n.)|运动（阳性名词）|U1
+768|sportif (adj.)|sporty (adj.)|运动的（形容词）|U4
+769|stable (adj.)|stable (adj.)|稳定的（形容词）|U7
+770|stage (n.m.)|work experience, training course (n.)|实习期（阳性名词）|U6
+771|stagiaire (n.)|intern, student (n.)|实习生（名词）|U6
+772|star (n.f.)|star (n.)|明星（阴性名词）|U7
+773|stresser (v.)|stress (v.)|紧张（动词）|U8
+774|style (n.m.)|style (n.)|风格（阳性名词）|U8
+775|styliste (n.)|fashion designer (n.)|服装设计师（名词）|U9
+776|stylo (n.m.)|pen (n.)|钢笔（阳性名词）|U6
+777|sud (n.m.)|south (n.)|南（阳性名词）|U8
+778|suivre (v.)|follow (v.)|跟随（动词）|U9
+779|sujet (n.m.)|subject (n.)|主题（阳性名词）|U8
+780|super (adv.)|super (adv.)|很好，超（副词）|U0
+781|supérieur (adj.)|superior (adj.)|高级的（形容词）|U3
+782|supermarché (n.m.)|supermarket (n.)|超市（阳性名词）|U6
+783|sûr (adj.)|sure (adj.)|确定的（形容词）|U9
+784|surpris (adj.)|surprised (adj.)|惊奇的（形容词）|U6
+785|surprise (n.f.)|surprise (n.)|惊喜（阴性名词）|U4
+786|symphonie (n.f.)|symphony (n.)|交响乐（阴性名词）|U7
+787|tableau (n.m.)|table (n.)|图表（阳性名词）|U0
+788|tableau (n.m.)|painting (n.)|画儿（阳性名词）|U2
+789|talent (n.m.)|talent (n.)|才能（阳性名词）|U8
+790|tante (n.f.)|aunt (n.)|姑母，姨母（阴性名词）|U3
+791|tapis (n.m.)|rug (n.)|地毯（阳性名词）|U9
+792|tarte (n.f.)|tart (n.)|蛋挞（阴性名词）|U4
+793|tas (n.m.)|pile (n.)|堆（阳性名词）|U8
+794|tasse (n.f.)|cup (n.)|一杯的容量（阴性名词）|U7
+795|taxi (n.m.)|taxi (n.)|出租车（阳性名词）|U5
+796|technicien (n.m.)|technician (n.)|技术人员（阳性名词）|U5
+797|technologique (adj.)|technological (adj.)|工艺的（形容词）|U6
+798|téléphone (n.m.)|telephone (n.)|电话（阳性名词）|U1
+799|téléviseur (n.m.)|television set (n.)|电视机（阳性名词）|U6
+800|télévision (n.f.)|TV (n.)|电视（阴性名词）|U1
+801|témoignage (n.m.)|testimony (n.)|证据（阴性名词）|U7
+802|température (n.f.)|temperature (n.)|温度（阴性名词）|U5
+803|tendance (n.f.)|trend (n.)|倾向（阴性名词）|U9
+804|tennis (n.m.)|tennis (n.)|网球（阳性名词）|U1
+805|tennis (n.m.)|tennis (n.)|网球（阳性名词）|U3
+806|terrasse (n.f.)|terrace (n.)|平台（阴性名词）|U2
+807|thé (n.m.)|tea (n.)|茶（阳性名词）|U4
+808|théâtre (n.m.)|theatre (n.)|剧院（阳性名词）|U1
+809|thèse (n.f.)|thesis (n.)|论文（阴性名词）|U7
+810|thon (n.m.)|tuna (n.)|金枪鱼（阳性名词）|U4
+811|tiers-monde (n.m.)|third world (n.)|第三世界（阳性名词）|U8
+812|tissu (n.m.)|fabric (n.)|组织（阳性名词）|U9
+813|toilettes (n.f.pl.)|toilets (n.pl.)|洗手间（阴性名词复数）|U9
+814|tomate (n.f.)|tomato (n.)|番茄（阴性名词）|U4
+815|toucher (v.)|touch (v.)|触（动词）|U8
+816|tour (n.f.)|tower (n.)|塔（阴性名词）|U1
+817|touriste (n.)|tourist (n.)|旅游者（名词）|U1
+818|touriste (n.m.)|tourist (n.)|游客（阳性名词）|U5
+819|tourner (v.)|turn (v.)|转弯（动词）|U2
+820|tradition (n.f.)|tradition (n.)|传统（阴性名词）|U8
+821|traditionnel (adj.)|traditional (adj.)|传统的（形容词）|U3
+822|traducteur (n.m.)|translator (n.)|翻译（阳性名词）|U8
+823|train (TGV) (n.m.)|train (n.)|火车（阳性名词）|U5
+824|traîneau (n.m.)|sleigh (n.)|雪车（阳性名词）|U5
+825|tranche (n.f.)|slice (n.)|片，薄片（阴性名词）|U4
+826|transaction (n.f.)|transaction (n.)|交易（阴性名词）|U6
+827|transport (n.m.)|transport (n.)|运输（阳性名词）|U7
+828|travail (n.m.)|work (n.)|工作（阳性名词）|U3
+829|travailler (v.)|work (v.)|工作（动词）|U2
+830|traverser (v.)|cross (v.)|穿过（动词）|U5
+831|traversin (n.m.)|bolster (n.)|横梁（阳性名词）|U9
+832|trouver (v.)|find (v.)|找到（动词）|U4
+833|unique (adj.)|unique (adj.)|唯一的（形容词）|U3
+834|unité (n.f.)|unit (n.)|单元（阴性名词）|U0
+835|université (n.f.)|university (n.)|大学（阴性名词）|U0
+836|utile (adj.)|useful (adj.)|有用的（形容词）|U6
+837|vacances (n.f.pl.)|holiday (n.)|假期（阴性名词复数）|U5
+838|valeur (n.f.)|value (n.)|价值（阴性名词）|U8
+839|valider (v.)|validate (v.)|使生效（动词）|U6
+840|vanille (n.f.)|vanilla (n.)|香草（阴性名词）|U4
+841|végétarien (adj.)|vegetarian (adj.)|素食的（形容词）|U4
+842|vélo (n.m.)|bike (n.)|自行车（阳性名词）|U4
+843|vendre (v.)|sell (v.)|出售（动词）|U6
+844|vendredi (n.m.)|Friday (n.)|星期五（阳性名词）|U2
+845|venir (v.)|come (v.)|来（动词）|U2
+846|vent (n.m.)|wind (n.)|风（阳性名词）|U5
+847|véritable (adj.)|real (adj.)|真实的（形容词）|U9
+848|verre (n.m.)|glass (n.)|玻璃（阳性名词）|U6
+849|version originale (n.f.)|original version (n.)|原版（阴性名词）|U3
+850|veste (n.f.)|jacket (n.)|上装（阴性名词）|U6
+851|viande (n.f.)|meat (n.)|肉类（阴性名词）|U4
+852|vide-grenier (n.m.)|garage sale (n.)|旧货集市（阳性名词）|U9
+853|vieux / vieille (adj.)|old (adj.)|年老的（形容词）|U2
+854|village (n.m.)|village (n.)|乡村（阳性名词）|U4
+855|ville (n.f.)|town (n.)|城市（阴性名词）|U2
+856|vin (n.m.)|vine (n.)|酒（阳性名词）|U2
+857|vinaigrette (n.f.)|vinaigrette (n.)|酸醋调味汁（阴性名词）|U4
+858|visiter (v.)|visit (v.)|餐馆（动词）|U5
+859|vivre (v.)|live (v.)|活着，生存（动词）|U7
+860|vocabulaire (n.m.)|vocabulary (n.)|词汇（阳性名词）|U0
+861|vœu (n.m.)|wish (n.)|祝愿（阳性名词）|U7
+862|voir (v.)|see (v.)|看（动词）|U2
+863|voisin (n.m.)|neighbour (n.)|邻居（阳性名词）|U7
+864|voiture (n.f.)|car (n.)|汽车（阴性名词）|U5
+865|volley-ball (n.m.)|volleyball (n.)|排球（阳性名词）|U8
+866|vouloir (v.)|want (v.)|愿意，想（动词）|U4
+867|voyage (n.m.)|trip (n.)|旅行（阳性名词）|U5
+868|voyager (v.)|travel (v.)|旅行（动词）|U5
+869|vrai (adj.)|true (adj.)|真的（形容词）|U3
+870|vue (n.f.)|view (n.)|视线（阴性名词）|U2
+871|yaourt (n.m.)|yoghurt (n.)|酸奶（阳性名词）|U4

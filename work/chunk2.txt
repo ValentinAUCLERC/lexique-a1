@@ -1,0 +1,219 @@
+id|fr|en|zh|unit
+219|cours (n.m.)|class (n.)|课程，过程（阳性名词）|U3
+220|courses (n.f.pl.)|shopping (n.)|购物（阴性名词复数）|U3
+221|court (adj.)|short (adj.)|短的（形容词）|U6
+222|cousin (n.m.)|cousin (n.)|堂兄弟（阳性名词）|U3
+223|coussin (n.m.)|cushion (n.)|坐垫（阳性名词）|U9
+224|coûter (v.)|cost (v.)|值（多少钱），花费（动词）|U6
+225|couverture (n.f.)|cover (n.)|屋顶，封面（阴性名词）|U9
+226|covoiturage (n.m.)|carpooling (n.)|拼车（阳性名词）|U4
+227|cravate (n.f.)|tie (n.)|领带（阴性名词）|U6
+228|création (n.f.)|creation (n.)|创造（阴性名词）|U4
+229|créer (v.)|create (v.)|创造（动词）|U1
+230|crise (n.f.)|crisis (n.)|危机（阴性名词）|U8
+231|croire (v.)|believe (v.)|相信（动词）|U7
+232|croissant (n.m.)|croissant (n.)|牛角面包（阳性名词）|U0
+233|cuisine (n.f.)|kitchen, cuisine (n.)|厨房（阴性名词）|U6
+234|danser (v.)|dance (v.)|跳舞（动词）|U5
+235|date (n.f.)|date (n.)|日期（阴性名词）|U2
+236|date de naissance (n.f.)|date of birth (n.)|出生日期（阴性名词）|U1
+237|de rien|you're welcome|没关系|U0
+238|débat (n.m.)|debate (n.)|讨论，辩论（阳性名词）|U8
+239|décembre (n.m.)|December (n.)|十二月（阳性名词）|U2
+240|déception (n.f.)|disappointment (n.)|失望（阴性名词）|U8
+241|décontracté (adj.)|relaxed (adj.)|轻松的（形容词）|U6
+242|décorer (v.)|decorate (v.)|装饰（动词）|U9
+243|découverte (n.f.)|discovery (n.)|发现（阴性名词）|U4
+244|découvrir (v.)|discover (v.)|发现（动词）|U4
+245|déjeuner (v.)|lunch (v.)|吃早饭（动词）|U2
+246|délai (n.m.)|deadline, wait (n.)|期限，延期（阳性名词）|U6
+247|délicieux (adj.)|delicious (adj.)|美味的（形容词）|U5
+248|demander (v.)|ask (v.)|请求（动词）|U0
+249|demi (adj.)|half (adj.)|一半的（形容词）|U3
+250|départ (n.m.)|departure (n.)|离开，出发（阳性名词）|U5
+251|dépasser (v.)|exceed, overtake (v.)|超出，超过（动词）|U6
+252|dépense (n.f.)|expense (n.)|开支，费用（阴性名词）|U8
+253|député (n.m)|member of the Assemblée nationale (French parliament) (n.)|众议员（阳性名词）|U8
+254|descendre (v.)|descend (v.)|下降（动词）|U5
+255|désolé (adj.)|sorry (adj.)|抱歉的，遗憾的（形容词）|U3
+256|dessert (n.m.)|dessert (n.)|餐后点心（阳性名词）|U4
+257|devoir (v.)|owe, have to (v.)|应该（动词）|U4
+258|dieu (n.m.)|god (n.)|上帝，神（阳性名词）|U8
+259|difficile (adj.)|difficult (adj.)|困难的（形容词）|U5
+260|dimanche (n.m.)|Sunday (n.)|星期日（阳性名词）|U2
+261|dîner (n.m.)|dinner (n.)|晚餐（阳性名词）|U4
+262|dire (v.)|say, tell (v.)|说（动词）|U2
+263|directeur (n.m.)|director (n.)|校长，经理（阳性名词）|U5
+264|discussion (n.f.)|discussion (n.)|讨论（阴性名词）|U7
+265|disque (n.m.)|disc (n.)|唱片（阳性名词）|U8
+266|distance (n.f.)|distance (n.)|距离（阴性名词）|U9
+267|divorcé (adj.)|divorced (adj.)|离婚的（形容词）|U3
+268|divorce (n.m.)|divorce (n.)|离婚（阳性名词）|U8
+269|doctorat (n.m.)|phd (n.)|博士学位（阳性名词）|U5
+270|document (n.m.)|document (n.)|文件（阳性名词）|U0
+271|documentaire (n.m.)|documentary (n.)|纪录影片（阳性名词）|U7
+272|donner (v.)|give (v.)|给（动词）|U5
+273|dormir (v.)|sleep (v.)|睡觉（动词）|U5
+274|dossier (n.m.)|file (n.)|档案材料（阳性名词）|U9
+275|douche (n.f.)|shower (n.)|淋浴（阴性名词）|U3
+276|drap (n.m.)|sheet (n.)|大毛巾（阳性名词）|U9
+277|droit (n.m.)|right (n.)|权利（阳性名词）|U9
+278|dynamique (adj.)|dynamic (adj.)|运动的，有活力的（形容词）|U3
+279|eau minérale (n.f.)|mineral water (n.)|矿泉水（阴性名词）|U4
+280|échanger (v.)|exchange, swap (v.)|交换（动词）|U5
+281|écharpe (n.f.)|scarf (n.)|肩带（阴性名词）|U6
+282|écouter (v.)|listen (v.)|听（动词）|U0
+283|écran (n.m.)|screen (n.)|屏幕（阳性名词）|U9
+284|écrire (v.)|write (v.)|写（动词）|U1
+285|écrivain (n.m.)|writer (n.)|作家，作者（阳性名词）|U1
+286|église (n.f.)|church (n.)|教会（阴性名词）|U2
+287|électrique (adj.)|electric (adj.)|电的（形容词）|U9
+288|embrasser (v.)|embrace, kiss (v.)|拥抱（动词）|U7
+289|émotion (n.f.)|emotion (n.)|感情（阴性名词）|U8
+290|employé (n.m.)|employee (n.)|职员，雇员（阳性名词）|U7
+291|en avance|early|提前|U3
+292|en retard|late|迟到|U3
+293|enchanté (adj.)|delighted (adj.)|非常高兴的（形容词）|U5
+294|énergie (n.f.)|energy (n.)|毅力（阴性名词）|U8
+295|ennuyer (s’) (v.)|bored (be) (v.)|感到厌倦（动词）|U3
+296|énorme (adj.)|enormous (adj.)|巨大的（形容词）|U8
+297|enquête (n.f.)|investigation (n.)|调查（阴性名词）|U6
+298|enquêter (v.)|investigate (v.)|调查（动词）|U8
+299|ensemble (adv.)|together (adv.)|共同，一起（副词）|U5
+300|entendre (v.)|hear (v.)|听见（动词）|U8
+301|entrée (n.f.)|entrance, starter (n.)|入口（阴性名词）|U3
+302|entreprise (n.f.)|business (n.)|企业，公司（阴性名词）|U3
+303|entrer (v.)|enter (v.)|进入（动词）|U1
+304|environnement (n.m.)|environment (n.)|环境（阳性名词）|U6
+305|envoyer (v.)|send (v.)|寄，送（动词）|U9
+306|époque (n.f.)|age, era (n.)|时代（阴性名词）|U7
+307|épouser (v.)|mary (v.)|娶（动词）|U8
+308|équipé (adj.)|equipped (adj.)|设备齐全的（形容词）|U9
+309|escalier (n.m.)|staircase (n.)|楼梯（阳性名词）|U9
+310|espace (n.m.)|space (n.)|空间（阳性名词）|U7
+311|espérer (v.)|hope (v.)|希望（动词）|U5
+312|essayer (v.)|try (v.)|尝试（动词）|U6
+313|étage (n.m.)|floor (n.)|（楼房的）层（阳性名词）|U2
+314|état (n.m.)|state (n.)|状态（阳性名词）|U8
+315|été (n.m.)|summer (n.)|夏天（阳性名词）|U2
+316|ethnique (adj.)|ethnic (adj.)|种族的（形容词）|U9
+317|étranger (n.m.)|stranger, foreigner (n.)|外国人（阳性名词）|U1
+318|être (v.)|be (v.)|是（动词）|U1
+319|étudiante (n.f.)|student (n.)|女大学生（阴性名词）|U0
+320|euro (n.m.)|euro (n.)|欧元（阳性名词）|U4
+321|européen (adj.)|European (adj.)|欧洲的（形容词）|U2
+322|examen (n.m.)|exam, medical (n.)|考试（阳性名词）|U4
+323|excuser (s’) (v.)|apologize (v.)|原谅（动词）|U0
+324|exemple (n.m.)|example (n.)|例子（阳性名词）|U2
+325|exercice (n.m.)|exercise (n.)|练习（阳性名词）|U0
+326|exotique (adj.)|exotic (adj.)|外来的（形容词）|U6
+327|expérience (n.f.)|experience, experiment (n.)|经验（阴性名词）|U5
+328|expliquer (v.)|explain (v.)|解释（动词）|U5
+329|exposition (n.f.)|exhibition (n.)|展览（阴性名词）|U7
+330|extraordinaire (adj.)|extraordinary (adj.)|特别的（形容词）|U5
+331|faculté (n.f.)|faculty (n.)|院系，专科（阴性名词）|U7
+332|faim (avoir) (v.)|hungry (be) (v.)|感到饿（动词）|U8
+333|faire (v.)|do, make (v.)|做（动词）|U3
+334|falloir (il faut) (v.)|need to do (v.)|必须，应该（动词）|U6
+335|famille (n.f.)|family (n.)|家庭（阴性名词）|U1
+336|famine (n.f.)|famine (n.)|饥饿（阴性名词）|U8
+337|fatigué (adj.)|tired (adj.)|劳累的（形容词）|U4
+338|faute (n.f.)|fault (n.)|错误（阴性名词）|U8
+339|fauteuil (n.m.)|armchair (n.)|扶手椅（阳性名词）|U9
+340|faux (adj.)|false (adj.)|假的，错误的（形容词）|U6
+341|félicitation (n.f.)|congratulation (n.)|庆祝（阴性名词）|U9
+342|féliciter (v.)|congratulate (v.)|庆祝（动词）|U7
+343|féminin (adj.)|feminine (adj.)|女性的（形容词）|U8
+344|fenêtre (n.f.)|window (n.)|窗户（阴性名词）|U9
+345|fermer (v.)|close (v.)|关（动词）|U3
+346|festival (n.m.)|festival (n.)|节（阳性名词）|U2
+347|fête (n.f.)|party, fair (n.)|节日，纪念日（阴性名词）|U2
+348|feu (n.m.)|fire (n.)|火（阳性名词）|U5
+349|feuille (n.f.)|leaf (n.)|叶子（阴性名词）|U4
+350|février (n.m.)|February (n.)|二月（阳性名词）|U2
+351|fille (n.f.)|girl (n.)|女儿（阴性名词）|U2
+352|fille (n.f.)|daughter (n.)|女儿（阴性名词）|U3
+353|film (n.m.)|film (n.)|电影（阳性名词）|U1
+354|fils (n.m.)|son (n.)|儿子（阳性名词）|U3
+355|finir (v.)|finish (v.)|结束（动词）|U3
+356|fois (n.f.)|time (n.)|次（阴性名词）|U8
+357|fonction (n.f.)|function (n.)|功能（阴性名词）|U9
+358|football (n.m.)|football (n.)|足球（阳性名词）|U8
+359|forêt (n.f.)|forest (n.)|森林（阴性名词）|U5
+360|formation (n.f.)|training (n.)|培训（阴性名词）|U7
+361|formidable (adj.)|tremendous (adj.)|巨大的（形容词）|U3
+362|fort (adj.)|strong (adj.)|强壮的（形容词）|U8
+363|forum (n.m.)|forum (n.)|论坛（阳性名词）|U1
+364|foulard (n.m.)|scarf (n.)|纱巾（阳性名词）|U6
+365|four (n.m.)|oven (n.)|炉子（阳性名词）|U9
+366|fraise (n.f.)|strawberry (n.)|草莓（阴性名词）|U3
+367|français (adj.)|French (adj.)|法国的（形容词）|U0
+368|frère (n.m.)|brother (n.)|兄弟（阳性名词）|U3
+369|fresque (n.f.)|fresco (n.)|壁画（阴性名词）|U2
+370|frite (n.f.)|French fry (n.)|炸薯条（阴性名词）|U2
+371|fruit (n.m.)|fruit (n.)|水果（阳性名词）|U4
+372|garage (n.m.)|garage (n.)|车库（阳性名词）|U9
+373|garder (v.)|keep (v.)|看管（动词）|U6
+374|gare (n.f.)|station (n.)|车站（阴性名词）|U2
+375|gâteau (n.m.)|cake (n.)|蛋糕（阳性名词）|U4
+376|génial (adj.)|great (adj.)|天才的（形容词）|U2
+377|génie (n.m.)|genius (n.)|天资（阳性名词）|U7
+378|gens (n.m.pl.)|people (n.pl.)|人们（阳性名词复数）|U5
+379|gentil (adj.)|kind (adj.)|可爱的（形容词）|U6
+380|glace (n.f.)|ice cream (n.)|冰（阴性名词）|U2
+381|grammaire (n.f.)|grammar (n.)|语法（阴性名词）|U0
+382|gramme (n.m.)|gram (n.)|克（阳性名词）|U6
+383|grand (adj.)|big (adj.)|大的（形容词）|U1
+384|grand-mère (n.f.)|grandmother (n.)|奶奶（阴性名词）|U0
+385|graphiste (n.)|graphic designer (n.)|图像工作者（名词）|U1
+386|gratuit (adj.)|free (adj.)|免费的（形容词）|U5
+387|grave (adv.)|serious (adv.)|严重地（副词）|U1
+388|gris (adj.)|grey (adj.)|灰色的（形容词）|U6
+389|groupe (n.m.)|group (n.)|团体（阳性名词）|U1
+390|gymnastique (n.f.)|gymnastics (n.)|体操（阴性名词）|U8
+391|habiller (s’) (v.)|get dressed (v.)|穿衣（动词）|U4
+392|habitant (n.m.)|inhabitant (n.)|居民（阳性名词）|U2
+393|habiter (v.)|live (v.)|居住（动词）|U1
+394|haut (adj.)|high (adj.)|高的（形容词）|U5
+395|héritage (n.m.)|heritage (n.)|继承（阳性名词）|U8
+396|heure (n.f.)|time, hour (n.)|时间，时（阴性名词）|U3
+397|heureux (adj.)|happy, fortunate (adj.)|幸福的（形容词）|U7
+398|histoire (n.f.)|history (n.)|历史（阴性名词）|U2
+399|historique (adj.)|historical (adj.)|历史的（形容词）|U5
+400|hiver (n.m.)|winter (n.)|冬天（阳性名词）|U5
+401|homme (n.m)|man (n.)|男人（阳性名词）|U1
+402|hôpital (n.m.)|hospital (n.)|医院（阳性名词）|U8
+403|horaire (n.m.)|timetable (n.)|时间表（阳性名词）|U3
+404|hospitalier (adj.)|hospital (adj.)|医院的（形容词）|U8
+405|hôtel (n.m.)|hotel (n.)|宾馆（阳性名词）|U0
+406|humour (n.m.)|humour (n.)|幽默（阳性名词）|U8
+407|idéal (adj.)|ideal (adj.)|理想的（形容词）|U8
+408|idée (n.f.)|idea (n.)|想法（阴性名词）|U3
+409|île (n.f.)|island (n.)|岛（阴性名词）|U4
+410|imaginer (v.)|imagine (v.)|想象（动词）|U6
+411|immeuble (n.m.)|building (n.)|不动产（阳性名词）|U9
+412|immigré (n.m.)|immigrant (n.)|入境移民（阳性名词）|U8
+413|important (adj.)|important (adj.)|重要的（形容词）|U4
+414|impossible (adj.)|impossible (adj.)|不可能的（形容词）|U9
+415|impressionniste (adj.)|impressionist (adj.)|印象主义的（形容词）|U5
+416|incroyable (adj.)|unbelievable (adj.)|难以相信的（形容词）|U8
+417|informatique (n.f.)|computer science (n.)|计算机（阴性名词）|U1
+418|ingénieur (n.)|engineer (n.)|工程师（名词）|U1
+419|innovation (n.f.)|innovation (n.)|改革（阴性名词）|U9
+420|inquiéter (s’) (v.)|worry (v.)|使不安（动词）|U4
+421|inscription (n.f.)|registration (n.)|登记注册（阴性名词）|U1
+422|inscrire (s’) (v.)|register (v.)|登记（动词）|U1
+423|installation (n.f.)|installation (n.)|安装（阴性名词）|U7
+424|installer (v.)|install (v.)|安装（动词）|U7
+425|intelligent (adj.)|intelligent (adj.)|聪明的（形容词）|U3
+426|intéressant (adj.)|interesting (adj.)|有趣的（形容词）|U7
+427|intéresser (s’) (v.)|take an interest in (v.)|感兴趣（动词）|U3
+428|intérêt (n.m.)|interest (n.)|利息（阳性名词）|U1
+429|interview (n.f.)|interview (n.)|采访（阴性名词）|U7
+430|invitation (n.f.)|invitation (n.)|邀请（阴性名词）|U4
+431|inviter (v.)|invite (v.)|邀请（动词）|U4
+432|jambon (n.m.)|ham (n.)|火腿（阳性名词）|U4
+433|janvier (n.m.)|January (n.)|一月（阳性名词）|U2
+434|jardin (n.m.)|garden (n.)|花园（阳性名词）|U2
+435|jaune (adj.)|yellow (adj.)|黄色的（形容词）|U6
+436|jeu (n.m.)|game (n.)|游戏（阳性名词）|U4

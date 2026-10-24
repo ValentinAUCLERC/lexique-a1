@@ -1,0 +1,217 @@
+{"id": 655, "display": "le producteur", "tts": "le producteur", "pos": "n.m.", "zh": "生产者", "fix": null, "tts_risk": null}
+{"id": 656, "display": "produire", "tts": "produire", "pos": "v.", "zh": "生产", "fix": null, "tts_risk": null}
+{"id": 657, "display": "le produit", "tts": "le produit", "pos": "n.m.", "zh": "产品", "fix": null, "tts_risk": null}
+{"id": 658, "display": "la profession", "tts": "la profession", "pos": "n.f.", "zh": "职业", "fix": null, "tts_risk": null}
+{"id": 659, "display": "professionnel", "tts": "professionnel", "pos": "adj.", "zh": "专业的", "fix": null, "tts_risk": null}
+{"id": 660, "display": "le programme", "tts": "le programme", "pos": "n.m.", "zh": "节目", "fix": null, "tts_risk": null}
+{"id": 661, "display": "la projection", "tts": "la projection", "pos": "n.f.", "zh": "放映", "fix": "发射 = lancement ; projection (film) = 放映", "tts_risk": null}
+{"id": 662, "display": "le projet", "tts": "le projet", "pos": "n.m.", "zh": "项目", "fix": null, "tts_risk": null}
+{"id": 663, "display": "la promenade", "tts": "la promenade", "pos": "n.f.", "zh": "散步", "fix": null, "tts_risk": null}
+{"id": 664, "display": "se promener", "tts": "se promener", "pos": "v.", "zh": "散步", "fix": null, "tts_risk": null}
+{"id": 665, "display": "prononcer", "tts": "prononcer", "pos": "v.", "zh": "发音", "fix": "宣布 = annoncer ; prononcer = 发音", "tts_risk": null}
+{"id": 666, "display": "proposer", "tts": "proposer", "pos": "v.", "zh": "建议", "fix": null, "tts_risk": null}
+{"id": 667, "display": "la proposition", "tts": "la proposition", "pos": "n.f.", "zh": "建议", "fix": null, "tts_risk": null}
+{"id": 668, "display": "le public", "tts": "le public", "pos": "n.m.", "zh": "公众", "fix": null, "tts_risk": null}
+{"id": 669, "display": "la publication", "tts": "la publication", "pos": "n.f.", "zh": "出版，发表，出版物", "fix": "公布 = annoncer publiquement ; publication = 发表", "tts_risk": null}
+{"id": 670, "display": "le pull", "tts": "le pull", "pos": "n.m.", "zh": "套衫", "fix": null, "tts_risk": "anglicisme : « pull » /pyl/, pas /pul/"}
+{"id": 671, "display": "le quart", "tts": "le quart", "pos": "n.m.", "zh": "四分之一", "fix": null, "tts_risk": null}
+{"id": 672, "display": "le quartier", "tts": "le quartier", "pos": "n.m.", "zh": "区", "fix": null, "tts_risk": null}
+{"id": 673, "display": "quitter", "tts": "quitter", "pos": "v.", "zh": "离开", "fix": null, "tts_risk": null}
+{"id": 674, "display": "la radio", "tts": "la radio", "pos": "n.f.", "zh": "无线广播", "fix": null, "tts_risk": null}
+{"id": 675, "display": "le radio-réveil", "tts": "le radio-réveil", "pos": "n.m.", "zh": "收音机闹钟", "fix": null, "tts_risk": null}
+{"id": 676, "display": "le rallye", "tts": "le rallye", "pos": "n.m.", "zh": "拉力赛", "fix": "赛跑会 = course à pied ; rallye = 拉力赛", "tts_risk": null}
+{"id": 677, "display": "la randonnée", "tts": "la randonnée", "pos": "n.f.", "zh": "出游，远足", "fix": null, "tts_risk": null}
+{"id": 678, "display": "le rap", "tts": "le rap", "pos": "n.m.", "zh": "说唱", "fix": null, "tts_risk": null}
+{"id": 679, "display": "rapide", "tts": "rapide", "pos": "adj.", "zh": "快的", "fix": null, "tts_risk": null}
+{"id": 680, "display": "se rappeler", "tts": "se rappeler", "pos": "v.", "zh": "回忆起", "fix": null, "tts_risk": null}
+{"id": 681, "display": "rappeler", "tts": "rappeler", "pos": "v.", "zh": "回电话", "fix": "召回 = rappel de produits ; ici rappeler au téléphone", "tts_risk": null}
+{"id": 682, "display": "rapporter", "tts": "rapporter", "pos": "v.", "zh": "带回，汇报", "fix": "sens visé « report » : ajout de 汇报", "tts_risk": null}
+{"id": 683, "display": "rater", "tts": "rater", "pos": "v.", "zh": "错过，没赶上", "fix": "失败 = échouer ; rater (miss : le train) = 错过", "tts_risk": null}
+{"id": 684, "display": "recevoir", "tts": "recevoir", "pos": "v.", "zh": "收到", "fix": null, "tts_risk": null}
+{"id": 685, "display": "la recherche", "tts": "la recherche", "pos": "n.f.", "zh": "研究，寻找", "fix": "sens visé « research » = 研究", "tts_risk": null}
+{"id": 686, "display": "la récompense", "tts": "la récompense", "pos": "n.f.", "zh": "奖励，奖赏", "fix": "补偿 = compensation ; récompense = 奖励", "tts_risk": null}
+{"id": 687, "display": "refuser", "tts": "refuser", "pos": "v.", "zh": "拒绝", "fix": null, "tts_risk": null}
+{"id": 688, "display": "le régime", "tts": "le régime", "pos": "n.m.", "zh": "节食，饮食制度", "fix": "政体 = régime politique ; ici diet = 节食", "tts_risk": null}
+{"id": 689, "display": "la région", "tts": "la région", "pos": "n.f.", "zh": "地区", "fix": null, "tts_risk": null}
+{"id": 690, "display": "regretter", "tts": "regretter", "pos": "v.", "zh": "后悔", "fix": null, "tts_risk": null}
+{"id": 691, "display": "la reine", "tts": "la reine", "pos": "n.f.", "zh": "王后，皇后", "fix": null, "tts_risk": null}
+{"id": 692, "display": "relier", "tts": "relier", "pos": "v.", "zh": "连接", "fix": null, "tts_risk": null}
+{"id": 693, "display": "rembourser", "tts": "rembourser", "pos": "v.", "zh": "偿还", "fix": null, "tts_risk": null}
+{"id": 694, "display": "remercier", "tts": "remercier", "pos": "v.", "zh": "感谢", "fix": null, "tts_risk": null}
+{"id": 695, "display": "le rendez-vous", "tts": "le rendez-vous", "pos": "n.m.", "zh": "约会", "fix": null, "tts_risk": null}
+{"id": 696, "display": "rentrer", "tts": "rentrer", "pos": "v.", "zh": "回来", "fix": null, "tts_risk": null}
+{"id": 697, "display": "répéter", "tts": "répéter", "pos": "v.", "zh": "重复", "fix": null, "tts_risk": null}
+{"id": 698, "display": "répondre", "tts": "répondre", "pos": "v.", "zh": "回答", "fix": null, "tts_risk": null}
+{"id": 699, "display": "se reposer", "tts": "se reposer", "pos": "v.", "zh": "休息", "fix": null, "tts_risk": null}
+{"id": 700, "display": "responsable", "tts": "responsable", "pos": "adj.", "zh": "负责的", "fix": null, "tts_risk": null}
+{"id": 701, "display": "le restaurant", "tts": "le restaurant", "pos": "n.m.", "zh": "饭店", "fix": null, "tts_risk": null}
+{"id": 702, "display": "rester", "tts": "rester", "pos": "v.", "zh": "待", "fix": null, "tts_risk": null}
+{"id": 703, "display": "la retenue", "tts": "la retenue", "pos": "n.f.", "zh": "扣留，扣除", "fix": null, "tts_risk": null}
+{"id": 704, "display": "le retour", "tts": "le retour", "pos": "n.m.", "zh": "返回", "fix": null, "tts_risk": null}
+{"id": 705, "display": "la retraite", "tts": "la retraite", "pos": "n.f.", "zh": "退休", "fix": null, "tts_risk": null}
+{"id": 706, "display": "la réunion", "tts": "la réunion", "pos": "n.f.", "zh": "会议", "fix": "集合 = rassemblement ; réunion (meeting) = 会议", "tts_risk": null}
+{"id": 707, "display": "le rêve", "tts": "le rêve", "pos": "n.m.", "zh": "梦想", "fix": null, "tts_risk": null}
+{"id": 708, "display": "se réveiller", "tts": "se réveiller", "pos": "v.", "zh": "醒来", "fix": null, "tts_risk": null}
+{"id": 709, "display": "le rez-de-chaussée", "tts": "le rez-de-chaussée", "pos": "n.m.", "zh": "底层", "fix": null, "tts_risk": null}
+{"id": 710, "display": "la rivière", "tts": "la rivière", "pos": "n.f.", "zh": "河", "fix": null, "tts_risk": null}
+{"id": 711, "display": "le riz", "tts": "le riz", "pos": "n.m.", "zh": "米", "fix": null, "tts_risk": null}
+{"id": 712, "display": "la robe", "tts": "la robe", "pos": "n.f.", "zh": "连衣裙", "fix": null, "tts_risk": null}
+{"id": 713, "display": "le roi", "tts": "le roi", "pos": "n.m.", "zh": "国王", "fix": null, "tts_risk": null}
+{"id": 714, "display": "le roller", "tts": "le roller", "pos": "n.m.", "zh": "旱冰鞋", "fix": null, "tts_risk": "anglicisme : « roller » /ʁɔlœʁ/"}
+{"id": 715, "display": "le roman", "tts": "le roman", "pos": "n.m.", "zh": "长篇小说", "fix": null, "tts_risk": null}
+{"id": 716, "display": "romantique", "tts": "romantique", "pos": "adj.", "zh": "浪漫的", "fix": "浪漫主义的 = du romantisme (art) ; romantique = 浪漫的", "tts_risk": null}
+{"id": 717, "display": "la rue", "tts": "la rue", "pos": "n.f.", "zh": "街道", "fix": null, "tts_risk": null}
+{"id": 718, "display": "le rythme", "tts": "le rythme", "pos": "n.m.", "zh": "节奏", "fix": null, "tts_risk": null}
+{"id": 719, "display": "s'il vous plaît", "tts": "s'il vous plaît", "pos": "expr.", "zh": "请", "fix": null, "tts_risk": null}
+{"id": 720, "display": "la salade", "tts": "la salade", "pos": "n.f.", "zh": "沙拉", "fix": null, "tts_risk": null}
+{"id": 721, "display": "la salle à manger", "tts": "la salle à manger", "pos": "n.f.", "zh": "饭厅", "fix": null, "tts_risk": null}
+{"id": 722, "display": "la salle de bain", "tts": "la salle de bain", "pos": "n.f.", "zh": "浴室", "fix": null, "tts_risk": null}
+{"id": 723, "display": "le salon", "tts": "le salon", "pos": "n.m.", "zh": "客厅", "fix": null, "tts_risk": null}
+{"id": 724, "display": "salut", "tts": "salut", "pos": "expr.", "zh": "你好", "fix": null, "tts_risk": null}
+{"id": 725, "display": "le samedi", "tts": "le samedi", "pos": "n.m.", "zh": "星期六", "fix": null, "tts_risk": null}
+{"id": 726, "display": "la santé", "tts": "la santé", "pos": "n.f.", "zh": "健康", "fix": null, "tts_risk": null}
+{"id": 727, "display": "satisfait", "tts": "satisfait", "pos": "adj.", "zh": "满意的", "fix": null, "tts_risk": null}
+{"id": 728, "display": "la sauce", "tts": "la sauce", "pos": "n.f.", "zh": "调味汁", "fix": null, "tts_risk": null}
+{"id": 729, "display": "le saucisson", "tts": "le saucisson", "pos": "n.m.", "zh": "腊肠", "fix": null, "tts_risk": null}
+{"id": 730, "display": "le saumon", "tts": "le saumon", "pos": "n.m.", "zh": "鲑鱼", "fix": null, "tts_risk": null}
+{"id": 731, "display": "savoir", "tts": "savoir", "pos": "v.", "zh": "知道", "fix": null, "tts_risk": null}
+{"id": 732, "display": "la scène", "tts": "la scène", "pos": "n.f.", "zh": "舞台，场景", "fix": "sens visé « stage » = 舞台", "tts_risk": null}
+{"id": 733, "display": "la science-fiction", "tts": "la science-fiction", "pos": "n.f.", "zh": "科学幻想小说", "fix": null, "tts_risk": null}
+{"id": 734, "display": "scientifique", "tts": "scientifique", "pos": "adj.", "zh": "科学的", "fix": "科学地 = adverbe ; adjectif = 科学的", "tts_risk": null}
+{"id": 735, "display": "la sculpture", "tts": "la sculpture", "pos": "n.f.", "zh": "雕刻", "fix": null, "tts_risk": null}
+{"id": 736, "display": "la séance", "tts": "la séance", "pos": "n.f.", "zh": "场次，一场", "fix": "会议 = réunion ; séance (de cinéma) = 场次", "tts_risk": null}
+{"id": 737, "display": "le / la secrétaire", "tts": "le, la secrétaire", "pos": "n.m.", "zh": "秘书", "fix": null, "tts_risk": null}
+{"id": 738, "display": "la sécurité", "tts": "la sécurité", "pos": "n.f.", "zh": "安全", "fix": null, "tts_risk": null}
+{"id": 739, "display": "sentimental", "tts": "sentimental", "pos": "adj.", "zh": "多愁善感的", "fix": null, "tts_risk": null}
+{"id": 740, "display": "séparer", "tts": "séparer", "pos": "v.", "zh": "分开", "fix": null, "tts_risk": null}
+{"id": 741, "display": "le mois de septembre", "tts": "le mois de septembre", "pos": "n.m.", "zh": "九月", "fix": null, "tts_risk": null}
+{"id": 742, "display": "la série", "tts": "la série", "pos": "n.f.", "zh": "系列", "fix": null, "tts_risk": null}
+{"id": 743, "display": "le serveur", "tts": "le serveur", "pos": "n.m.", "zh": "服务员", "fix": "coquille 服务也 → 服务员", "tts_risk": null}
+{"id": 744, "display": "le service", "tts": "le service", "pos": "n.m.", "zh": "部门，服务", "fix": "sens visé « department » = 部门", "tts_risk": null}
+{"id": 745, "display": "seul", "tts": "seul", "pos": "adj.", "zh": "单独的", "fix": null, "tts_risk": null}
+{"id": 746, "display": "le siècle", "tts": "le siècle", "pos": "n.m.", "zh": "世纪", "fix": null, "tts_risk": null}
+{"id": 747, "display": "simple", "tts": "simple", "pos": "adj.", "zh": "简单的", "fix": null, "tts_risk": null}
+{"id": 748, "display": "le site", "tts": "le site", "pos": "n.m.", "zh": "网站，地点", "fix": "风景 = paysage ; site = 网站，地点", "tts_risk": null}
+{"id": 749, "display": "situé", "tts": "situé", "pos": "adj.", "zh": "位于……的", "fix": null, "tts_risk": null}
+{"id": 750, "display": "le ski", "tts": "le ski", "pos": "n.m.", "zh": "滑雪", "fix": null, "tts_risk": null}
+{"id": 751, "display": "skier", "tts": "skier", "pos": "v.", "zh": "滑雪", "fix": "滑雪者 = skieur (nom) ; skier = 滑雪", "tts_risk": null}
+{"id": 752, "display": "la société", "tts": "la société", "pos": "n.f.", "zh": "公司，社会", "fix": "sens « company » manquant : 公司", "tts_risk": null}
+{"id": 753, "display": "la sœur", "tts": "la sœur", "pos": "n.f.", "zh": "姐妹", "fix": null, "tts_risk": null}
+{"id": 754, "display": "le soir", "tts": "le soir", "pos": "n.m.", "zh": "傍晚", "fix": null, "tts_risk": null}
+{"id": 755, "display": "le soir", "tts": "le soir", "pos": "n.m.", "zh": "傍晚", "fix": null, "tts_risk": null}
+{"id": 756, "display": "la soirée", "tts": "la soirée", "pos": "n.f.", "zh": "晚上，晚会", "fix": "夜间 = la nuit ; soirée = 晚上，晚会", "tts_risk": null}
+{"id": 757, "display": "le soleil", "tts": "le soleil", "pos": "n.m.", "zh": "太阳", "fix": null, "tts_risk": null}
+{"id": 758, "display": "sombre", "tts": "sombre", "pos": "adj.", "zh": "阴暗的", "fix": null, "tts_risk": null}
+{"id": 759, "display": "le son", "tts": "le son", "pos": "n.m.", "zh": "声音", "fix": null, "tts_risk": null}
+{"id": 760, "display": "la sortie", "tts": "la sortie", "pos": "n.f.", "zh": "出口", "fix": null, "tts_risk": null}
+{"id": 761, "display": "sortir", "tts": "sortir", "pos": "v.", "zh": "出去", "fix": null, "tts_risk": null}
+{"id": 762, "display": "souhaiter", "tts": "souhaiter", "pos": "v.", "zh": "期望", "fix": null, "tts_risk": null}
+{"id": 763, "display": "sourd", "tts": "sourd", "pos": "adj.", "zh": "聋的", "fix": "沉闷的 = sourd (bruit) ; deaf = 聋的", "tts_risk": null}
+{"id": 764, "display": "le souvenir", "tts": "le souvenir", "pos": "n.m.", "zh": "回忆，纪念品", "fix": "ajout du sens « souvenir » objet = 纪念品", "tts_risk": null}
+{"id": 765, "display": "la spécialité", "tts": "la spécialité", "pos": "n.f.", "zh": "特色，特产，专业", "fix": "专科 = médecine ; spécialité (culinaire) = 特产", "tts_risk": null}
+{"id": 766, "display": "le spectacle", "tts": "le spectacle", "pos": "n.m.", "zh": "演出，表演", "fix": "景象，场面 = scène vue ; spectacle (show) = 演出", "tts_risk": null}
+{"id": 767, "display": "le sport", "tts": "le sport", "pos": "n.m.", "zh": "运动", "fix": null, "tts_risk": null}
+{"id": 768, "display": "sportif", "tts": "sportif", "pos": "adj.", "zh": "运动的", "fix": null, "tts_risk": null}
+{"id": 769, "display": "stable", "tts": "stable", "pos": "adj.", "zh": "稳定的", "fix": null, "tts_risk": null}
+{"id": 770, "display": "le stage", "tts": "le stage", "pos": "n.m.", "zh": "实习期", "fix": null, "tts_risk": null}
+{"id": 771, "display": "le / la stagiaire", "tts": "le, la stagiaire", "pos": "n.m.", "zh": "实习生", "fix": null, "tts_risk": null}
+{"id": 772, "display": "la star", "tts": "la star", "pos": "n.f.", "zh": "明星", "fix": null, "tts_risk": null}
+{"id": 773, "display": "stresser", "tts": "stresser", "pos": "v.", "zh": "紧张", "fix": null, "tts_risk": null}
+{"id": 774, "display": "le style", "tts": "le style", "pos": "n.m.", "zh": "风格", "fix": null, "tts_risk": null}
+{"id": 775, "display": "le / la styliste", "tts": "le, la styliste", "pos": "n.m.", "zh": "服装设计师", "fix": null, "tts_risk": null}
+{"id": 776, "display": "le stylo", "tts": "le stylo", "pos": "n.m.", "zh": "笔，圆珠笔", "fix": "钢笔 = stylo plume ; stylo = 笔", "tts_risk": null}
+{"id": 777, "display": "le sud", "tts": "le sud", "pos": "n.m.", "zh": "南", "fix": null, "tts_risk": "« sud » /syd/ : d final prononcé"}
+{"id": 778, "display": "suivre", "tts": "suivre", "pos": "v.", "zh": "跟随", "fix": null, "tts_risk": null}
+{"id": 779, "display": "le sujet", "tts": "le sujet", "pos": "n.m.", "zh": "主题", "fix": null, "tts_risk": null}
+{"id": 780, "display": "super", "tts": "super", "pos": "adv.", "zh": "很好，超", "fix": null, "tts_risk": null}
+{"id": 781, "display": "supérieur", "tts": "supérieur", "pos": "adj.", "zh": "高级的", "fix": null, "tts_risk": null}
+{"id": 782, "display": "le supermarché", "tts": "le supermarché", "pos": "n.m.", "zh": "超市", "fix": null, "tts_risk": null}
+{"id": 783, "display": "sûr", "tts": "sûr", "pos": "adj.", "zh": "确定的", "fix": null, "tts_risk": null}
+{"id": 784, "display": "surpris", "tts": "surpris", "pos": "adj.", "zh": "惊奇的", "fix": null, "tts_risk": null}
+{"id": 785, "display": "la surprise", "tts": "la surprise", "pos": "n.f.", "zh": "惊喜", "fix": null, "tts_risk": null}
+{"id": 786, "display": "la symphonie", "tts": "la symphonie", "pos": "n.f.", "zh": "交响乐", "fix": null, "tts_risk": null}
+{"id": 787, "display": "le tableau", "tts": "le tableau", "pos": "n.m.", "zh": "图表", "fix": null, "tts_risk": null}
+{"id": 788, "display": "le tableau", "tts": "le tableau", "pos": "n.m.", "zh": "画儿", "fix": null, "tts_risk": null}
+{"id": 789, "display": "le talent", "tts": "le talent", "pos": "n.m.", "zh": "才能", "fix": null, "tts_risk": null}
+{"id": 790, "display": "la tante", "tts": "la tante", "pos": "n.f.", "zh": "姑母，姨母", "fix": null, "tts_risk": null}
+{"id": 791, "display": "le tapis", "tts": "le tapis", "pos": "n.m.", "zh": "地毯", "fix": null, "tts_risk": null}
+{"id": 792, "display": "la tarte", "tts": "la tarte", "pos": "n.f.", "zh": "馅饼，水果挞", "fix": "蛋挞 = tarte aux œufs seulement ; tarte = 馅饼", "tts_risk": null}
+{"id": 793, "display": "le tas", "tts": "le tas", "pos": "n.m.", "zh": "堆", "fix": null, "tts_risk": null}
+{"id": 794, "display": "la tasse", "tts": "la tasse", "pos": "n.f.", "zh": "杯子", "fix": "一杯的容量 = contenu ; tasse (cup) = 杯子", "tts_risk": null}
+{"id": 795, "display": "le taxi", "tts": "le taxi", "pos": "n.m.", "zh": "出租车", "fix": null, "tts_risk": null}
+{"id": 796, "display": "le technicien", "tts": "le technicien", "pos": "n.m.", "zh": "技术人员", "fix": null, "tts_risk": null}
+{"id": 797, "display": "technologique", "tts": "technologique", "pos": "adj.", "zh": "技术的，科技的", "fix": "工艺的 = artisanal/procédé ; technologique = 科技的", "tts_risk": null}
+{"id": 798, "display": "le téléphone", "tts": "le téléphone", "pos": "n.m.", "zh": "电话", "fix": null, "tts_risk": null}
+{"id": 799, "display": "le téléviseur", "tts": "le téléviseur", "pos": "n.m.", "zh": "电视机", "fix": null, "tts_risk": null}
+{"id": 800, "display": "la télévision", "tts": "la télévision", "pos": "n.f.", "zh": "电视", "fix": null, "tts_risk": null}
+{"id": 801, "display": "le témoignage", "tts": "le témoignage", "pos": "n.m.", "zh": "证词，见证", "fix": "证据 = preuve ; témoignage = 证词", "tts_risk": null}
+{"id": 802, "display": "la température", "tts": "la température", "pos": "n.f.", "zh": "温度", "fix": null, "tts_risk": null}
+{"id": 803, "display": "la tendance", "tts": "la tendance", "pos": "n.f.", "zh": "趋势，潮流", "fix": "sens visé « trend » = 趋势，潮流", "tts_risk": null}
+{"id": 804, "display": "le tennis", "tts": "le tennis", "pos": "n.m.", "zh": "网球", "fix": null, "tts_risk": "« tennis » /tenis/ : s final prononcé"}
+{"id": 805, "display": "le tennis", "tts": "le tennis", "pos": "n.m.", "zh": "网球", "fix": null, "tts_risk": "« tennis » /tenis/ : s final prononcé"}
+{"id": 806, "display": "la terrasse", "tts": "la terrasse", "pos": "n.f.", "zh": "露台", "fix": "平台 = plateforme ; terrasse = 露台", "tts_risk": null}
+{"id": 807, "display": "le thé", "tts": "le thé", "pos": "n.m.", "zh": "茶", "fix": null, "tts_risk": null}
+{"id": 808, "display": "le théâtre", "tts": "le théâtre", "pos": "n.m.", "zh": "剧院", "fix": null, "tts_risk": null}
+{"id": 809, "display": "la thèse", "tts": "la thèse", "pos": "n.f.", "zh": "论文", "fix": null, "tts_risk": null}
+{"id": 810, "display": "le thon", "tts": "le thon", "pos": "n.m.", "zh": "金枪鱼", "fix": null, "tts_risk": null}
+{"id": 811, "display": "le tiers-monde", "tts": "le tiers-monde", "pos": "n.m.", "zh": "第三世界", "fix": null, "tts_risk": null}
+{"id": 812, "display": "le tissu", "tts": "le tissu", "pos": "n.m.", "zh": "布料，面料", "fix": "组织 = tissu biologique ; fabric = 布料", "tts_risk": null}
+{"id": 813, "display": "les toilettes", "tts": "les toilettes", "pos": "n.f.pl.", "zh": "洗手间", "fix": null, "tts_risk": null}
+{"id": 814, "display": "la tomate", "tts": "la tomate", "pos": "n.f.", "zh": "番茄", "fix": null, "tts_risk": null}
+{"id": 815, "display": "toucher", "tts": "toucher", "pos": "v.", "zh": "触摸，碰", "fix": "触 seul peu naturel ; toucher = 触摸", "tts_risk": null}
+{"id": 816, "display": "la tour", "tts": "la tour", "pos": "n.f.", "zh": "塔", "fix": null, "tts_risk": null}
+{"id": 817, "display": "le / la touriste", "tts": "le, la touriste", "pos": "n.m.", "zh": "旅游者", "fix": null, "tts_risk": null}
+{"id": 818, "display": "le touriste", "tts": "le touriste", "pos": "n.m.", "zh": "游客", "fix": null, "tts_risk": null}
+{"id": 819, "display": "tourner", "tts": "tourner", "pos": "v.", "zh": "转弯", "fix": null, "tts_risk": null}
+{"id": 820, "display": "la tradition", "tts": "la tradition", "pos": "n.f.", "zh": "传统", "fix": null, "tts_risk": null}
+{"id": 821, "display": "traditionnel", "tts": "traditionnel", "pos": "adj.", "zh": "传统的", "fix": null, "tts_risk": null}
+{"id": 822, "display": "le traducteur", "tts": "le traducteur", "pos": "n.m.", "zh": "翻译", "fix": null, "tts_risk": null}
+{"id": 823, "display": "le train (TGV)", "tts": "le train", "pos": "n.m.", "zh": "火车", "fix": null, "tts_risk": null}
+{"id": 824, "display": "le traîneau", "tts": "le traîneau", "pos": "n.m.", "zh": "雪橇", "fix": "雪车 = bobsleigh ; traîneau (sleigh) = 雪橇", "tts_risk": null}
+{"id": 825, "display": "la tranche", "tts": "la tranche", "pos": "n.f.", "zh": "片，薄片", "fix": null, "tts_risk": null}
+{"id": 826, "display": "la transaction", "tts": "la transaction", "pos": "n.f.", "zh": "交易", "fix": null, "tts_risk": null}
+{"id": 827, "display": "le transport", "tts": "le transport", "pos": "n.m.", "zh": "交通，运输", "fix": "sens courant (transports) = 交通", "tts_risk": null}
+{"id": 828, "display": "le travail", "tts": "le travail", "pos": "n.m.", "zh": "工作", "fix": null, "tts_risk": null}
+{"id": 829, "display": "travailler", "tts": "travailler", "pos": "v.", "zh": "工作", "fix": null, "tts_risk": null}
+{"id": 830, "display": "traverser", "tts": "traverser", "pos": "v.", "zh": "穿过", "fix": null, "tts_risk": null}
+{"id": 831, "display": "le traversin", "tts": "le traversin", "pos": "n.m.", "zh": "长枕头", "fix": "横梁 = poutre ; traversin (bolster) = 长枕头", "tts_risk": null}
+{"id": 832, "display": "trouver", "tts": "trouver", "pos": "v.", "zh": "找到", "fix": null, "tts_risk": null}
+{"id": 833, "display": "unique", "tts": "unique", "pos": "adj.", "zh": "唯一的", "fix": null, "tts_risk": null}
+{"id": 834, "display": "l'unité", "tts": "l'unité", "pos": "n.f.", "zh": "单元", "fix": null, "tts_risk": null}
+{"id": 835, "display": "l'université", "tts": "l'université", "pos": "n.f.", "zh": "大学", "fix": null, "tts_risk": null}
+{"id": 836, "display": "utile", "tts": "utile", "pos": "adj.", "zh": "有用的", "fix": null, "tts_risk": null}
+{"id": 837, "display": "les vacances", "tts": "les vacances", "pos": "n.f.pl.", "zh": "假期", "fix": null, "tts_risk": null}
+{"id": 838, "display": "la valeur", "tts": "la valeur", "pos": "n.f.", "zh": "价值", "fix": null, "tts_risk": null}
+{"id": 839, "display": "valider", "tts": "valider", "pos": "v.", "zh": "使生效", "fix": null, "tts_risk": null}
+{"id": 840, "display": "la vanille", "tts": "la vanille", "pos": "n.f.", "zh": "香草", "fix": null, "tts_risk": null}
+{"id": 841, "display": "végétarien", "tts": "végétarien", "pos": "adj.", "zh": "素食的", "fix": null, "tts_risk": null}
+{"id": 842, "display": "le vélo", "tts": "le vélo", "pos": "n.m.", "zh": "自行车", "fix": null, "tts_risk": null}
+{"id": 843, "display": "vendre", "tts": "vendre", "pos": "v.", "zh": "出售", "fix": null, "tts_risk": null}
+{"id": 844, "display": "le vendredi", "tts": "le vendredi", "pos": "n.m.", "zh": "星期五", "fix": null, "tts_risk": null}
+{"id": 845, "display": "venir", "tts": "venir", "pos": "v.", "zh": "来", "fix": null, "tts_risk": null}
+{"id": 846, "display": "le vent", "tts": "le vent", "pos": "n.m.", "zh": "风", "fix": null, "tts_risk": null}
+{"id": 847, "display": "véritable", "tts": "véritable", "pos": "adj.", "zh": "真实的", "fix": null, "tts_risk": null}
+{"id": 848, "display": "le verre", "tts": "le verre", "pos": "n.m.", "zh": "玻璃杯，玻璃", "fix": "sens courant A1 : un verre = 玻璃杯", "tts_risk": null}
+{"id": 849, "display": "la version originale", "tts": "la version originale", "pos": "n.f.", "zh": "原版", "fix": null, "tts_risk": null}
+{"id": 850, "display": "la veste", "tts": "la veste", "pos": "n.f.", "zh": "外套，夹克", "fix": "上装 = haut (vêtement) ; veste = 外套", "tts_risk": null}
+{"id": 851, "display": "la viande", "tts": "la viande", "pos": "n.f.", "zh": "肉类", "fix": null, "tts_risk": null}
+{"id": 852, "display": "le vide-grenier", "tts": "le vide-grenier", "pos": "n.m.", "zh": "旧货集市", "fix": null, "tts_risk": null}
+{"id": 853, "display": "vieux / vieille", "tts": "vieux, vieille", "pos": "adj.", "zh": "老的，旧的", "fix": "年老的 = âgé (personnes) ; vieux = aussi 旧的", "tts_risk": null}
+{"id": 854, "display": "le village", "tts": "le village", "pos": "n.m.", "zh": "村庄", "fix": "乡村 = campagne ; village = 村庄", "tts_risk": null}
+{"id": 855, "display": "la ville", "tts": "la ville", "pos": "n.f.", "zh": "城市", "fix": null, "tts_risk": null}
+{"id": 856, "display": "le vin", "tts": "le vin", "pos": "n.m.", "zh": "葡萄酒", "fix": "酒 = alcool en général ; vin = 葡萄酒", "tts_risk": null}
+{"id": 857, "display": "la vinaigrette", "tts": "la vinaigrette", "pos": "n.f.", "zh": "酸醋调味汁", "fix": null, "tts_risk": null}
+{"id": 858, "display": "visiter", "tts": "visiter", "pos": "v.", "zh": "参观，游览", "fix": "餐馆 = restaurant ; visiter = 参观", "tts_risk": null}
+{"id": 859, "display": "vivre", "tts": "vivre", "pos": "v.", "zh": "生活，居住，活着", "fix": "vivre (à Paris) = 生活，居住", "tts_risk": null}
+{"id": 860, "display": "le vocabulaire", "tts": "le vocabulaire", "pos": "n.m.", "zh": "词汇", "fix": null, "tts_risk": null}
+{"id": 861, "display": "le vœu", "tts": "le vœu", "pos": "n.m.", "zh": "祝愿", "fix": null, "tts_risk": null}
+{"id": 862, "display": "voir", "tts": "voir", "pos": "v.", "zh": "看", "fix": null, "tts_risk": null}
+{"id": 863, "display": "le voisin", "tts": "le voisin", "pos": "n.m.", "zh": "邻居", "fix": null, "tts_risk": null}
+{"id": 864, "display": "la voiture", "tts": "la voiture", "pos": "n.f.", "zh": "汽车", "fix": null, "tts_risk": null}
+{"id": 865, "display": "le volley-ball", "tts": "le volley-ball", "pos": "n.m.", "zh": "排球", "fix": null, "tts_risk": "anglicisme : « volley-ball » /vɔlɛbol/"}
+{"id": 866, "display": "vouloir", "tts": "vouloir", "pos": "v.", "zh": "愿意，想", "fix": null, "tts_risk": null}
+{"id": 867, "display": "le voyage", "tts": "le voyage", "pos": "n.m.", "zh": "旅行", "fix": null, "tts_risk": null}
+{"id": 868, "display": "voyager", "tts": "voyager", "pos": "v.", "zh": "旅行", "fix": null, "tts_risk": null}
+{"id": 869, "display": "vrai", "tts": "vrai", "pos": "adj.", "zh": "真的", "fix": null, "tts_risk": null}
+{"id": 870, "display": "la vue", "tts": "la vue", "pos": "n.f.", "zh": "景色，视野", "fix": "视线 = ligne de regard ; vue (view) = 景色", "tts_risk": null}
+{"id": 871, "display": "le yaourt", "tts": "le yaourt", "pos": "n.m.", "zh": "酸奶", "fix": null, "tts_risk": "« le yaourt » /jauʁt/ : pas d'élision"}

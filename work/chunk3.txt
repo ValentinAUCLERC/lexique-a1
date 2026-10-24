@@ -1,0 +1,219 @@
+id|fr|en|zh|unit
+437|jeudi (n.m.)|Thursday (n.)|星期四（阳性名词）|U2
+438|jeune (adj.)|young (adj.)|年轻的（形容词）|U1
+439|jogging (n.m.)|jogging (n.)|跑步（阳性名词）|U8
+440|joli (adj.)|pretty (adj.)|美丽的（形容词）|U2
+441|jouer (v.)|play (v.)|玩（动词）|U4
+442|journal (n.m.)|newspaper (n.)|报纸（阳性名词）|U8
+443|journalisme (n.m.)|journalism (n.)|新闻工作（阳性名词）|U3
+444|journaliste (n.)|journalist (n.)|新闻记者（名词）|U7
+445|journée (n.f.)|day (n.)|天（阴性名词）|U3
+446|joyeux (adj.)|joyful (adj.)|高兴的（形容词）|U7
+447|judo (n.m.)|judo (n.)|柔道（阳性名词）|U8
+448|juif (adj.)|Jewish (adj.)|犹太的（形容词）|U8
+449|juillet (n.m.)|July (n.)|七月（阳性名词）|U2
+450|juin (n.m.)|June (n.)|六月（阳性名词）|U2
+451|jupe (n.f.)|skirt (n.)|裙子（阴性名词）|U6
+452|jury (n.m.)|jury (n.)|陪审团（阳性名词）|U8
+453|jus d’orange (n.m.)|orange juice (n.)|橙汁（阳性名词）|U4
+454|juste (adv.)|fair (adv.)|公正地（副词）|U3
+455|kilo (n.m.)|kilo (n.)|公斤，千克（阳性名词）|U6
+456|kilomètre (n.m.)|kilometre (n.)|公里，千米（阳性名词）|U5
+457|là-bas (adv.)|over there (adv.)|那边，在那边（副词）|U9
+458|laboratoire (n.m.)|laboratory (n.)|实验室（阳性名词）|U9
+459|lac (n.m.)|lake (n.)|湖（阳性名词）|U5
+460|lait (n.m.)|milk (n.)|奶（阳性名词）|U4
+461|lampe (n.f.)|lamp (n.)|灯（阴性名词）|U9
+462|langue (n.f.)|language, tongue (n.)|语言（阴性名词）|U1
+463|leçon (n.f.)|lesson (n.)|课（阴性名词）|U0
+464|lecteur (n.m.)|reader, player (n.)|读者（阳性名词）|U9
+465|légume (n.m.)|vegetable (n.)|蔬菜（阳性名词）|U6
+466|lever (se) (v.)|get up (v.)|抬起，上升（动词）|U3
+467|libre (adj.)|free (adj.)|自由的（形容词）|U3
+468|ligne (en) (n.f.)|line (on) (n.)|在线（阴性名词）|U6
+469|limonade (n.f.)|lemonade (n.)|柠檬水（阴性名词）|U4
+470|liquide (n.m.)|liquid (n.)|液体（阳性名词）|U6
+471|lire (v.)|read (v.)|读（动词）|U0
+472|lit (n.m.)|bed (n.)|床（阳性名词）|U9
+473|litre (n.m.)|litre (n.)|升（阳性名词）|U6
+474|locataire (n.)|tenant (n.)|租户（名词）|U1
+475|loger (v.)|put up, house (v.)|住宿（动词）|U9
+476|loisir (n.m.)|leisure (n.)|空闲时间（阳性名词）|U4
+477|long (adj.)|long (adj.)|长的（形容词）|U6
+478|longtemps (adv.)|for a long time (adv.)|长久，很久（副词）|U6
+479|louer (v.)|rent (v.)|租赁（动词）|U0
+480|loyer (n.m.)|rent (n.)|租金（阳性名词）|U9
+481|lumière (n.f.)|light (n.)|光（阴性名词）|U2
+482|lundi (n.m.)|Monday (n.)|星期一（阳性名词）|U2
+483|luxe (n.m.)|luxury (n.)|奢侈（阳性名词）|U7
+484|madame (n.f.)|madam (n.)|夫人（阴性名词）|U0
+485|magazine (n.m.)|magazine (n.)|杂志（阳性名词）|U6
+486|magicien (n.m.)|magician (n.)|魔术师（阳性名词）|U8
+487|magnifique (adj.)|magnificent (adj.)|壮丽的（形容词）|U5
+488|mai (n.m.)|May (n.)|五月（阳性名词）|U2
+489|mairie (n.f.)|town hall (n.)|市政府（阴性名词）|U3
+490|maison (n.f.)|house (n.)|房屋（阴性名词）|U2
+491|malade (adj.)|sick (adj.)|生病的（形容词）|U4
+492|manger (v.)|eat (v.)|吃（动词）|U4
+493|manière (n.f.)|way (n.)|方式，方法（阴性名词）|U7
+494|manteau (n.m.)|coat (n.)|大衣，外套（阳性名词）|U6
+495|marathon (n.m.)|marathon (n.)|马拉松赛跑（阳性名词）|U2
+496|marcher (fonctionner) (v.)|work (function) (v.)|运行（动词）|U6
+497|mardi (n.m.)|Tuesday (n.)|星期二（阳性名词）|U2
+498|marié (adj.)|married (adj.)|已婚的（形容词）|U3
+499|marquise (n.f.)|marchioness (n.)|侯爵夫人（阴性名词）|U7
+500|mars (n.m.)|march (n.)|三月（阳性名词）|U2
+501|matin (n.m.)|morning (n.)|早晨（阳性名词）|U3
+502|mauvais (adj.)|bad (adj.)|坏的，不好的（形容词）|U6
+503|mayonnaise (n.f.)|mayonnaise (n.)|蛋黄酱（阴性名词）|U4
+504|médaille (n.f.)|medal (n.)|奖章（阴性名词）|U7
+505|médecin (n.m.)|doctor (n.)|医生（阳性名词）|U4
+506|meilleur (adj.)|better (adj.)|最好的（形容词）|U6
+507|membre (n.m.)|member (n.)|成员（阳性名词）|U1
+508|menu (n.m.)|menu (n.)|菜单（阳性名词）|U4
+509|mer (n.f.)|sea (n.)|海（阴性名词）|U4
+510|merci|thank you|谢谢|U0
+511|mercredi (n.m.)|Wednesday (n.)|星期三（阳性名词）|U2
+512|mère (n.f.)|mother (n.)|母亲（阴性名词）|U3
+513|méthode (n.f.)|method (n.)|方法（阴性名词）|U7
+514|mètre (n.m.)|metre (n.)|米（阳性名词）|U6
+515|métro (n.m.)|metro (n.)|地铁（阳性名词）|U5
+516|mettre (se) (v.)|begin, put (v.)|放（动词）|U5
+517|meuble (n.m.)|furniture (n.)|家具（阳性名词）|U9
+518|midi (n.m.)|midday (n.)|中午（阳性名词）|U2
+519|million (n.m.)|million (n.)|百万（阳性名词）|U2
+520|ministre (n.m.)|minister (n.)|部长（阳性名词）|U8
+521|minute (n.f.)|minute (n.)|分（阴性名词）|U3
+522|mobile (adj.)|mobile (adj.)|移动的（形容词）|U9
+523|mode (n.f.)|fashion (n.)|模式（阴性名词）|U9
+524|modèle (n.m.)|model (n.)|榜样（阳性名词）|U6
+525|moderne (adj.)|modern (adj.)|现代的（形容词）|U3
+526|monde (n.m.)|world (n.)|世界（阳性名词）|U7
+527|monnaie (n.f.)|change (n.)|货币（阴性名词）|U6
+528|monsieur (n.m.)|gentleman (n.)|先生（阳性名词）|U0
+529|montagne (n.f.)|mountain (n.)|山（阴性名词）|U4
+530|monter (v.)|go up (v.)|上（动词）|U5
+531|montrer (v.)|show (v.)|出示（动词）|U7
+532|monument (n.m.)|monument (n.)|纪念性建筑物（阳性名词）|U2
+533|morceau (n.m.)|bit (n.)|块（阳性名词）|U4
+534|mort (n.f.)|death (n.)|死亡（阴性名词）|U8
+535|mot de passe (n.m.)|password (n.)|密码（阳性名词）|U1
+536|moule (n.f.)|mould, mussel (n.)|模型（阴性名词）|U2
+537|mourir (v.)|die (v.)|死亡（动词）|U8
+538|moustique (n.m.)|mosquito (n.)|蚊子（阳性名词）|U5
+539|moutarde (n.f.)|mustard (n.)|芥菜（阴性名词）|U4
+540|musculation (n.f.)|body-building (n.)|肌肉锻炼（阴性名词）|U8
+541|musée (n.m.)|museum (n.)|博物馆（阳性名词）|U1
+542|musique (n.f.)|music (n.)|音乐（阴性名词）|U1
+543|musulman (adj.)|Muslim (adj.)|伊斯兰教的（形容词）|U8
+544|natation (n.f.)|swimming (n.)|游泳（阴性名词）|U8
+545|national (adj.)|national (adj.)|国家的（形容词）|U0
+546|nationalité (n.f.)|nationality (n.)|国籍（阴性名词）|U1
+547|naturel (adj.)|natural (adj.)|自然的（形容词）|U5
+548|neiger (v.)|snow (v.)|下雪（动词）|U5
+549|neuf (adj.)|new (adj.)|新的（形容词）|U6
+550|noël (n.m.)|Christmas (n.)|圣诞节（阳性名词）|U2
+551|noir (adj.)|black (adj.)|黑的（形容词）|U6
+552|nom (n.m.)|name (n.)|名字（阳性名词）|U1
+553|nombreux (adj.)|many (adj.)|大量的（形容词）|U2
+554|normal (adj.)|normal (adj.)|正常的（形容词）|U5
+555|nouveau (adj.)|new (adj.)|新出现的（形容词）|U1
+556|novembre (n.m.)|November (n.)|十一月（阳性名词）|U2
+557|nuit (n.f.)|night (n.)|夜晚（阴性名词）|U2
+558|numéro (n.m.)|number (n.)|号码（阳性名词）|U2
+559|nymphéa (n.m.)|white water lily (n.)|睡莲（阳性名词）|U5
+560|objectif (n.m.)|objective (n.)|目标，目的（阳性名词）|U0
+561|objet (n.m.)|object (n.)|物体，对象（阳性名词）|U9
+562|occasion (n.f.)|occasion (n.)|机会（阴性名词）|U6
+563|occupé (adj.)|busy (adj.)|忙碌的（形容词）|U9
+564|océan (n.m.)|ocean (n.)|海洋（阳性名词）|U5
+565|octobre (n.m.)|October (n.)|十月（阳性名词）|U2
+566|œuf (n.m.)|egg (n.)|鸡蛋（阳性名词）|U4
+567|œuvre (n.f.)|work (n.)|工作，劳动（阴性名词）|U8
+568|oignon (n.m.)|onion (n.)|洋葱（阳性名词）|U4
+569|olive (n.f.)|olive (n.)|油橄榄（阴性名词）|U4
+570|oncle (n.m.)|uncle (n.)|叔叔（阳性名词）|U3
+571|ordinateur (n.m.)|computer (n.)|电脑（阳性名词）|U6
+572|oreiller (n.m.)|pillow (n.)|枕头（阳性名词）|U9
+573|oriental (adj.)|eastern (adj.)|东面的，东方的（形容词）|U4
+574|original (adj.)|original (adj.)|原始的（形容词）|U5
+575|oublier (v.)|forget (v.)|忘记（动词）|U5
+576|ouvrir (v.)|open (v.)|打开（动词）|U3
+577|pacs (n.m.)|civil partnership (n.)|同居的两个人之间的协议（阳性名词）|U7
+578|page (n.f.)|page (n.)|页（阴性名词）|U0
+579|pain (n.m.)|bread (n.)|面包（阳性名词）|U4
+580|panier (n.m.)|basket (n.)|篮(阳性名词)|U6
+581|pantalon (n.m.)|trousers (n.pl.)|长裤(阳性名词)|U6
+582|papeterie (n.f.)|stationery (n.)|造纸厂(阴性名词)|U6
+583|papier (n.m.)|paper (n.)|纸张(阳性名词)|U6
+584|parapluie (n.m.)|umbrella (n.)|雨伞(阳性名词)|U7
+585|parc (n.m.)|park (n.)|公园(阳性名词)|U2
+586|pardon|sorry, excuse me|对不起|U0
+587|pareil (adj.)|the same (adj.)|相同的(形容词)|U8
+588|parfait (adj.)|perfect (adj.)|完美的(形容词)|U6
+589|parfum (n.m.)|perfume (n.)|香水(阳性名词)|U1
+590|parking (n.m.)|car park (n.)|停车场(阳性名词)|U4
+591|parlement (n.m.)|parliament (n.)|国会,议会(阳性名词)|U2
+592|parler (v.)|speak (v.)|讲话(动词)|U0
+593|participer (v.)|participate (v.)|参加（动词）|U4
+594|partie (n.f.)|party, match (n.)|部分（阴性名词）|U4
+595|partir (v.)|leave (v.)|离开（动词）|U5
+596|passager (n.m.)|passenger (n.)|乘客（阳性名词）|U5
+597|passer (se) (v.)|take place (v.)|发生（动词）|U9
+598|passer (v.)|pass (v.)|经过（动词）|U5
+599|pâte (n.f.)|pastry (n.)|面团，酱（阴性名词）|U4
+600|pâté (n.m.)|pâté (n.)|肉酱（阳性名词）|U4
+601|pâtisserie (n.f.)|cake shop (n.)|糕点（阴性名词）|U7
+602|payer (v.)|pay (v.)|支付（动词）|U6
+603|pays (n.m.)|country (n.)|国家（阳性名词）|U7
+604|paysage (n.m.)|landscape (n.)|风景（阳性名词）|U5
+605|peindre (v.)|paint (v.)|画（动词）|U9
+606|peintre (n.m.)|painter (n.)|图画（阳性名词）|U5
+607|penser (v.)|think (v.)|想（动词）|U5
+608|perdre (v.)|lose (v.)|失去（动词）|U8
+609|père (n.m.)|father (n.)|父亲（阳性名词）|U3
+610|personnalité (n.f.)|personality (n.)|人格（阴性名词）|U8
+611|personne (n.f.)|person (n.)|人（阴性名词）|U4
+612|petit (adj.)|small (adj.)|小的（形容词）|U2
+613|petite-fille (n.f.)|granddaughter (n.)|孙女，外孙女（阴性名词）|U1
+614|peut-être (adv.)|perhaps (adv.)|可能地（副词）|U9
+615|photo (n.f.)|photo (n.)|照片（阴性名词）|U0
+616|pièce (n.f.)|room, piece (n.)|片（阴性名词）|U5
+617|place (n.f.)|square (n.)|广场（阴性名词）|U1
+618|plage (n.f.)|beach (n.)|沙滩（阴性名词）|U5
+619|plaire (v.)|please (v.)|使高兴（动词）|U6
+620|plaisanter (v.)|joke (v.)|开玩笑（动词）|U2
+621|plaisir (n.m.)|pleasure (n.)|愉快，高兴（阳性名词）|U4
+622|plante (n.f.)|plant (n.)|植物（阴性名词）|U9
+623|plat (n.m.)|dish (n.)|盘子（阳性名词）|U1
+624|plein (adj.)|full (adj.)|满的（形容词）|U8
+625|pleuvoir (v.)|rain (v.)|下雨（动词）|U5
+626|plongée (n.f.)|diving (n.)|潜水（阴性名词）|U5
+627|poisson (n.m.)|fish (n.)|鱼（阳性名词）|U4
+628|politique (adj.)|political (adj.)|政治的（形容词）|U1
+629|politique (n.f.)|politics (n.)|政治（阴性名词）|U3
+630|pollution (n.f.)|pollution (n.)|污染（阴性名词）|U9
+631|pomme (n.f.)|apple (n.)|苹果（阴性名词）|U4
+632|pomme de terre (n.f.)|potato (n.)|土豆（阴性名词）|U4
+633|pont (n.m.)|bridge (n.)|桥（阳性名词）|U4
+634|porc (n.m.)|pork (n.)|猪（阳性名词）|U4
+635|portable (n.m.)|mobile phone (n.)|手提收音机（阳性名词）|U5
+636|porte (n.f.)|door (n.)|门（阴性名词）|U9
+637|porter (v.)|wear (v.)|携带（动词）|U6
+638|possible (adj.)|possible (adj.)|可能的（形容词）|U9
+639|poste (n.m.)|post (n.)|岗位（阳性名词）|U9
+640|poulet (n.m.)|chicken (n.)|小鸡（阳性名词）|U4
+641|pousser (v.)|push, grow (v.)|推（动词）|U9
+642|pouvoir (v.)|be able to (v.)|能（动词）|U3
+643|pratique (adj.)|practical (adj.)|实际的（形容词）|U2
+644|préférer (v.)|prefer (v.)|更喜欢（动词）|U3
+645|préhistorique (adj.)|prehistoric (adj.)|史前的（形容词）|U4
+646|prendre (v.)|take (v.)|拿（动词）|U3
+647|prénom (n.m.)|first name (n.)|姓（阳性名词）|U1
+648|préparation (n.f.)|preparation (n.)|准备（阴性名词）|U5
+649|préparer (v.)|prepare (v.)|准备（动词）|U3
+650|présentation (n.f.)|presentation (n.)|介绍（阴性名词）|U5
+651|présenter (v.)|present (v.)|介绍（动词）|U7
+652|principal (adj.)|main (adj.)|主要的（形容词）|U2
+653|prix (n.m.)|price, award (n.)|价格（阳性名词）|U6
+654|prochain (adj.)|next (adj.)|下一次的（形容词）|U4

@@ -1,0 +1,219 @@
+id|fr|en|zh|unit
+1|à l’heure|on time|准时|U3
+2|abîmer (v.)|damage (v.)|损坏（动词）|U8
+3|aborder (v.)|approach, tackle (v.)|登陆（动词）|U7
+4|absent (adj.)|absent (adj.)|缺席（形容词）|U9
+5|absolument (adv.)|absolutely (adv.)|绝对地（副词）|U9
+6|accent (n.m.)|accent (n.)|重音（阳性名词）|U1
+7|accepter (v.)|accept (v.)|接受（动词）|U4
+8|accompagnement (n.m.)|support (n.)|陪同（阳性名词）|U4
+9|accordéon (n.m.)|accordion (n.)|手风琴（阳性名词）|U8
+10|accueil (n.m.)|welcome (n.)|接待（阳性名词）|U2
+11|achat (n.m.)|purchase (n.)|购买（阳性名词）|U6
+12|acheter (v.)|buy (v.)|购买（动词）|U6
+13|acteur (n.m)|actor (n.)|演员（阳性名词）|U2
+14|adapter (v.)|adapt (v.)|适应（动词）|U9
+15|admirer (v.)|admire (v.)|赞赏（动词）|U8
+16|adorer (v.)|adore (v.)|热爱（动词）|U3
+17|adresse (n.f.)|address (n.)|地址（阴性名词）|U1
+18|adresse électronique (n.f.)|email address (n.)|电子邮件地址（阴性名词）|U1
+19|affiche (n.f.)|poster (n.)|广告（阴性名词）|U9
+20|âge (n.m.)|age (n.)|年龄（阳性名词）|U7
+21|agence (n.f.)|agency (n.)|办事处（阴性名词）|U7
+22|agriculteur (n.m.)|farmer (n.)|农业生产者（阳性名词）|U5
+23|aider (v.)|help (v.)|帮助（动词）|U6
+24|aimable (adj.)|kind (adj.)|可爱的（形容词）|U6
+25|aimer (v.)|love, like (v.)|爱（动词）|U0
+26|aise (à l’) (n.f.)|ease (at) (n.)|舒服（阴性名词）|U6
+27|aller (v.)|go (v.)|去（动词）|U2
+28|amateur (adj.)|amateur (adj.)|业余的（形容词）|U8
+29|ambassade (n.f.)|embassy (n.)|大使馆（阴性名词）|U3
+30|ambiance (n.f.)|atmosphere (n.)|气氛（阴性名词）|U8
+31|aménager (v.)|fit out (v.)|整理（动词）|U9
+32|ami (n.m)|friend (n.)|朋友（阳性名词）|U1
+33|amitié (n.f.)|friendship (n.)|友谊（阴性名词）|U6
+34|amour (n.m.)|love (n.)|爱情（阳性名词）|U8
+35|amoureux (adj.)|loving (adj.)|爱恋的（形容词）|U3
+36|ampoule (n.f.)|bulb (n.)|灯泡（阴性名词）|U9
+37|amuser (s’) (v.)|enjoy o.s. (v.)|消遣（动词）|U4
+38|ancien (adj.)|old, former, ancient (adj.)|古老的（形容词）|U9
+39|animateur (n.m.)|activity leader (n.)|主持人（阳性名词）|U6
+40|année (n.f.)|year (n.)|年（阴性名词）|U2
+41|anniversaire (n.m.)|birthday, anniversary (n.)|周年纪念日，生日（阳性名词）|U4
+42|annuler (v.)|cancel (v.)|取消（动词）|U6
+43|août (n.m.)|august (n.)|八月（阳性名词）|U2
+44|apéritif (n.m.)|aperitif (n.)|开胃酒（阳性名词）|U9
+45|appeler (s’) (v.)|called (be) (v.)|名叫，称为（动词）|U0
+46|appeler (v.)|call (v.)|招呼，号召（动词）|U4
+47|apporter (v.)|bring (v.)|带来（动词）|U4
+48|architecte (n.)|architect (n.)|建筑师（名词）|U7
+49|argent (n.m.)|money (n.)|银，货币，钱（阳性名词）|U7
+50|arrêter (v.)|stop, arrest (v.)|停止（动词）|U3
+51|arriver (v.)|arrive (v.)|到达（动词）|U2
+52|arrondissement (n.m)|arrondissement (n.)|行政区（阳性名词）|U1
+53|article (n.m.)|article, item (n.)|条款（阳性名词）|U7
+54|artiste (n.)|artist (n.)|艺术家（名词）|U0
+55|ascenseur (n.m.)|lift (n.)|电梯（阳性名词）|U9
+56|asseoir (s’) (v.)|sit down (v.)|坐，坐下（动词）|U1
+57|association (n.f.)|association (n.)|协会（阴性名词）|U8
+58|attendre (v.)|wait (v.)|等，等待（动词）|U3
+59|attraction (n.f.)|attraction (n.)|吸引力，魅力（阴性名词）|U4
+60|au revoir|goodbye|再见|U0
+61|auberge (n.f.)|hostel (n.)|客栈，小旅馆（阴性名词）|U2
+62|autobus (bus) (n.m.)|bus (n.)|公共汽车（阳性名词）|U5
+63|avenue (n.f.)|avenue (n.)|大街（阴性名词）|U1
+64|avion (n.m.)|plane (n.)|飞机（阳性名词）|U5
+65|avis (n.m.)|opinion (n.)|意见（阳性名词）|U8
+66|avoir (envie de) (v.)|want (v.)|想要（动词）|U4
+67|avoir (v.)|have (v.)|有（动词）|U3
+68|avoir faim (v.)|hungry (be) (v.)|感到饿（动词）|U3
+69|avril (n.m.)|April (n.)|四月（阳性名词）|U2
+70|bacon (n.m.)|bacon (n.)|培根（阳性名词）|U4
+71|baguette (n.f.)|baguette (n.)|棒，棍（阴性名词）|U4
+72|baignade (n.f.)|bathing (n.)|浴场（阴性名词）|U4
+73|baignoire (n.f.)|bathtub (n.)|浴缸，浴盆（阴性名词）|U9
+74|balcon (n.m.)|balcony (n.)|阳台（阳性名词）|U9
+75|bande dessinée (n.f.)|comic strip (n.)|报刊上的连环画（阴性名词）|U6
+76|banlieue (n.f.)|suburbs (n.pl.)|郊区，市郊（阴性名词）|U9
+77|banque (n.f.)|bank (n.)|银行（阴性名词）|U0
+78|barquette (n.f.)|tub, punnet (n.)|小渡船，小艇（阴性名词）|U4
+79|bas (adj.)|low (adj.)|低的，矮的（形容词）|U9
+80|bas (en) (adv.)|below (adv.)|在下面（副词）|U9
+81|basket (n.f.)|basketball (n.)|篮球（阴性名词）|U6
+82|beau / belle (adj.)|handsome/beautiful (adj.)|美丽的（形容词）|U2
+83|beau-père (n.m.)|father-in-law, stepfather (n.)|岳父（阳性名词）|U3
+84|belge (adj.)|Belgian (adj.)|比利时的（形容词）|U1
+85|bénévole (n.m.)|volunteer (n.)|自愿的，义务的（阳性名词）|U5
+86|besoin (avoir) (v.)|need (v.)|需要（动词）|U8
+87|bibliothèque (n.f.)|library (n.)|图书馆（阴性名词）|U1
+88|bière (n.f.)|beer (n.)|啤酒（阴性名词）|U2
+89|billet (n.m.)|ticket (n.)|票，门票（阳性名词）|U5
+90|bio (adj.)|organic (adj.)|天然的，绿色的（形容词）|U6
+91|blanc (adj.)|white (adj.)|白色的（形容词）|U4
+92|bleu (adj.)|blue (adj.)|蓝色的（形容词）|U6
+93|bœuf (n.m.)|beef (n.)|牛，牛肉（阳性名词）|U4
+94|boire (v.)|drink (v.)|喝（动词）|U4
+95|boisson (n.f.)|drink (n.)|饮料（阴性名词）|U4
+96|bon (adj.)|good (adj.)|好的（形容词）|U2
+97|bonjour|hello|你好，您好|U0
+98|botte (n.f.)|boot (n.)|长靴，长筒靴（阴性名词）|U6
+99|boucles d’oreille (n.f.pl.)|earrings (n.pl.)|耳环（阴性名词复数）|U6
+100|boulanger (n.m.)|baker (n.)|面包师傅（阳性名词）|U7
+101|boulangerie (n.f.)|bakery (n.)|面包店（阴性名词）|U7
+102|boulevard (n.m.)|boulevard (n.)|大马路，林荫大道（阳性名词）|U1
+103|boulot (n.m. familier)|job, work (n. informal)|活计，工作（阳性名词，俗语）|U7
+104|bourgeois (n.m.)|middle-class person (n.)|资产者（阳性名词）|U8
+105|bourse (n.f.)|stock exchange (n.)|证券交易所，股市（阴性名词）|U9
+106|bouteille (n.f.)|bottle (n.)|瓶，一瓶容量（阴性名词）|U6
+107|bracelet (n.m.)|bracelet (n.)|手镯，链子（阳性名词）|U6
+108|bravo (n.m.)|cheer (n.)|喝彩声，拍手叫好声（阳性名词）|U9
+109|bruit (n.m.)|noise (n.)|声音（阳性名词）|U9
+110|brunch (n.m.)|brunch (n.)|早中饭（阳性名词）|U7
+111|bureau (n.m.)|desk, office (n.)|办公室（阳性名词）|U1
+112|ça va|ok, fine|行，好的|U0
+113|cabane (n.f.)|hut (n.)|简陋的小屋（阴性名词）|U5
+114|cabinet (n.m.)|cupboard (n.)|办公室（阳性名词）|U9
+115|cadeau (n.m.)|gift (n.)|礼物（阳性名词）|U6
+116|cadre (n.m.)|frame, manager (n.)|范围（阳性名词）|U3
+117|café (n.m.)|coffee, café (n.)|咖啡（阳性名词）|U0
+118|caillant (adj. belgicisme)|chilly (adj. belgicism)|凝结的（形容词，比利时法语）|U4
+119|campagne (n.f.)|campaign, countryside (n.)|乡间（阴性名词）|U4
+120|canal (n.m.)|canal (n.)|运河，管道（阳性名词）|U8
+121|canapé (n.m.)|couch (n.)|长沙发（阳性名词）|U9
+122|canyoning (n.m.)|canyoning (n.)|蹦谷运动（阳性名词）|U4
+123|capitaine (n.)|captain (n.)|队长，船长（名词）|U8
+124|capitale (n.f.)|capital (n.)|首都（阴性名词）|U2
+125|carnaval (n.m.)|carnival (n.)|狂欢节（阳性名词）|U2
+126|carte (n.f.)|menu, card (n.)|卡片，地图（阴性名词）|U4
+127|carte bancaire (n.f.)|bank card (n.)|银行卡（阴性名词）|U6
+128|cascade (n.f.)|waterfall (n.)|瀑布（阴性名词）|U5
+129|casquette (n.f.)|cap (n.)|鸭舌帽（阴性名词）|U6
+130|cathédrale (n.f.)|cathedral (n.)|大教堂（阴性名词）|U1
+131|catholique (adj.)|Catholic (adj.)|天主教的（形容词）|U8
+132|cave (n.f.)|cellar (n.)|地下室，酒窖（阴性名词）|U9
+133|ceinture (n.f.)|belt (n.)|皮带，腰带（阴性名词）|U6
+134|célèbre (adj.)|famous (adj.)|著名的（形容词）|U0
+135|centre (n.m.)|centre (n.)|中心（阳性名词）|U7
+136|centre culturel (n.m.)|cultural centre (n.)|文化中心（阳性名词）|U0
+137|cerise (n.f.)|cherry (n.)|樱桃（阴性名词）|U3
+138|chalet (n.m.)|chalet (n.)|木屋（阳性名词）|U4
+139|champagne (n.m.)|champagne (n.)|香槟酒（阳性名词）|U7
+140|champignon (n.m.)|mushroom (n.)|蘑菇（阳性名词）|U4
+141|changer (v.)|change (v.)|改变（动词）|U8
+142|chanson (n.f.)|song (n.)|歌曲（阴性名词）|U1
+143|chanter (v.)|sing (v.)|唱歌（动词）|U1
+144|chanteur (n.m.)|singer (n.)|歌唱家（阳性名词）|U1
+145|chapeau (n.m.)|hat (n.)|帽子（阳性名词）|U6
+146|charges (n.f.pl.)|expenses (n.pl.)|费用，开支（阴性名词复数）|U9
+147|château (n.m.)|château (n.)|城堡（阳性名词）|U2
+148|chauffage (n.m.)|heating (n.)|加热（阳性名词）|U9
+149|chaussettes (n.f.pl.)|socks (n.pl.)|短筒袜（阴性名词复数）|U6
+150|chef (n.m.)|chef, boss (n.)|首领，头儿（阳性名词）|U7
+151|chemisier (n.m.)|blouse (n.)|女式长袖衬衫（阳性名词）|U6
+152|chèque (n.m.)|cheque (n.)|支票（阳性名词）|U6
+153|cher (adj.)|expensive (adj.)|亲爱的，昂贵的（形容词）|U2
+154|chercher (v.)|look for (v.)|寻找（动词）|U1
+155|chercheur (n.m.)|researcher (n.)|研究员（阳性名词）|U7
+156|cheval (n.m.)|horse (n.)|马（阳性名词）|U4
+157|chien (n.m.)|dog (n.)|狗（阳性名词）|U5
+158|chocolat (n.m.)|chocolate (n.)|巧克力（阳性名词）|U4
+159|choisir (v.)|choose (v.)|选择（动词）|U4
+160|choix (n.m.)|choice (n.)|选择（阳性名词）|U6
+161|chômeur (n.m.)|unemployed person (n.)|失业者（阳性名词）|U8
+162|chorale (n.f.)|choir (n.)|合唱团（阴性名词）|U8
+163|chose (n.f.)|thing (n.)|事情（阴性名词）|U2
+164|cinéma (n.m.)|cinema (n.)|电影（阴性名词）|U0
+165|ciseaux (n.m.pl.)|scissors (n.pl.)|剪刀（阳性名词复数）|U3
+166|civilisation (n.f.)|civilisation (n.)|文明（阴性名词）|U8
+167|clair (adj.)|light (adj.)|明亮的，淡色的（形容词）|U9
+168|classe (n.f.)|class (n.)|等级，班级（阴性名词）|U1
+169|classique (adj.)|classic (adj.)|古典的（形容词）|U1
+170|cliquer (v.)|click (v.)|点击鼠标（动词）|U6
+171|coin (n.m.)|corner (n.)|角落（阳性名词）|U9
+172|collectif (adj.)|collective (adj.)|集体的，共同的（形容词）|U9
+173|collège (n.m.)|middle school (n.)|初中（阳性名词）|U6
+174|collier (n.m.)|necklace (n.)|项链（阳性名词）|U6
+175|colocation (n.f.)|flatshare (n.)|共同承租（阴性名词）|U9
+176|coloré (adj.)|colourful (adj.)|彩色的（形容词）|U7
+177|comédie (n.f.)|comedy (n.)|喜剧（阴性名词）|U3
+178|commander (v.)|order (v.)|指挥，支配（动词）|U6
+179|commencer (v.)|start (v.)|开始（动词）|U3
+180|commentaire (n.m.)|comment (n.)|评论（阳性名词）|U7
+181|commerce (n.m.)|trade, business (n.)|商业（阳性名词）|U4
+182|commercial (n.m.)|commercial (n.)|商务人员（阳性名词）|U7
+183|communauté (n.f.)|community (n.)|社团，团体（阴性名词）|U2
+184|communication (n.f.)|communication (n.)|联络（阴性名词）|U3
+185|compétent (adj.)|competent (adj.)|有能力的（形容词）|U6
+186|compléter (v.)|complete (v.)|补充，使完整（动词）|U0
+187|comprendre (v.)|understand (v.)|包括，理解（动词）|U1
+188|compte (n.m.)|account (n.)|计数（阳性名词）|U6
+189|compter (v.)|count (v.)|数，计算（动词）|U8
+190|compteur (n.m.)|counter (n.)|计数器（阳性名词）|U9
+191|concombre (n.m.)|cucumber (n.)|黄瓜（阳性名词）|U4
+192|conférence (n.f.)|conference (n.)|会议（阴性名词）|U4
+193|confiture (n.f.)|jam (n.)|果酱（阴性名词）|U3
+194|confirmer (v.)|confirm (v.)|证实，确认（动词）|U1
+195|connaissance (n.f.)|knowledge, acquaintance (n.)|认识，了解（阴性名词）|U4
+196|connaître (v.)|know (v.)|知道（动词）|U1
+197|connecter (se) (v.)|connect (v.)|连接（动词）|U6
+198|conseil (n.m.)|advice (n.)|建议，意见（阳性名词）|U7
+199|consigne (n.f.)|instructions (n.pl.)|命令，指令（阴性名词）|U0
+200|consommateur (n.m.)|consumer (n.)|消费者，用户（阳性名词）|U6
+201|consommation (n.f.)|consumption (n.)|消费（阴性名词）|U7
+202|consommer (v.)|consume (v.)|消费（动词）|U9
+203|contacter (v.)|contact (v.)|同……联系（动词）|U4
+204|contemporain (adj.)|contemporary (adj.)|现代的，当代的（形容词）|U8
+205|content (adj.)|happy (adj.)|高兴的（形容词）|U4
+206|continuer (v.)|continue (v.)|继续（动词）|U2
+207|contrat (n.m.)|contract (n.)|合同，契约（阳性名词）|U9
+208|copain (n.m.)|friend, boyfriend (n.)|伙伴，朋友（阳性名词)|U3
+209|coquille SaintJacques (n.f.)|scallop (n.)|扇贝(阴性名词)|U5
+210|cosmétique (n.m.)|cosmetics (n.)|化妆品(阳性名词)|U1
+211|costume (n.m.)|costume, suit (n.)|服装(阳性名词)|U6
+212|côte (n.f.)|coast, hill (n.)|海岸线(阴性名词)|U3
+213|coucher (se) (v.)|go to bed (v.)|睡觉（动词）|U3
+214|couette (n.f.)|duvet (n.)|羽绒被(阴性名词)|U9
+215|couloir (n.m)|corridor (n.)|走廊,通道(阳性名词)|U2
+216|coupe (n.f.)|cup, cut (n.)|切割，剖面（阴性名词）|U2
+217|couple (n.m.)|couple (n.)|一对，一双（阳性名词）|U5
+218|courriel (n.m.)|email (n.)|电子邮件（阳性名词）|U1

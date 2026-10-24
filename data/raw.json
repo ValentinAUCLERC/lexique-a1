@@ -1,0 +1,8712 @@
+[
+ {
+  "fr": "à l’heure",
+  "en": "on time",
+  "es": "puntual",
+  "de": "pünktlich",
+  "zh": "准时",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 1
+ },
+ {
+  "fr": "abîmer (v.)",
+  "en": "damage (v.)",
+  "es": "estropear (v.)",
+  "de": "abnutzen (v.)",
+  "zh": "损坏（动词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 2
+ },
+ {
+  "fr": "aborder (v.)",
+  "en": "approach, tackle (v.)",
+  "es": "abordar (v.)",
+  "de": "zur Sprache bringen (v.)",
+  "zh": "登陆（动词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 3
+ },
+ {
+  "fr": "absent (adj.)",
+  "en": "absent (adj.)",
+  "es": "ausente (adj.)",
+  "de": "abwesend (adj.)",
+  "zh": "缺席（形容词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 4
+ },
+ {
+  "fr": "absolument (adv.)",
+  "en": "absolutely (adv.)",
+  "es": "absolutamente (adv.)",
+  "de": "absolut (adv.)",
+  "zh": "绝对地（副词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 5
+ },
+ {
+  "fr": "accent (n.m.)",
+  "en": "accent (n.)",
+  "es": "acento (n.m.)",
+  "de": "Akzent (n. m.)",
+  "zh": "重音（阳性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 6
+ },
+ {
+  "fr": "accepter (v.)",
+  "en": "accept (v.)",
+  "es": "aceptar (v.)",
+  "de": "annehmen (v.)",
+  "zh": "接受（动词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 7
+ },
+ {
+  "fr": "accompagnement (n.m.)",
+  "en": "support (n.)",
+  "es": "acompañamiento (n.m.)",
+  "de": "Begleitung (n. f.)",
+  "zh": "陪同（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 8
+ },
+ {
+  "fr": "accordéon (n.m.)",
+  "en": "accordion (n.)",
+  "es": "acordeón (n.m.)",
+  "de": "Akkordeon (n. n.)",
+  "zh": "手风琴（阳性名词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 9
+ },
+ {
+  "fr": "accueil (n.m.)",
+  "en": "welcome (n.)",
+  "es": "acogida (n.f.)",
+  "de": "Empfang (n. m.)",
+  "zh": "接待（阳性名词）",
+  "unit": "U2",
+  "lesson": "L1",
+  "id": 10
+ },
+ {
+  "fr": "achat (n.m.)",
+  "en": "purchase (n.)",
+  "es": "compra (n.f.)",
+  "de": "Kauf (n. m.)",
+  "zh": "购买（阳性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 11
+ },
+ {
+  "fr": "acheter (v.)",
+  "en": "buy (v.)",
+  "es": "comprar (v.)",
+  "de": "kaufen (v.)",
+  "zh": "购买（动词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 12
+ },
+ {
+  "fr": "acteur (n.m)",
+  "en": "actor (n.)",
+  "es": "actor (n.m)",
+  "de": "Schauspieler (n. m.)",
+  "zh": "演员（阳性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 13
+ },
+ {
+  "fr": "adapter (v.)",
+  "en": "adapt (v.)",
+  "es": "adaptar (v.)",
+  "de": "anpassen (v.)",
+  "zh": "适应（动词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 14
+ },
+ {
+  "fr": "admirer (v.)",
+  "en": "admire (v.)",
+  "es": "admirar (v.)",
+  "de": "bewundern (v.)",
+  "zh": "赞赏（动词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 15
+ },
+ {
+  "fr": "adorer (v.)",
+  "en": "adore (v.)",
+  "es": "adorar (v)",
+  "de": "sehr mögen (v.)",
+  "zh": "热爱（动词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 16
+ },
+ {
+  "fr": "adresse (n.f.)",
+  "en": "address (n.)",
+  "es": "dirección (n.f.)",
+  "de": "Adresse (n. f.)",
+  "zh": "地址（阴性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 17
+ },
+ {
+  "fr": "adresse électronique (n.f.)",
+  "en": "email address (n.)",
+  "es": "dirección electrónica (n.f.)",
+  "de": "E-Mail-Adresse (n. f.)",
+  "zh": "电子邮件地址（阴性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 18
+ },
+ {
+  "fr": "affiche (n.f.)",
+  "en": "poster (n.)",
+  "es": "cartel (n.m.)",
+  "de": "Plakat (n. n.)",
+  "zh": "广告（阴性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 19
+ },
+ {
+  "fr": "âge (n.m.)",
+  "en": "age (n.)",
+  "es": "edad (n.f.)",
+  "de": "Alter (n. n.)",
+  "zh": "年龄（阳性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 20
+ },
+ {
+  "fr": "agence (n.f.)",
+  "en": "agency (n.)",
+  "es": "agencia (n.f.)",
+  "de": "Agentur (n. f.)",
+  "zh": "办事处（阴性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 21
+ },
+ {
+  "fr": "agriculteur (n.m.)",
+  "en": "farmer (n.)",
+  "es": "agricultor (n.m.)",
+  "de": "Landwirt (n. m.)",
+  "zh": "农业生产者（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 22
+ },
+ {
+  "fr": "aider (v.)",
+  "en": "help (v.)",
+  "es": "ayudar (v.)",
+  "de": "helfen (v.)",
+  "zh": "帮助（动词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 23
+ },
+ {
+  "fr": "aimable (adj.)",
+  "en": "kind (adj.)",
+  "es": "amable (adj.)",
+  "de": "freundlich (adj.)",
+  "zh": "可爱的（形容词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 24
+ },
+ {
+  "fr": "aimer (v.)",
+  "en": "love, like (v.)",
+  "es": "amar (v.)",
+  "de": "lieben (v.)",
+  "zh": "爱（动词）",
+  "unit": "U0",
+  "lesson": "L3",
+  "id": 25
+ },
+ {
+  "fr": "aise (à l’) (n.f.)",
+  "en": "ease (at) (n.)",
+  "es": "gusto (a) (n.m.)",
+  "de": "mit Leichtigkeit (n. f.)",
+  "zh": "舒服（阴性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 26
+ },
+ {
+  "fr": "aller (v.)",
+  "en": "go (v.)",
+  "es": "ir (v.)",
+  "de": "gehen, fahren (v.)",
+  "zh": "去（动词）",
+  "unit": "U2",
+  "lesson": "L1",
+  "id": 27
+ },
+ {
+  "fr": "amateur (adj.)",
+  "en": "amateur (adj.)",
+  "es": "aficionado (adj.)",
+  "de": "Amateur- (in Zusammensetzungen)",
+  "zh": "业余的（形容词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 28
+ },
+ {
+  "fr": "ambassade (n.f.)",
+  "en": "embassy (n.)",
+  "es": "embajada (n.f.)",
+  "de": "Botschaft (n. f.)",
+  "zh": "大使馆（阴性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 29
+ },
+ {
+  "fr": "ambiance (n.f.)",
+  "en": "atmosphere (n.)",
+  "es": "ambiente (n.m.)",
+  "de": "Stimmung (n. f.)",
+  "zh": "气氛（阴性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 30
+ },
+ {
+  "fr": "aménager (v.)",
+  "en": "fit out (v.)",
+  "es": "instalar (v.)",
+  "de": "einrichten (v.)",
+  "zh": "整理（动词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 31
+ },
+ {
+  "fr": "ami (n.m)",
+  "en": "friend (n.)",
+  "es": "amigo (n.m)",
+  "de": "Freund (n. m.)",
+  "zh": "朋友（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 32
+ },
+ {
+  "fr": "amitié (n.f.)",
+  "en": "friendship (n.)",
+  "es": "amistad (n.f.)",
+  "de": "Freundschaft (n. f.)",
+  "zh": "友谊（阴性名词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 33
+ },
+ {
+  "fr": "amour (n.m.)",
+  "en": "love (n.)",
+  "es": "amor (n.m.)",
+  "de": "Liebe (n. f.)",
+  "zh": "爱情（阳性名词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 34
+ },
+ {
+  "fr": "amoureux (adj.)",
+  "en": "loving (adj.)",
+  "es": "enamorado (adj.)",
+  "de": "verliebt (adj.)",
+  "zh": "爱恋的（形容词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 35
+ },
+ {
+  "fr": "ampoule (n.f.)",
+  "en": "bulb (n.)",
+  "es": "ampolla (n.f.)",
+  "de": "Glühbirne (n. f.)",
+  "zh": "灯泡（阴性名词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 36
+ },
+ {
+  "fr": "amuser (s’) (v.)",
+  "en": "enjoy o.s. (v.)",
+  "es": "divertir (se) (v.)",
+  "de": "sich amüsieren (v.)",
+  "zh": "消遣（动词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 37
+ },
+ {
+  "fr": "ancien (adj.)",
+  "en": "old, former, ancient (adj.)",
+  "es": "antiguo (adj.)",
+  "de": "ehemalig (adj.)",
+  "zh": "古老的（形容词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 38
+ },
+ {
+  "fr": "animateur (n.m.)",
+  "en": "activity leader (n.)",
+  "es": "animador (n.m.)",
+  "de": "Animateur (n. m.)",
+  "zh": "主持人（阳性名词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 39
+ },
+ {
+  "fr": "année (n.f.)",
+  "en": "year (n.)",
+  "es": "año (n.m.)",
+  "de": "Jahr (n. n.)",
+  "zh": "年（阴性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 40
+ },
+ {
+  "fr": "anniversaire (n.m.)",
+  "en": "birthday, anniversary (n.)",
+  "es": "cumpleaños (n.m.)",
+  "de": "Geburtstag (n. m.)",
+  "zh": "周年纪念日，生日（阳性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 41
+ },
+ {
+  "fr": "annuler (v.)",
+  "en": "cancel (v.)",
+  "es": "anular (v.)",
+  "de": "stornieren (v.)",
+  "zh": "取消（动词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 42
+ },
+ {
+  "fr": "août (n.m.)",
+  "en": "august (n.)",
+  "es": "agosto (n.m.)",
+  "de": "August (n. m.)",
+  "zh": "八月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 43
+ },
+ {
+  "fr": "apéritif (n.m.)",
+  "en": "aperitif (n.)",
+  "es": "aperitivo (n.m.)",
+  "de": "Aperitif (n. m.)",
+  "zh": "开胃酒（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 44
+ },
+ {
+  "fr": "appeler (s’) (v.)",
+  "en": "called (be) (v.)",
+  "es": "llamar (se) (v.)",
+  "de": "heißen (v.)",
+  "zh": "名叫，称为（动词）",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 45
+ },
+ {
+  "fr": "appeler (v.)",
+  "en": "call (v.)",
+  "es": "llamar (v.)",
+  "de": "rufen (v.)",
+  "zh": "招呼，号召（动词）",
+  "unit": "U4",
+  "lesson": "L1",
+  "id": 46
+ },
+ {
+  "fr": "apporter (v.)",
+  "en": "bring (v.)",
+  "es": "aportar (v.)",
+  "de": "beitragen (v.)",
+  "zh": "带来（动词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 47
+ },
+ {
+  "fr": "architecte (n.)",
+  "en": "architect (n.)",
+  "es": "arquitecto (n.)",
+  "de": "Architekt, -in (n. m. / f.)",
+  "zh": "建筑师（名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 48
+ },
+ {
+  "fr": "argent (n.m.)",
+  "en": "money (n.)",
+  "es": "dinero (n.m.)",
+  "de": "Geld (n. n.)",
+  "zh": "银，货币，钱（阳性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 49
+ },
+ {
+  "fr": "arrêter (v.)",
+  "en": "stop, arrest (v.)",
+  "es": "detener (v.)",
+  "de": "anhalten (v.)",
+  "zh": "停止（动词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 50
+ },
+ {
+  "fr": "arriver (v.)",
+  "en": "arrive (v.)",
+  "es": "llegar (v.)",
+  "de": "ankommen (v.)",
+  "zh": "到达（动词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 51
+ },
+ {
+  "fr": "arrondissement (n.m)",
+  "en": "arrondissement (n.)",
+  "es": "distrito (n.m)",
+  "de": "Stadtbezirk (n. m.)",
+  "zh": "行政区（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 52
+ },
+ {
+  "fr": "article (n.m.)",
+  "en": "article, item (n.)",
+  "es": "artículo (n.m.)",
+  "de": "Artikel (n. m.)",
+  "zh": "条款（阳性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 53
+ },
+ {
+  "fr": "artiste (n.)",
+  "en": "artist (n.)",
+  "es": "artista (n.)",
+  "de": "Künstler, -in (n. m. / f.)",
+  "zh": "艺术家（名词）",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 54
+ },
+ {
+  "fr": "ascenseur (n.m.)",
+  "en": "lift (n.)",
+  "es": "ascensor (n.m.)",
+  "de": "Aufzug (n. m.)",
+  "zh": "电梯（阳性名词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 55
+ },
+ {
+  "fr": "asseoir (s’) (v.)",
+  "en": "sit down (v.)",
+  "es": "sentar(-se) (v)",
+  "de": "sich setzen (v.)",
+  "zh": "坐，坐下（动词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 56
+ },
+ {
+  "fr": "association (n.f.)",
+  "en": "association (n.)",
+  "es": "asociación (n.f.)",
+  "de": "Verein (n. m.)",
+  "zh": "协会（阴性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 57
+ },
+ {
+  "fr": "attendre (v.)",
+  "en": "wait (v.)",
+  "es": "esperar (v.)",
+  "de": "warten (v.)",
+  "zh": "等，等待（动词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 58
+ },
+ {
+  "fr": "attraction (n.f.)",
+  "en": "attraction (n.)",
+  "es": "atracción (n.f.)",
+  "de": "Attraktion (n. f.)",
+  "zh": "吸引力，魅力（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 59
+ },
+ {
+  "fr": "au revoir",
+  "en": "goodbye",
+  "es": "adiós",
+  "de": "Auf Wiedersehen",
+  "zh": "再见",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 60
+ },
+ {
+  "fr": "auberge (n.f.)",
+  "en": "hostel (n.)",
+  "es": "albergue (n.m.)",
+  "de": "Gasthof (n. m.)",
+  "zh": "客栈，小旅馆（阴性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 61
+ },
+ {
+  "fr": "autobus (bus) (n.m.)",
+  "en": "bus (n.)",
+  "es": "autobús (bus) (n.m.)",
+  "de": "Autobus (Bus) (n. m.)",
+  "zh": "公共汽车（阳性名词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 62
+ },
+ {
+  "fr": "avenue (n.f.)",
+  "en": "avenue (n.)",
+  "es": "avenida (n.f.)",
+  "de": "breite Straße (n. f.)",
+  "zh": "大街（阴性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 63
+ },
+ {
+  "fr": "avion (n.m.)",
+  "en": "plane (n.)",
+  "es": "avión (n.m.)",
+  "de": "Flugzeug (n. n.)",
+  "zh": "飞机（阳性名词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 64
+ },
+ {
+  "fr": "avis (n.m.)",
+  "en": "opinion (n.)",
+  "es": "opinión (n.f.)",
+  "de": "Meinung (n. f.)",
+  "zh": "意见（阳性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 65
+ },
+ {
+  "fr": "avoir (envie de) (v.)",
+  "en": "want (v.)",
+  "es": "tener (ganas de) (v.)",
+  "de": "Lust haben zu (v.)",
+  "zh": "想要（动词）",
+  "unit": "U4",
+  "lesson": "L1",
+  "id": 66
+ },
+ {
+  "fr": "avoir (v.)",
+  "en": "have (v.)",
+  "es": "tener (v.)",
+  "de": "haben (v.)",
+  "zh": "有（动词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 67
+ },
+ {
+  "fr": "avoir faim (v.)",
+  "en": "hungry (be) (v.)",
+  "es": "tener hambre (v.)",
+  "de": "Hunger haben (v.)",
+  "zh": "感到饿（动词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 68
+ },
+ {
+  "fr": "avril (n.m.)",
+  "en": "April (n.)",
+  "es": "abril (n.m.)",
+  "de": "April (n. m.)",
+  "zh": "四月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 69
+ },
+ {
+  "fr": "bacon (n.m.)",
+  "en": "bacon (n.)",
+  "es": "beicon (n.m.)",
+  "de": "Speck (n. m.)",
+  "zh": "培根（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 70
+ },
+ {
+  "fr": "baguette (n.f.)",
+  "en": "baguette (n.)",
+  "es": "barra (n.f.)",
+  "de": "Baguette (n. n.)",
+  "zh": "棒，棍（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 71
+ },
+ {
+  "fr": "baignade (n.f.)",
+  "en": "bathing (n.)",
+  "es": "baño (n.m.)",
+  "de": "Baden (n. n.)",
+  "zh": "浴场（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 72
+ },
+ {
+  "fr": "baignoire (n.f.)",
+  "en": "bathtub (n.)",
+  "es": "bañera (n.f.)",
+  "de": "Badewanne (n. f.)",
+  "zh": "浴缸，浴盆（阴性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 73
+ },
+ {
+  "fr": "balcon (n.m.)",
+  "en": "balcony (n.)",
+  "es": "balcón (n.m.)",
+  "de": "Balkon (n. m.)",
+  "zh": "阳台（阳性名词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 74
+ },
+ {
+  "fr": "bande dessinée (n.f.)",
+  "en": "comic strip (n.)",
+  "es": "tebeo (n.m.)",
+  "de": "Comic (n. n.)",
+  "zh": "报刊上的连环画（阴性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 75
+ },
+ {
+  "fr": "banlieue (n.f.)",
+  "en": "suburbs (n.pl.)",
+  "es": "afueras (n.f.)",
+  "de": "Vorort (n. f.)",
+  "zh": "郊区，市郊（阴性名词）",
+  "unit": "U9",
+  "lesson": "Pr",
+  "id": 76
+ },
+ {
+  "fr": "banque (n.f.)",
+  "en": "bank (n.)",
+  "es": "banco (n.m.)",
+  "de": "Bank (n. f.)",
+  "zh": "银行（阴性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 77
+ },
+ {
+  "fr": "barquette (n.f.)",
+  "en": "tub, punnet (n.)",
+  "es": "bandeja (n.f.)",
+  "de": "Körbchen (n. n.)",
+  "zh": "小渡船，小艇（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 78
+ },
+ {
+  "fr": "bas (adj.)",
+  "en": "low (adj.)",
+  "es": "bajo (adj.)",
+  "de": "niedrig (adj.)",
+  "zh": "低的，矮的（形容词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 79
+ },
+ {
+  "fr": "bas (en) (adv.)",
+  "en": "below (adv.)",
+  "es": "abajo (adv.)",
+  "de": "unten (adv.)",
+  "zh": "在下面（副词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 80
+ },
+ {
+  "fr": "basket (n.f.)",
+  "en": "basketball (n.)",
+  "es": "zapatilla deportiva (n.f.)",
+  "de": "Sportschuh (n. m.)",
+  "zh": "篮球（阴性名词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 81
+ },
+ {
+  "fr": "beau / belle (adj.)",
+  "en": "handsome/beautiful (adj.)",
+  "es": "bello/ bella (adj.)",
+  "de": "schön (adj.)",
+  "zh": "美丽的（形容词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 82
+ },
+ {
+  "fr": "beau-père (n.m.)",
+  "en": "father-in-law, stepfather (n.)",
+  "es": "suegro (n.m.)",
+  "de": "Schwiegervater (n. m.)",
+  "zh": "岳父（阳性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 83
+ },
+ {
+  "fr": "belge (adj.)",
+  "en": "Belgian (adj.)",
+  "es": "belga (adj.)",
+  "de": "belgisch (adj.)",
+  "zh": "比利时的（形容词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 84
+ },
+ {
+  "fr": "bénévole (n.m.)",
+  "en": "volunteer (n.)",
+  "es": "voluntario (n.m.)",
+  "de": "ehrenamtlicher Mitarbeiter (n. m.)",
+  "zh": "自愿的，义务的（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 85
+ },
+ {
+  "fr": "besoin (avoir) (v.)",
+  "en": "need (v.)",
+  "es": "necesitar (v.)",
+  "de": "brauchen (v.)",
+  "zh": "需要（动词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 86
+ },
+ {
+  "fr": "bibliothèque (n.f.)",
+  "en": "library (n.)",
+  "es": "biblioteca (n.f.)",
+  "de": "Bibliothek (n. f.)",
+  "zh": "图书馆（阴性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 87
+ },
+ {
+  "fr": "bière (n.f.)",
+  "en": "beer (n.)",
+  "es": "cerveza (n.f.)",
+  "de": "Bier (n. n.)",
+  "zh": "啤酒（阴性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 88
+ },
+ {
+  "fr": "billet (n.m.)",
+  "en": "ticket (n.)",
+  "es": "billete (n.m.)",
+  "de": "Karte (n. f.)",
+  "zh": "票，门票（阳性名词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 89
+ },
+ {
+  "fr": "bio (adj.)",
+  "en": "organic (adj.)",
+  "es": "ecológico (adj.)",
+  "de": "biologisch (adj.)",
+  "zh": "天然的，绿色的（形容词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 90
+ },
+ {
+  "fr": "blanc (adj.)",
+  "en": "white (adj.)",
+  "es": "blanco (adj.)",
+  "de": "weiß (adj.)",
+  "zh": "白色的（形容词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 91
+ },
+ {
+  "fr": "bleu (adj.)",
+  "en": "blue (adj.)",
+  "es": "azul (adj.)",
+  "de": "blau (adj.)",
+  "zh": "蓝色的（形容词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 92
+ },
+ {
+  "fr": "bœuf (n.m.)",
+  "en": "beef (n.)",
+  "es": "buey (n.m.)",
+  "de": "Rind (n. n.)",
+  "zh": "牛，牛肉（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 93
+ },
+ {
+  "fr": "boire (v.)",
+  "en": "drink (v.)",
+  "es": "beber (v.)",
+  "de": "trinken (v.)",
+  "zh": "喝（动词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 94
+ },
+ {
+  "fr": "boisson (n.f.)",
+  "en": "drink (n.)",
+  "es": "bebida (n.f.)",
+  "de": "Getränk (n. n.)",
+  "zh": "饮料（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 95
+ },
+ {
+  "fr": "bon (adj.)",
+  "en": "good (adj.)",
+  "es": "bueno (adj.)",
+  "de": "gut (adj.)",
+  "zh": "好的（形容词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 96
+ },
+ {
+  "fr": "bonjour",
+  "en": "hello",
+  "es": "hola",
+  "de": "Guten Tag",
+  "zh": "你好，您好",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 97
+ },
+ {
+  "fr": "botte (n.f.)",
+  "en": "boot (n.)",
+  "es": "bota (n.f.)",
+  "de": "Stiefel (n. m.)",
+  "zh": "长靴，长筒靴（阴性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 98
+ },
+ {
+  "fr": "boucles d’oreille (n.f.pl.)",
+  "en": "earrings (n.pl.)",
+  "es": "pendientes (n.m.pl.)",
+  "de": "Ohrringe (n. m. pl.)",
+  "zh": "耳环（阴性名词复数）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 99
+ },
+ {
+  "fr": "boulanger (n.m.)",
+  "en": "baker (n.)",
+  "es": "panadero (n.m.)",
+  "de": "Bäcker (n. m.)",
+  "zh": "面包师傅（阳性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 100
+ },
+ {
+  "fr": "boulangerie (n.f.)",
+  "en": "bakery (n.)",
+  "es": "panadería (n.f.)",
+  "de": "Bäckerei (n. f.)",
+  "zh": "面包店（阴性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 101
+ },
+ {
+  "fr": "boulevard (n.m.)",
+  "en": "boulevard (n.)",
+  "es": "bulevar (n.m.)",
+  "de": "Prachtstraße (n. m.)",
+  "zh": "大马路，林荫大道（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 102
+ },
+ {
+  "fr": "boulot (n.m. familier)",
+  "en": "job, work (n. informal)",
+  "es": "curro (n.m. familiar)",
+  "de": "Arbeit (n. f. ugs.)",
+  "zh": "活计，工作（阳性名词，俗语）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 103
+ },
+ {
+  "fr": "bourgeois (n.m.)",
+  "en": "middle-class person (n.)",
+  "es": "burgués (n.m.)",
+  "de": "Bürger (n. m.)",
+  "zh": "资产者（阳性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 104
+ },
+ {
+  "fr": "bourse (n.f.)",
+  "en": "stock exchange (n.)",
+  "es": "beca (n.f.)",
+  "de": "Börse (n. f.)",
+  "zh": "证券交易所，股市（阴性名词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 105
+ },
+ {
+  "fr": "bouteille (n.f.)",
+  "en": "bottle (n.)",
+  "es": "botella (n.f.)",
+  "de": "Flasche (n. f.)",
+  "zh": "瓶，一瓶容量（阴性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 106
+ },
+ {
+  "fr": "bracelet (n.m.)",
+  "en": "bracelet (n.)",
+  "es": "pulsera (n.f.)",
+  "de": "Armband (n. n.)",
+  "zh": "手镯，链子（阳性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 107
+ },
+ {
+  "fr": "bravo (n.m.)",
+  "en": "cheer (n.)",
+  "es": "bravo (n.m.)",
+  "de": "Bravo (n. n.)",
+  "zh": "喝彩声，拍手叫好声（阳性名词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 108
+ },
+ {
+  "fr": "bruit (n.m.)",
+  "en": "noise (n.)",
+  "es": "ruido (n.m.)",
+  "de": "Lärm (n. m.)",
+  "zh": "声音（阳性名词）",
+  "unit": "U9",
+  "lesson": "Pr",
+  "id": 109
+ },
+ {
+  "fr": "brunch (n.m.)",
+  "en": "brunch (n.)",
+  "es": "almuerzo (n.m.)",
+  "de": "Brunch (n. m.)",
+  "zh": "早中饭（阳性名词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 110
+ },
+ {
+  "fr": "bureau (n.m.)",
+  "en": "desk, office (n.)",
+  "es": "oficina (n.f.)",
+  "de": "Büro (n. n.)",
+  "zh": "办公室（阳性名词）",
+  "unit": "U1",
+  "lesson": "L3",
+  "id": 111
+ },
+ {
+  "fr": "ça va",
+  "en": "ok, fine",
+  "es": "bien",
+  "de": "Es geht",
+  "zh": "行，好的",
+  "unit": "U0",
+  "lesson": "L3",
+  "id": 112
+ },
+ {
+  "fr": "cabane (n.f.)",
+  "en": "hut (n.)",
+  "es": "cabaña (n.f.)",
+  "de": "Hütte (n. f.)",
+  "zh": "简陋的小屋（阴性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 113
+ },
+ {
+  "fr": "cabinet (n.m.)",
+  "en": "cupboard (n.)",
+  "es": "gabinete (n.m.)",
+  "de": "Kanzlei (n. f.)",
+  "zh": "办公室（阳性名词）",
+  "unit": "U9",
+  "lesson": "Pr",
+  "id": 114
+ },
+ {
+  "fr": "cadeau (n.m.)",
+  "en": "gift (n.)",
+  "es": "regalo (n.m.)",
+  "de": "Geschenk (n. n.)",
+  "zh": "礼物（阳性名词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 115
+ },
+ {
+  "fr": "cadre (n.m.)",
+  "en": "frame, manager (n.)",
+  "es": "marco (n.m.)",
+  "de": "Rahmen (n. m.)",
+  "zh": "范围（阳性名词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 116
+ },
+ {
+  "fr": "café (n.m.)",
+  "en": "coffee, café (n.)",
+  "es": "café (n.m.)",
+  "de": "Kaffee (n. m.)",
+  "zh": "咖啡（阳性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 117
+ },
+ {
+  "fr": "caillant (adj. belgicisme)",
+  "en": "chilly (adj. belgicism)",
+  "es": "frío (adj.)",
+  "de": "eisig (adj., belgischer Ausdruck)",
+  "zh": "凝结的（形容词，比利时法语）",
+  "unit": "U4",
+  "lesson": "L3",
+  "id": 118
+ },
+ {
+  "fr": "campagne (n.f.)",
+  "en": "campaign, countryside (n.)",
+  "es": "campo (n.m.)",
+  "de": "Land (n. n.)",
+  "zh": "乡间（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 119
+ },
+ {
+  "fr": "canal (n.m.)",
+  "en": "canal (n.)",
+  "es": "canal (n.m.)",
+  "de": "Kanal (n. m.)",
+  "zh": "运河，管道（阳性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 120
+ },
+ {
+  "fr": "canapé (n.m.)",
+  "en": "couch (n.)",
+  "es": "sofá (n.m.)",
+  "de": "Sofa (n. n.)",
+  "zh": "长沙发（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 121
+ },
+ {
+  "fr": "canyoning (n.m.)",
+  "en": "canyoning (n.)",
+  "es": "barranquismo (n.m.)",
+  "de": "Canyoning (n. n.)",
+  "zh": "蹦谷运动（阳性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 122
+ },
+ {
+  "fr": "capitaine (n.)",
+  "en": "captain (n.)",
+  "es": "capitán (n.)",
+  "de": "Kapitän (n.)",
+  "zh": "队长，船长（名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 123
+ },
+ {
+  "fr": "capitale (n.f.)",
+  "en": "capital (n.)",
+  "es": "capital (n.f.)",
+  "de": "Hauptstadt (n. f.)",
+  "zh": "首都（阴性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 124
+ },
+ {
+  "fr": "carnaval (n.m.)",
+  "en": "carnival (n.)",
+  "es": "carnaval (n.m.)",
+  "de": "Karneval (n. m.)",
+  "zh": "狂欢节（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 125
+ },
+ {
+  "fr": "carte (n.f.)",
+  "en": "menu, card (n.)",
+  "es": "mapa (n.m.)",
+  "de": "Karte (n. f.)",
+  "zh": "卡片，地图（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 126
+ },
+ {
+  "fr": "carte bancaire (n.f.)",
+  "en": "bank card (n.)",
+  "es": "tarjeta bancaria (n.f.)",
+  "de": "Bankkarte (n. f.)",
+  "zh": "银行卡（阴性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 127
+ },
+ {
+  "fr": "cascade (n.f.)",
+  "en": "waterfall (n.)",
+  "es": "cascada (n.f.)",
+  "de": "Wasserfall (n. m.)",
+  "zh": "瀑布（阴性名词）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 128
+ },
+ {
+  "fr": "casquette (n.f.)",
+  "en": "cap (n.)",
+  "es": "visera (n.f.)",
+  "de": "Mütze (n. m.)",
+  "zh": "鸭舌帽（阴性名词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 129
+ },
+ {
+  "fr": "cathédrale (n.f.)",
+  "en": "cathedral (n.)",
+  "es": "catedral (n.f.)",
+  "de": "Kathedrale (n. f.)",
+  "zh": "大教堂（阴性名词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 130
+ },
+ {
+  "fr": "catholique (adj.)",
+  "en": "Catholic (adj.)",
+  "es": "católico (adj.)",
+  "de": "katholisch (adj.)",
+  "zh": "天主教的（形容词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 131
+ },
+ {
+  "fr": "cave (n.f.)",
+  "en": "cellar (n.)",
+  "es": "bodega (n.f.)",
+  "de": "Keller (n. m.)",
+  "zh": "地下室，酒窖（阴性名词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 132
+ },
+ {
+  "fr": "ceinture (n.f.)",
+  "en": "belt (n.)",
+  "es": "cinturón (n.m.)",
+  "de": "Gürtel (n. m.)",
+  "zh": "皮带，腰带（阴性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 133
+ },
+ {
+  "fr": "célèbre (adj.)",
+  "en": "famous (adj.)",
+  "es": "famoso (adj.)",
+  "de": "berühmt (adj.)",
+  "zh": "著名的（形容词）",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 134
+ },
+ {
+  "fr": "centre (n.m.)",
+  "en": "centre (n.)",
+  "es": "centro (n.m.)",
+  "de": "Zentrum (n. n.)",
+  "zh": "中心（阳性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 135
+ },
+ {
+  "fr": "centre culturel (n.m.)",
+  "en": "cultural centre (n.)",
+  "es": "centro cultural (n.m.)",
+  "de": "Kulturzentrum (n. n.)",
+  "zh": "文化中心（阳性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 136
+ },
+ {
+  "fr": "cerise (n.f.)",
+  "en": "cherry (n.)",
+  "es": "cereza (n.f.)",
+  "de": "Kirsche (n. f.)",
+  "zh": "樱桃（阴性名词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 137
+ },
+ {
+  "fr": "chalet (n.m.)",
+  "en": "chalet (n.)",
+  "es": "chalet (n.m.)",
+  "de": "Landhaus (n. n.)",
+  "zh": "木屋（阳性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 138
+ },
+ {
+  "fr": "champagne (n.m.)",
+  "en": "champagne (n.)",
+  "es": "champán (n.m.)",
+  "de": "Champagner (n. m.)",
+  "zh": "香槟酒（阳性名词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 139
+ },
+ {
+  "fr": "champignon (n.m.)",
+  "en": "mushroom (n.)",
+  "es": "champiñón (n.m.)",
+  "de": "Pilz (n. m.)",
+  "zh": "蘑菇（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 140
+ },
+ {
+  "fr": "changer (v.)",
+  "en": "change (v.)",
+  "es": "cambiar (v)",
+  "de": "wechseln (v.)",
+  "zh": "改变（动词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 141
+ },
+ {
+  "fr": "chanson (n.f.)",
+  "en": "song (n.)",
+  "es": "canción (n.f.)",
+  "de": "Lied (n. n.)",
+  "zh": "歌曲（阴性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 142
+ },
+ {
+  "fr": "chanter (v.)",
+  "en": "sing (v.)",
+  "es": "cantar (v)",
+  "de": "singen (v.)",
+  "zh": "唱歌（动词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 143
+ },
+ {
+  "fr": "chanteur (n.m.)",
+  "en": "singer (n.)",
+  "es": "cantante (n.m.)",
+  "de": "Sänger (n. m.)",
+  "zh": "歌唱家（阳性名词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 144
+ },
+ {
+  "fr": "chapeau (n.m.)",
+  "en": "hat (n.)",
+  "es": "sombrero (n.m.)",
+  "de": "Hut (n. m.)",
+  "zh": "帽子（阳性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 145
+ },
+ {
+  "fr": "charges (n.f.pl.)",
+  "en": "expenses (n.pl.)",
+  "es": "cargas (n.f.pl.)",
+  "de": "Aufwendungen (n. f. pl.)",
+  "zh": "费用，开支（阴性名词复数）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 146
+ },
+ {
+  "fr": "château (n.m.)",
+  "en": "château (n.)",
+  "es": "castillo (n.m.)",
+  "de": "Schloss (n. n.)",
+  "zh": "城堡（阳性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 147
+ },
+ {
+  "fr": "chauffage (n.m.)",
+  "en": "heating (n.)",
+  "es": "calefacción (n.f.)",
+  "de": "Heizung (n. f.)",
+  "zh": "加热（阳性名词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 148
+ },
+ {
+  "fr": "chaussettes (n.f.pl.)",
+  "en": "socks (n.pl.)",
+  "es": "calcetines (n.m.pl.)",
+  "de": "Socken (n. f. pl.)",
+  "zh": "短筒袜（阴性名词复数）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 149
+ },
+ {
+  "fr": "chef (n.m.)",
+  "en": "chef, boss (n.)",
+  "es": "jefe (n.m.)",
+  "de": "Chef (n. m.)",
+  "zh": "首领，头儿（阳性名词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 150
+ },
+ {
+  "fr": "chemisier (n.m.)",
+  "en": "blouse (n.)",
+  "es": "blusa (n.f.)",
+  "de": "Bluse (n. f.)",
+  "zh": "女式长袖衬衫（阳性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 151
+ },
+ {
+  "fr": "chèque (n.m.)",
+  "en": "cheque (n.)",
+  "es": "cheque (n.m.)",
+  "de": "Scheck (n. m.9",
+  "zh": "支票（阳性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 152
+ },
+ {
+  "fr": "cher (adj.)",
+  "en": "expensive (adj.)",
+  "es": "caro (adj.)",
+  "de": "teuer (adj.)",
+  "zh": "亲爱的，昂贵的（形容词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 153
+ },
+ {
+  "fr": "chercher (v.)",
+  "en": "look for (v.)",
+  "es": "buscar (v.)",
+  "de": "suchen (v.)",
+  "zh": "寻找（动词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 154
+ },
+ {
+  "fr": "chercheur (n.m.)",
+  "en": "researcher (n.)",
+  "es": "investigador (n.m.)",
+  "de": "Forscher (n. m.)",
+  "zh": "研究员（阳性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 155
+ },
+ {
+  "fr": "cheval (n.m.)",
+  "en": "horse (n.)",
+  "es": "caballo (n.m.)",
+  "de": "Pferd (n. n.)",
+  "zh": "马（阳性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 156
+ },
+ {
+  "fr": "chien (n.m.)",
+  "en": "dog (n.)",
+  "es": "perro (n.m.)",
+  "de": "Hund (n. m.)",
+  "zh": "狗（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 157
+ },
+ {
+  "fr": "chocolat (n.m.)",
+  "en": "chocolate (n.)",
+  "es": "chocolate (n.m.)",
+  "de": "Schokolade (n. f.)",
+  "zh": "巧克力（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 158
+ },
+ {
+  "fr": "choisir (v.)",
+  "en": "choose (v.)",
+  "es": "escoger (v.)",
+  "de": "wählen (v.)",
+  "zh": "选择（动词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 159
+ },
+ {
+  "fr": "choix (n.m.)",
+  "en": "choice (n.)",
+  "es": "elección (n.f.)",
+  "de": "Auswahl (n. f.)",
+  "zh": "选择（阳性名词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 160
+ },
+ {
+  "fr": "chômeur (n.m.)",
+  "en": "unemployed person (n.)",
+  "es": "parado (n.m.)",
+  "de": "Arbeitsloser (n. m.)",
+  "zh": "失业者（阳性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 161
+ },
+ {
+  "fr": "chorale (n.f.)",
+  "en": "choir (n.)",
+  "es": "coral (n.f.)",
+  "de": "Chor (n. m.)",
+  "zh": "合唱团（阴性名词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 162
+ },
+ {
+  "fr": "chose (n.f.)",
+  "en": "thing (n.)",
+  "es": "cosa (n.f.)",
+  "de": "Sache (n. f.)",
+  "zh": "事情（阴性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 163
+ },
+ {
+  "fr": "cinéma (n.m.)",
+  "en": "cinema (n.)",
+  "es": "cine (n.m.)",
+  "de": "Kino (n. n.)",
+  "zh": "电影（阴性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 164
+ },
+ {
+  "fr": "ciseaux (n.m.pl.)",
+  "en": "scissors (n.pl.)",
+  "es": "tijeras (n.f.pl.)",
+  "de": "Schere (n. f.)",
+  "zh": "剪刀（阳性名词复数）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 165
+ },
+ {
+  "fr": "civilisation (n.f.)",
+  "en": "civilisation (n.)",
+  "es": "civilización (n.f.)",
+  "de": "Zivilisation (n. f.)",
+  "zh": "文明（阴性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 166
+ },
+ {
+  "fr": "clair (adj.)",
+  "en": "light (adj.)",
+  "es": "claro (adj.)",
+  "de": "klar (adj.)",
+  "zh": "明亮的，淡色的（形容词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 167
+ },
+ {
+  "fr": "classe (n.f.)",
+  "en": "class (n.)",
+  "es": "clase (n.f.)",
+  "de": "Klasse (n. f.)",
+  "zh": "等级，班级（阴性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 168
+ },
+ {
+  "fr": "classique (adj.)",
+  "en": "classic (adj.)",
+  "es": "clásico (adj.)",
+  "de": "klassisch (adj.)",
+  "zh": "古典的（形容词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 169
+ },
+ {
+  "fr": "cliquer (v.)",
+  "en": "click (v.)",
+  "es": "pinchar (v.)",
+  "de": "klicken (v.)",
+  "zh": "点击鼠标（动词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 170
+ },
+ {
+  "fr": "coin (n.m.)",
+  "en": "corner (n.)",
+  "es": "rincón (n.m.)",
+  "de": "Ecke (n. f.)",
+  "zh": "角落（阳性名词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 171
+ },
+ {
+  "fr": "collectif (adj.)",
+  "en": "collective (adj.)",
+  "es": "colectivo (adj.)",
+  "de": "kollektiv (adj.)",
+  "zh": "集体的，共同的（形容词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 172
+ },
+ {
+  "fr": "collège (n.m.)",
+  "en": "middle school (n.)",
+  "es": "colegio (de secundaria) (n.m.)",
+  "de": "Mittelschule (n. f.)",
+  "zh": "初中（阳性名词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 173
+ },
+ {
+  "fr": "collier (n.m.)",
+  "en": "necklace (n.)",
+  "es": "collar (n.m.)",
+  "de": "Halskette (n. f.)",
+  "zh": "项链（阳性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 174
+ },
+ {
+  "fr": "colocation (n.f.)",
+  "en": "flatshare (n.)",
+  "es": "alquiler compartido (n.m.)",
+  "de": "Wohngemeinschaft (n. f.)",
+  "zh": "共同承租（阴性名词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 175
+ },
+ {
+  "fr": "coloré (adj.)",
+  "en": "colourful (adj.)",
+  "es": "colorido (adj.)",
+  "de": "bunt (adj.)",
+  "zh": "彩色的（形容词）",
+  "unit": "U7",
+  "lesson": "L3",
+  "id": 176
+ },
+ {
+  "fr": "comédie (n.f.)",
+  "en": "comedy (n.)",
+  "es": "comedia (n.f.)",
+  "de": "Komödie (n. f.)",
+  "zh": "喜剧（阴性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 177
+ },
+ {
+  "fr": "commander (v.)",
+  "en": "order (v.)",
+  "es": "mandar (v.)",
+  "de": "bestellen (v.)",
+  "zh": "指挥，支配（动词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 178
+ },
+ {
+  "fr": "commencer (v.)",
+  "en": "start (v.)",
+  "es": "comenzar (v.)",
+  "de": "beginnen (v.)",
+  "zh": "开始（动词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 179
+ },
+ {
+  "fr": "commentaire (n.m.)",
+  "en": "comment (n.)",
+  "es": "comentario (n.m.)",
+  "de": "Kommentar (n. m.)",
+  "zh": "评论（阳性名词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 180
+ },
+ {
+  "fr": "commerce (n.m.)",
+  "en": "trade, business (n.)",
+  "es": "comercio (n.m.)",
+  "de": "Handel (n. m.)",
+  "zh": "商业（阳性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 181
+ },
+ {
+  "fr": "commercial (n.m.)",
+  "en": "commercial (n.)",
+  "es": "comercial (n.m.)",
+  "de": "Außendienstmitarbeiter (n. m.)",
+  "zh": "商务人员（阳性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 182
+ },
+ {
+  "fr": "communauté (n.f.)",
+  "en": "community (n.)",
+  "es": "comunidad (n.f.)",
+  "de": "Gemeinschaft (n. f.)",
+  "zh": "社团，团体（阴性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 183
+ },
+ {
+  "fr": "communication (n.f.)",
+  "en": "communication (n.)",
+  "es": "comunicación (n.f.)",
+  "de": "Kommunikation (n. f.)",
+  "zh": "联络（阴性名词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 184
+ },
+ {
+  "fr": "compétent (adj.)",
+  "en": "competent (adj.)",
+  "es": "competente (adj.)",
+  "de": "kompetent (adj.)",
+  "zh": "有能力的（形容词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 185
+ },
+ {
+  "fr": "compléter (v.)",
+  "en": "complete (v.)",
+  "es": "completar (v.)",
+  "de": "ergänzen (v.)",
+  "zh": "补充，使完整（动词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 186
+ },
+ {
+  "fr": "comprendre (v.)",
+  "en": "understand (v.)",
+  "es": "comprender (v.)",
+  "de": "umfassen (v.)",
+  "zh": "包括，理解（动词）",
+  "unit": "U1",
+  "lesson": "L3",
+  "id": 187
+ },
+ {
+  "fr": "compte (n.m.)",
+  "en": "account (n.)",
+  "es": "cuenta (n.f.)",
+  "de": "Rechnung (n. f.)",
+  "zh": "计数（阳性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 188
+ },
+ {
+  "fr": "compter (v.)",
+  "en": "count (v.)",
+  "es": "contar (v.)",
+  "de": "zählen (v.)",
+  "zh": "数，计算（动词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 189
+ },
+ {
+  "fr": "compteur (n.m.)",
+  "en": "counter (n.)",
+  "es": "contador (n.m.)",
+  "de": "Zähler (n. m.)",
+  "zh": "计数器（阳性名词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 190
+ },
+ {
+  "fr": "concombre (n.m.)",
+  "en": "cucumber (n.)",
+  "es": "pepino (n.m.)",
+  "de": "Gurke (n. f.)",
+  "zh": "黄瓜（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 191
+ },
+ {
+  "fr": "conférence (n.f.)",
+  "en": "conference (n.)",
+  "es": "conferencia (n.f.)",
+  "de": "Konferenz (n. f.)",
+  "zh": "会议（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 192
+ },
+ {
+  "fr": "confiture (n.f.)",
+  "en": "jam (n.)",
+  "es": "mermelada (n.f.)",
+  "de": "Konfitüre (n. f.)",
+  "zh": "果酱（阴性名词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 193
+ },
+ {
+  "fr": "confirmer (v.)",
+  "en": "confirm (v.)",
+  "es": "confirmar (v.)",
+  "de": "bestätigen (v.)",
+  "zh": "证实，确认（动词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 194
+ },
+ {
+  "fr": "connaissance (n.f.)",
+  "en": "knowledge, acquaintance (n.)",
+  "es": "conocimiento (n.m.)",
+  "de": "Kenntnis (n. f.)",
+  "zh": "认识，了解（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 195
+ },
+ {
+  "fr": "connaître (v.)",
+  "en": "know (v.)",
+  "es": "conocer (v.)",
+  "de": "kennen, kennenlernen (v.)",
+  "zh": "知道（动词）",
+  "unit": "U1",
+  "lesson": "L3",
+  "id": 196
+ },
+ {
+  "fr": "connecter (se) (v.)",
+  "en": "connect (v.)",
+  "es": "conectar (se) (v.)",
+  "de": "sich einloggen (v.)",
+  "zh": "连接（动词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 197
+ },
+ {
+  "fr": "conseil (n.m.)",
+  "en": "advice (n.)",
+  "es": "consejo (n.m.)",
+  "de": "Rat (n. m.)",
+  "zh": "建议，意见（阳性名词）",
+  "unit": "U7",
+  "lesson": "L3",
+  "id": 198
+ },
+ {
+  "fr": "consigne (n.f.)",
+  "en": "instructions (n.pl.)",
+  "es": "consigna (n.f.)",
+  "de": "Anweisung (n. f.)",
+  "zh": "命令，指令（阴性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 199
+ },
+ {
+  "fr": "consommateur (n.m.)",
+  "en": "consumer (n.)",
+  "es": "consumidor (n.m.)",
+  "de": "Konsument (n. m.)",
+  "zh": "消费者，用户（阳性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 200
+ },
+ {
+  "fr": "consommation (n.f.)",
+  "en": "consumption (n.)",
+  "es": "consumo (n.m.)",
+  "de": "Verbrauch (n. m.)",
+  "zh": "消费（阴性名词）",
+  "unit": "U7",
+  "lesson": "L3",
+  "id": 201
+ },
+ {
+  "fr": "consommer (v.)",
+  "en": "consume (v.)",
+  "es": "consumir (v.)",
+  "de": "konsumieren (v.)",
+  "zh": "消费（动词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 202
+ },
+ {
+  "fr": "contacter (v.)",
+  "en": "contact (v.)",
+  "es": "contactar (v.)",
+  "de": "kontaktieren (v.)",
+  "zh": "同……联系（动词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 203
+ },
+ {
+  "fr": "contemporain (adj.)",
+  "en": "contemporary (adj.)",
+  "es": "contemporáneo (adj.)",
+  "de": "zeitgenössisch (adj.)",
+  "zh": "现代的，当代的（形容词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 204
+ },
+ {
+  "fr": "content (adj.)",
+  "en": "happy (adj.)",
+  "es": "contento (adj.)",
+  "de": "zufrieden (adj.)",
+  "zh": "高兴的（形容词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 205
+ },
+ {
+  "fr": "continuer (v.)",
+  "en": "continue (v.)",
+  "es": "continuar (v.)",
+  "de": "weitermachen (v.)",
+  "zh": "继续（动词）",
+  "unit": "U2",
+  "lesson": "L1",
+  "id": 206
+ },
+ {
+  "fr": "contrat (n.m.)",
+  "en": "contract (n.)",
+  "es": "contrato (n.m.)",
+  "de": "Vertrag (n. m.)",
+  "zh": "合同，契约（阳性名词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 207
+ },
+ {
+  "fr": "copain (n.m.)",
+  "en": "friend, boyfriend (n.)",
+  "es": "amigo (n.m.)",
+  "de": "Kamerad (n. m.)",
+  "zh": "伙伴，朋友（阳性名词)",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 208
+ },
+ {
+  "fr": "coquille SaintJacques (n.f.)",
+  "en": "scallop (n.)",
+  "es": "vieira (n.f.)",
+  "de": "Jakobsmuschel (n. f.)",
+  "zh": "扇贝(阴性名词)",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 209
+ },
+ {
+  "fr": "cosmétique (n.m.)",
+  "en": "cosmetics (n.)",
+  "es": "cosmético (n.m.)",
+  "de": "Kosmetik (n. f.)",
+  "zh": "化妆品(阳性名词)",
+  "unit": "U1",
+  "lesson": "L3",
+  "id": 210
+ },
+ {
+  "fr": "costume (n.m.)",
+  "en": "costume, suit (n.)",
+  "es": "traje (n.m.)",
+  "de": "Anzug (n. m.)",
+  "zh": "服装(阳性名词)",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 211
+ },
+ {
+  "fr": "côte (n.f.)",
+  "en": "coast, hill (n.)",
+  "es": "costilla (n.f.)",
+  "de": "Küste (n. f.)",
+  "zh": "海岸线(阴性名词)",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 212
+ },
+ {
+  "fr": "coucher (se) (v.)",
+  "en": "go to bed (v.)",
+  "es": "acostar (se) (v.)",
+  "de": "zu Bett gehen (v.)",
+  "zh": "睡觉（动词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 213
+ },
+ {
+  "fr": "couette (n.f.)",
+  "en": "duvet (n.)",
+  "es": "edredón nórdico (n.m.)",
+  "de": "Steppdecke (n. f.)",
+  "zh": "羽绒被(阴性名词)",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 214
+ },
+ {
+  "fr": "couloir (n.m)",
+  "en": "corridor (n.)",
+  "es": "pasillo (n.m)",
+  "de": "Flur (n. m.)",
+  "zh": "走廊,通道(阳性名词)",
+  "unit": "U2",
+  "lesson": "L1",
+  "id": 215
+ },
+ {
+  "fr": "coupe (n.f.)",
+  "en": "cup, cut (n.)",
+  "es": "corte (n.m)",
+  "de": "Schnitt (n. m.)",
+  "zh": "切割，剖面（阴性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 216
+ },
+ {
+  "fr": "couple (n.m.)",
+  "en": "couple (n.)",
+  "es": "pareja (n.m.)",
+  "de": "Paar (n. n.)",
+  "zh": "一对，一双（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 217
+ },
+ {
+  "fr": "courriel (n.m.)",
+  "en": "email (n.)",
+  "es": "correo electrónico (n.m.)",
+  "de": "E-Mail (n. f.)",
+  "zh": "电子邮件（阳性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 218
+ },
+ {
+  "fr": "cours (n.m.)",
+  "en": "class (n.)",
+  "es": "curso (n.m.)",
+  "de": "Kurs (n. m.)",
+  "zh": "课程，过程（阳性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 219
+ },
+ {
+  "fr": "courses (n.f.pl.)",
+  "en": "shopping (n.)",
+  "es": "compras (n.f.pl.)",
+  "de": "Einkäufe (n. m. pl.)",
+  "zh": "购物（阴性名词复数）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 220
+ },
+ {
+  "fr": "court (adj.)",
+  "en": "short (adj.)",
+  "es": "corto (adj.)",
+  "de": "kurz (adj.)",
+  "zh": "短的（形容词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 221
+ },
+ {
+  "fr": "cousin (n.m.)",
+  "en": "cousin (n.)",
+  "es": "primo (n.m.)",
+  "de": "Cousin (n. m.)",
+  "zh": "堂兄弟（阳性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 222
+ },
+ {
+  "fr": "coussin (n.m.)",
+  "en": "cushion (n.)",
+  "es": "cojín (n.m.)",
+  "de": "Kissen (n. n)",
+  "zh": "坐垫（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 223
+ },
+ {
+  "fr": "coûter (v.)",
+  "en": "cost (v.)",
+  "es": "costar (v.)",
+  "de": "kosten (v.)",
+  "zh": "值（多少钱），花费（动词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 224
+ },
+ {
+  "fr": "couverture (n.f.)",
+  "en": "cover (n.)",
+  "es": "cobertura (n.f.)",
+  "de": "Decke (n. f.)",
+  "zh": "屋顶，封面（阴性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 225
+ },
+ {
+  "fr": "covoiturage (n.m.)",
+  "en": "carpooling (n.)",
+  "es": "compartir coche (v)",
+  "de": "Fahrgemeinschaft (n. f.)",
+  "zh": "拼车（阳性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 226
+ },
+ {
+  "fr": "cravate (n.f.)",
+  "en": "tie (n.)",
+  "es": "corbata (n.f.)",
+  "de": "Krawatte (n. f.)",
+  "zh": "领带（阴性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 227
+ },
+ {
+  "fr": "création (n.f.)",
+  "en": "creation (n.)",
+  "es": "creación (n.f.)",
+  "de": "Schöpfung n. f.)",
+  "zh": "创造（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 228
+ },
+ {
+  "fr": "créer (v.)",
+  "en": "create (v.)",
+  "es": "crear (v.)",
+  "de": "(er)schaffen (v.)",
+  "zh": "创造（动词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 229
+ },
+ {
+  "fr": "crise (n.f.)",
+  "en": "crisis (n.)",
+  "es": "crisis (n.f.)",
+  "de": "Krise (n. f.)",
+  "zh": "危机（阴性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 230
+ },
+ {
+  "fr": "croire (v.)",
+  "en": "believe (v.)",
+  "es": "creer (v.)",
+  "de": "glauben (v.)",
+  "zh": "相信（动词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 231
+ },
+ {
+  "fr": "croissant (n.m.)",
+  "en": "croissant (n.)",
+  "es": "cruasán (n.m.)",
+  "de": "Hörnchen (n. n.)",
+  "zh": "牛角面包（阳性名词）",
+  "unit": "U0",
+  "lesson": "L3",
+  "id": 232
+ },
+ {
+  "fr": "cuisine (n.f.)",
+  "en": "kitchen, cuisine (n.)",
+  "es": "cocina (n.f.)",
+  "de": "Küche (n. f.)",
+  "zh": "厨房（阴性名词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 233
+ },
+ {
+  "fr": "danser (v.)",
+  "en": "dance (v.)",
+  "es": "bailar (v.)",
+  "de": "tanzen (v.)",
+  "zh": "跳舞（动词）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 234
+ },
+ {
+  "fr": "date (n.f.)",
+  "en": "date (n.)",
+  "es": "fecha (n.f.)",
+  "de": "Datum (n. n.)",
+  "zh": "日期（阴性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 235
+ },
+ {
+  "fr": "date de naissance (n.f.)",
+  "en": "date of birth (n.)",
+  "es": "fecha de nacimiento (n.f.)",
+  "de": "Geburtsdatum (n. n.)",
+  "zh": "出生日期（阴性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 236
+ },
+ {
+  "fr": "de rien",
+  "en": "you're welcome",
+  "es": "de nada",
+  "de": "gern geschehen",
+  "zh": "没关系",
+  "unit": "U0",
+  "lesson": "L3",
+  "id": 237
+ },
+ {
+  "fr": "débat (n.m.)",
+  "en": "debate (n.)",
+  "es": "debate (n.m.)",
+  "de": "Debatte (n. f.)",
+  "zh": "讨论，辩论（阳性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 238
+ },
+ {
+  "fr": "décembre (n.m.)",
+  "en": "December (n.)",
+  "es": "diciembre (n.m.)",
+  "de": "Dezember (n. m.)",
+  "zh": "十二月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 239
+ },
+ {
+  "fr": "déception (n.f.)",
+  "en": "disappointment (n.)",
+  "es": "decepción (n.f.)",
+  "de": "Enttäuschung (n. f.)",
+  "zh": "失望（阴性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 240
+ },
+ {
+  "fr": "décontracté (adj.)",
+  "en": "relaxed (adj.)",
+  "es": "relajado (adj.)",
+  "de": "entspannt (adj.)",
+  "zh": "轻松的（形容词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 241
+ },
+ {
+  "fr": "décorer (v.)",
+  "en": "decorate (v.)",
+  "es": "decorar (v.)",
+  "de": "dekorieren (v.)",
+  "zh": "装饰（动词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 242
+ },
+ {
+  "fr": "découverte (n.f.)",
+  "en": "discovery (n.)",
+  "es": "descubrimiento (n.m.)",
+  "de": "Entdeckung (n. f.)",
+  "zh": "发现（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 243
+ },
+ {
+  "fr": "découvrir (v.)",
+  "en": "discover (v.)",
+  "es": "descubrir (v.)",
+  "de": "entdecken (v.)",
+  "zh": "发现（动词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 244
+ },
+ {
+  "fr": "déjeuner (v.)",
+  "en": "lunch (v.)",
+  "es": "comer (v.)",
+  "de": "frühstücken, zu Mittag essen (v.)",
+  "zh": "吃早饭（动词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 245
+ },
+ {
+  "fr": "délai (n.m.)",
+  "en": "deadline, wait (n.)",
+  "es": "plazo (n.m.)",
+  "de": "Frist (n. f.)",
+  "zh": "期限，延期（阳性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 246
+ },
+ {
+  "fr": "délicieux (adj.)",
+  "en": "delicious (adj.)",
+  "es": "delicioso (adj.)",
+  "de": "köstlich (adj.)",
+  "zh": "美味的（形容词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 247
+ },
+ {
+  "fr": "demander (v.)",
+  "en": "ask (v.)",
+  "es": "preguntar (v.)",
+  "de": "fragen (v.)",
+  "zh": "请求（动词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 248
+ },
+ {
+  "fr": "demi (adj.)",
+  "en": "half (adj.)",
+  "es": "medio (adj.)",
+  "de": "halb (adj.)",
+  "zh": "一半的（形容词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 249
+ },
+ {
+  "fr": "départ (n.m.)",
+  "en": "departure (n.)",
+  "es": "salida (n.f.)",
+  "de": "Abfahrt (n. f.)",
+  "zh": "离开，出发（阳性名词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 250
+ },
+ {
+  "fr": "dépasser (v.)",
+  "en": "exceed, overtake (v.)",
+  "es": "superar (v.)",
+  "de": "überholen (v.)",
+  "zh": "超出，超过（动词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 251
+ },
+ {
+  "fr": "dépense (n.f.)",
+  "en": "expense (n.)",
+  "es": "gasto (n.m.)",
+  "de": "Ausgabe (n. f.)",
+  "zh": "开支，费用（阴性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 252
+ },
+ {
+  "fr": "député (n.m)",
+  "en": "member of the Assemblée nationale (French parliament) (n.)",
+  "es": "diputado (n.m)",
+  "de": "Abgeordneter (n. m.)",
+  "zh": "众议员（阳性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 253
+ },
+ {
+  "fr": "descendre (v.)",
+  "en": "descend (v.)",
+  "es": "descender (v.)",
+  "de": "hinuntergehen (v.)",
+  "zh": "下降（动词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 254
+ },
+ {
+  "fr": "désolé (adj.)",
+  "en": "sorry (adj.)",
+  "es": "entristecido (adj.)",
+  "de": "unglücklich (adj.)",
+  "zh": "抱歉的，遗憾的（形容词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 255
+ },
+ {
+  "fr": "dessert (n.m.)",
+  "en": "dessert (n.)",
+  "es": "postre (n.m.)",
+  "de": "Nachspeise (n. f.)",
+  "zh": "餐后点心（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 256
+ },
+ {
+  "fr": "devoir (v.)",
+  "en": "owe, have to (v.)",
+  "es": "deber (v.)",
+  "de": "müssen (v.)",
+  "zh": "应该（动词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 257
+ },
+ {
+  "fr": "dieu (n.m.)",
+  "en": "god (n.)",
+  "es": "dios (n.m.)",
+  "de": "Gott (n. m.)",
+  "zh": "上帝，神（阳性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 258
+ },
+ {
+  "fr": "difficile (adj.)",
+  "en": "difficult (adj.)",
+  "es": "difícil (adj.)",
+  "de": "schwierig (adj.)",
+  "zh": "困难的（形容词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 259
+ },
+ {
+  "fr": "dimanche (n.m.)",
+  "en": "Sunday (n.)",
+  "es": "domingo (n.m.)",
+  "de": "Sonntag (n. m.)",
+  "zh": "星期日（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 260
+ },
+ {
+  "fr": "dîner (n.m.)",
+  "en": "dinner (n.)",
+  "es": "cena (n.m.)",
+  "de": "Abendessen (n. n.)",
+  "zh": "晚餐（阳性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 261
+ },
+ {
+  "fr": "dire (v.)",
+  "en": "say, tell (v.)",
+  "es": "decir (v.)",
+  "de": "sagen (v.)",
+  "zh": "说（动词）",
+  "unit": "U2",
+  "lesson": "L3",
+  "id": 262
+ },
+ {
+  "fr": "directeur (n.m.)",
+  "en": "director (n.)",
+  "es": "director (n.m.)",
+  "de": "Direktor (n. m.)",
+  "zh": "校长，经理（阳性名词）",
+  "unit": "U5",
+  "lesson": "L3",
+  "id": 263
+ },
+ {
+  "fr": "discussion (n.f.)",
+  "en": "discussion (n.)",
+  "es": "discusión (n.f.)",
+  "de": "Diskussion (n. f.)",
+  "zh": "讨论（阴性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 264
+ },
+ {
+  "fr": "disque (n.m.)",
+  "en": "disc (n.)",
+  "es": "disco (n.m.)",
+  "de": "Disk (n. f.)",
+  "zh": "唱片（阳性名词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 265
+ },
+ {
+  "fr": "distance (n.f.)",
+  "en": "distance (n.)",
+  "es": "distancia (n.f.)",
+  "de": "Entfernung (n. f.)",
+  "zh": "距离（阴性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 266
+ },
+ {
+  "fr": "divorcé (adj.)",
+  "en": "divorced (adj.)",
+  "es": "divorciado (adj.)",
+  "de": "geschieden (adj.)",
+  "zh": "离婚的（形容词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 267
+ },
+ {
+  "fr": "divorce (n.m.)",
+  "en": "divorce (n.)",
+  "es": "divorcio (n.m.)",
+  "de": "Scheidung (n. f.)",
+  "zh": "离婚（阳性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 268
+ },
+ {
+  "fr": "doctorat (n.m.)",
+  "en": "phd (n.)",
+  "es": "doctorado (n.m.)",
+  "de": "Doktorat (n. n.)",
+  "zh": "博士学位（阳性名词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 269
+ },
+ {
+  "fr": "document (n.m.)",
+  "en": "document (n.)",
+  "es": "documento (n.m.)",
+  "de": "Dokument (n. n.)",
+  "zh": "文件（阳性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 270
+ },
+ {
+  "fr": "documentaire (n.m.)",
+  "en": "documentary (n.)",
+  "es": "documental (n.m.)",
+  "de": "Dokumentarfilm (n. m.)",
+  "zh": "纪录影片（阳性名词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 271
+ },
+ {
+  "fr": "donner (v.)",
+  "en": "give (v.)",
+  "es": "dar (v.)",
+  "de": "geben (v.)",
+  "zh": "给（动词）",
+  "unit": "U5",
+  "lesson": "L3",
+  "id": 272
+ },
+ {
+  "fr": "dormir (v.)",
+  "en": "sleep (v.)",
+  "es": "dormir (v.)",
+  "de": "schlafen (v.)",
+  "zh": "睡觉（动词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 273
+ },
+ {
+  "fr": "dossier (n.m.)",
+  "en": "file (n.)",
+  "es": "expediente (n.m.)",
+  "de": "Akte (n. f.)",
+  "zh": "档案材料（阳性名词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 274
+ },
+ {
+  "fr": "douche (n.f.)",
+  "en": "shower (n.)",
+  "es": "ducha (n.f.)",
+  "de": "Dusche (n. f.)",
+  "zh": "淋浴（阴性名词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 275
+ },
+ {
+  "fr": "drap (n.m.)",
+  "en": "sheet (n.)",
+  "es": "sábana (n.m.)",
+  "de": "Laken (n. n.)",
+  "zh": "大毛巾（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 276
+ },
+ {
+  "fr": "droit (n.m.)",
+  "en": "right (n.)",
+  "es": "derecho (n.m.)",
+  "de": "Recht (n. n.)",
+  "zh": "权利（阳性名词）",
+  "unit": "U9",
+  "lesson": "Pr",
+  "id": 277
+ },
+ {
+  "fr": "dynamique (adj.)",
+  "en": "dynamic (adj.)",
+  "es": "dinámico (adj.)",
+  "de": "dynamisch (adj.)",
+  "zh": "运动的，有活力的（形容词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 278
+ },
+ {
+  "fr": "eau minérale (n.f.)",
+  "en": "mineral water (n.)",
+  "es": "agua mineral (n.f.)",
+  "de": "Mineralwasser (n. n.)",
+  "zh": "矿泉水（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 279
+ },
+ {
+  "fr": "échanger (v.)",
+  "en": "exchange, swap (v.)",
+  "es": "intercambiar (v)",
+  "de": "austauschen (v.)",
+  "zh": "交换（动词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 280
+ },
+ {
+  "fr": "écharpe (n.f.)",
+  "en": "scarf (n.)",
+  "es": "bufanda (n.f.)",
+  "de": "Schal (n. m.)",
+  "zh": "肩带（阴性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 281
+ },
+ {
+  "fr": "écouter (v.)",
+  "en": "listen (v.)",
+  "es": "escuchar (v.)",
+  "de": "zuhören (v.)",
+  "zh": "听（动词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 282
+ },
+ {
+  "fr": "écran (n.m.)",
+  "en": "screen (n.)",
+  "es": "pantalla (n.m.)",
+  "de": "Bildschirm (n. m.)",
+  "zh": "屏幕（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 283
+ },
+ {
+  "fr": "écrire (v.)",
+  "en": "write (v.)",
+  "es": "escribir (v.)",
+  "de": "schreiben (v.)",
+  "zh": "写（动词）",
+  "unit": "U1",
+  "lesson": "L3",
+  "id": 284
+ },
+ {
+  "fr": "écrivain (n.m.)",
+  "en": "writer (n.)",
+  "es": "escritor (n.m.)",
+  "de": "Schriftsteller (n. m.)",
+  "zh": "作家，作者（阳性名词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 285
+ },
+ {
+  "fr": "église (n.f.)",
+  "en": "church (n.)",
+  "es": "iglesia (n.f.)",
+  "de": "Kirche (n. f.)",
+  "zh": "教会（阴性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 286
+ },
+ {
+  "fr": "électrique (adj.)",
+  "en": "electric (adj.)",
+  "es": "eléctrico (adj.)",
+  "de": "elektrisch (adj.)",
+  "zh": "电的（形容词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 287
+ },
+ {
+  "fr": "embrasser (v.)",
+  "en": "embrace, kiss (v.)",
+  "es": "besar (v.)",
+  "de": "umarmen (v.)",
+  "zh": "拥抱（动词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 288
+ },
+ {
+  "fr": "émotion (n.f.)",
+  "en": "emotion (n.)",
+  "es": "emoción (n.f.)",
+  "de": "Emotion (n. f.)",
+  "zh": "感情（阴性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 289
+ },
+ {
+  "fr": "employé (n.m.)",
+  "en": "employee (n.)",
+  "es": "empleado (n.m.)",
+  "de": "Angestellter (n. m.)",
+  "zh": "职员，雇员（阳性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 290
+ },
+ {
+  "fr": "en avance",
+  "en": "early",
+  "es": "adelantado",
+  "de": "im Voraus",
+  "zh": "提前",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 291
+ },
+ {
+  "fr": "en retard",
+  "en": "late",
+  "es": "con retraso",
+  "de": "zu spät",
+  "zh": "迟到",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 292
+ },
+ {
+  "fr": "enchanté (adj.)",
+  "en": "delighted (adj.)",
+  "es": "encantado (adj.)",
+  "de": "erfreut (adj.)",
+  "zh": "非常高兴的（形容词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 293
+ },
+ {
+  "fr": "énergie (n.f.)",
+  "en": "energy (n.)",
+  "es": "energía (n.f.)",
+  "de": "Energie (n. f.)",
+  "zh": "毅力（阴性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 294
+ },
+ {
+  "fr": "ennuyer (s’) (v.)",
+  "en": "bored (be) (v.)",
+  "es": "aburrir (se) (v.)",
+  "de": "sich langweilen (v.)",
+  "zh": "感到厌倦（动词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 295
+ },
+ {
+  "fr": "énorme (adj.)",
+  "en": "enormous (adj.)",
+  "es": "enorme (adj.)",
+  "de": "enorm (adj.)",
+  "zh": "巨大的（形容词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 296
+ },
+ {
+  "fr": "enquête (n.f.)",
+  "en": "investigation (n.)",
+  "es": "encuesta (n.f.)",
+  "de": "Umfrage (n. f.)",
+  "zh": "调查（阴性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 297
+ },
+ {
+  "fr": "enquêter (v.)",
+  "en": "investigate (v.)",
+  "es": "investigar (v.)",
+  "de": "eine Erhebung durchführen (v.)",
+  "zh": "调查（动词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 298
+ },
+ {
+  "fr": "ensemble (adv.)",
+  "en": "together (adv.)",
+  "es": "juntos (adv.)",
+  "de": "gemeinsam (adv.)",
+  "zh": "共同，一起（副词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 299
+ },
+ {
+  "fr": "entendre (v.)",
+  "en": "hear (v.)",
+  "es": "oír (v.)",
+  "de": "hören (v.)",
+  "zh": "听见（动词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 300
+ },
+ {
+  "fr": "entrée (n.f.)",
+  "en": "entrance, starter (n.)",
+  "es": "entrada (n.f.)",
+  "de": "Eingang (n. m.)",
+  "zh": "入口（阴性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 301
+ },
+ {
+  "fr": "entreprise (n.f.)",
+  "en": "business (n.)",
+  "es": "empresa (n.f.)",
+  "de": "Unternehmen (n. n.)",
+  "zh": "企业，公司（阴性名词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 302
+ },
+ {
+  "fr": "entrer (v.)",
+  "en": "enter (v.)",
+  "es": "entrar (v.)",
+  "de": "eintreten (v.)",
+  "zh": "进入（动词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 303
+ },
+ {
+  "fr": "environnement (n.m.)",
+  "en": "environment (n.)",
+  "es": "medio ambiente (n.m.)",
+  "de": "Umwelt (n. f.)",
+  "zh": "环境（阳性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 304
+ },
+ {
+  "fr": "envoyer (v.)",
+  "en": "send (v.)",
+  "es": "enviar (v.)",
+  "de": "senden (v.)",
+  "zh": "寄，送（动词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 305
+ },
+ {
+  "fr": "époque (n.f.)",
+  "en": "age, era (n.)",
+  "es": "época (n.f.)",
+  "de": "Epoche (n. f.)",
+  "zh": "时代（阴性名词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 306
+ },
+ {
+  "fr": "épouser (v.)",
+  "en": "mary (v.)",
+  "es": "casar (se) (v.)",
+  "de": "heiraten (v.)",
+  "zh": "娶（动词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 307
+ },
+ {
+  "fr": "équipé (adj.)",
+  "en": "equipped (adj.)",
+  "es": "equipado (adj.)",
+  "de": "ausgerüstet (adj.)",
+  "zh": "设备齐全的（形容词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 308
+ },
+ {
+  "fr": "escalier (n.m.)",
+  "en": "staircase (n.)",
+  "es": "escalera (n.f.)",
+  "de": "Treppe (n. f.)",
+  "zh": "楼梯（阳性名词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 309
+ },
+ {
+  "fr": "espace (n.m.)",
+  "en": "space (n.)",
+  "es": "espacio (n.m.)",
+  "de": "Raum (n. m.)",
+  "zh": "空间（阳性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 310
+ },
+ {
+  "fr": "espérer (v.)",
+  "en": "hope (v.)",
+  "es": "esperar (v.)",
+  "de": "hoffen (v.)",
+  "zh": "希望（动词）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 311
+ },
+ {
+  "fr": "essayer (v.)",
+  "en": "try (v.)",
+  "es": "intentar (v.)",
+  "de": "versuchen (v.)",
+  "zh": "尝试（动词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 312
+ },
+ {
+  "fr": "étage (n.m.)",
+  "en": "floor (n.)",
+  "es": "piso (n.m.)",
+  "de": "Geschoss (n. n.)",
+  "zh": "（楼房的）层（阳性名词）",
+  "unit": "U2",
+  "lesson": "L1",
+  "id": 313
+ },
+ {
+  "fr": "état (n.m.)",
+  "en": "state (n.)",
+  "es": "estado (n.m.)",
+  "de": "Staat (n. m.)",
+  "zh": "状态（阳性名词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 314
+ },
+ {
+  "fr": "été (n.m.)",
+  "en": "summer (n.)",
+  "es": "verano (n.m.)",
+  "de": "Sommer (n. m.)",
+  "zh": "夏天（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 315
+ },
+ {
+  "fr": "ethnique (adj.)",
+  "en": "ethnic (adj.)",
+  "es": "étnico (adj.)",
+  "de": "ethnisch (adj.)",
+  "zh": "种族的（形容词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 316
+ },
+ {
+  "fr": "étranger (n.m.)",
+  "en": "stranger, foreigner (n.)",
+  "es": "extranjero (n.m.)",
+  "de": "Ausländer (n. m.)",
+  "zh": "外国人（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 317
+ },
+ {
+  "fr": "être (v.)",
+  "en": "be (v.)",
+  "es": "ser (v.)",
+  "de": "sein (v.)",
+  "zh": "是（动词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 318
+ },
+ {
+  "fr": "étudiante (n.f.)",
+  "en": "student (n.)",
+  "es": "estudiante (n.f.)",
+  "de": "Studierende (n. f.)",
+  "zh": "女大学生（阴性名词）",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 319
+ },
+ {
+  "fr": "euro (n.m.)",
+  "en": "euro (n.)",
+  "es": "euro (n.m.)",
+  "de": "Euro (n. m.)",
+  "zh": "欧元（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 320
+ },
+ {
+  "fr": "européen (adj.)",
+  "en": "European (adj.)",
+  "es": "europeo (adj.)",
+  "de": "europäisch (adj.)",
+  "zh": "欧洲的（形容词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 321
+ },
+ {
+  "fr": "examen (n.m.)",
+  "en": "exam, medical (n.)",
+  "es": "examen (n.m.)",
+  "de": "Prüfung (n. f.)",
+  "zh": "考试（阳性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 322
+ },
+ {
+  "fr": "excuser (s’) (v.)",
+  "en": "apologize (v.)",
+  "es": "excusar (se) (v.)",
+  "de": "sich entschuldigen (v.)",
+  "zh": "原谅（动词）",
+  "unit": "U0",
+  "lesson": "L3",
+  "id": 323
+ },
+ {
+  "fr": "exemple (n.m.)",
+  "en": "example (n.)",
+  "es": "ejemplo (n.m.)",
+  "de": "Beispiel (n. n.)",
+  "zh": "例子（阳性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 324
+ },
+ {
+  "fr": "exercice (n.m.)",
+  "en": "exercise (n.)",
+  "es": "ejercicio (n.m.)",
+  "de": "Übung (n. f.)",
+  "zh": "练习（阳性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 325
+ },
+ {
+  "fr": "exotique (adj.)",
+  "en": "exotic (adj.)",
+  "es": "exótico (adj.)",
+  "de": "exotisch (adj.)",
+  "zh": "外来的（形容词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 326
+ },
+ {
+  "fr": "expérience (n.f.)",
+  "en": "experience, experiment (n.)",
+  "es": "experiencia (n.f.)",
+  "de": "Erfahrung (n. f.)",
+  "zh": "经验（阴性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 327
+ },
+ {
+  "fr": "expliquer (v.)",
+  "en": "explain (v.)",
+  "es": "explicar (v.)",
+  "de": "erklären (v.)",
+  "zh": "解释（动词）",
+  "unit": "U5",
+  "lesson": "L3",
+  "id": 328
+ },
+ {
+  "fr": "exposition (n.f.)",
+  "en": "exhibition (n.)",
+  "es": "exposición (n.f.)",
+  "de": "Ausstellung (n. f.)",
+  "zh": "展览（阴性名词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 329
+ },
+ {
+  "fr": "extraordinaire (adj.)",
+  "en": "extraordinary (adj.)",
+  "es": "extraordinario (adj.)",
+  "de": "außergewöhnlich (adj.)",
+  "zh": "特别的（形容词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 330
+ },
+ {
+  "fr": "faculté (n.f.)",
+  "en": "faculty (n.)",
+  "es": "facultad (n.f.)",
+  "de": "Fähigkeit (n. f.)",
+  "zh": "院系，专科（阴性名词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 331
+ },
+ {
+  "fr": "faim (avoir) (v.)",
+  "en": "hungry (be) (v.)",
+  "es": "hambre (tener) (v.)",
+  "de": "Hunger haben (v.)",
+  "zh": "感到饿（动词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 332
+ },
+ {
+  "fr": "faire (v.)",
+  "en": "do, make (v.)",
+  "es": "hacer (v.)",
+  "de": "machen (v.)",
+  "zh": "做（动词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 333
+ },
+ {
+  "fr": "falloir (il faut) (v.)",
+  "en": "need to do (v.)",
+  "es": "haber (hay que) (v.)",
+  "de": "müssen (man muss) (v.)",
+  "zh": "必须，应该（动词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 334
+ },
+ {
+  "fr": "famille (n.f.)",
+  "en": "family (n.)",
+  "es": "familia (n.f.)",
+  "de": "Familie (n. f.)",
+  "zh": "家庭（阴性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 335
+ },
+ {
+  "fr": "famine (n.f.)",
+  "en": "famine (n.)",
+  "es": "hambruna (n.f.)",
+  "de": "Hungersnot (n. f.)",
+  "zh": "饥饿（阴性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 336
+ },
+ {
+  "fr": "fatigué (adj.)",
+  "en": "tired (adj.)",
+  "es": "cansado (adj.)",
+  "de": "müde (adj.)",
+  "zh": "劳累的（形容词）",
+  "unit": "U4",
+  "lesson": "L3",
+  "id": 337
+ },
+ {
+  "fr": "faute (n.f.)",
+  "en": "fault (n.)",
+  "es": "falta (n.f.)",
+  "de": "Fehler (n. m.)",
+  "zh": "错误（阴性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 338
+ },
+ {
+  "fr": "fauteuil (n.m.)",
+  "en": "armchair (n.)",
+  "es": "sillón (n.m.)",
+  "de": "Fauteuil (n. n.)",
+  "zh": "扶手椅（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 339
+ },
+ {
+  "fr": "faux (adj.)",
+  "en": "false (adj.)",
+  "es": "falso (adj.)",
+  "de": "falsch (adj.)",
+  "zh": "假的，错误的（形容词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 340
+ },
+ {
+  "fr": "félicitation (n.f.)",
+  "en": "congratulation (n.)",
+  "es": "felicitación (n.f.)",
+  "de": "Gratulation (n. m.)",
+  "zh": "庆祝（阴性名词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 341
+ },
+ {
+  "fr": "féliciter (v.)",
+  "en": "congratulate (v.)",
+  "es": "felicitar (v.)",
+  "de": "gratulieren (v.)",
+  "zh": "庆祝（动词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 342
+ },
+ {
+  "fr": "féminin (adj.)",
+  "en": "feminine (adj.)",
+  "es": "femenino (adj.)",
+  "de": "weiblich (adj.)",
+  "zh": "女性的（形容词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 343
+ },
+ {
+  "fr": "fenêtre (n.f.)",
+  "en": "window (n.)",
+  "es": "ventana (n.f.)",
+  "de": "Fenster (n. n.)",
+  "zh": "窗户（阴性名词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 344
+ },
+ {
+  "fr": "fermer (v.)",
+  "en": "close (v.)",
+  "es": "cerrar (v.)",
+  "de": "schließen (v.)",
+  "zh": "关（动词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 345
+ },
+ {
+  "fr": "festival (n.m.)",
+  "en": "festival (n.)",
+  "es": "festival (n.m.)",
+  "de": "Festival (n. n.)",
+  "zh": "节（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 346
+ },
+ {
+  "fr": "fête (n.f.)",
+  "en": "party, fair (n.)",
+  "es": "fiesta (n.f.)",
+  "de": "Fest (n. n.)",
+  "zh": "节日，纪念日（阴性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 347
+ },
+ {
+  "fr": "feu (n.m.)",
+  "en": "fire (n.)",
+  "es": "fuego (n.m.)",
+  "de": "Feuer (n. n.)",
+  "zh": "火（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 348
+ },
+ {
+  "fr": "feuille (n.f.)",
+  "en": "leaf (n.)",
+  "es": "hoja (n.f.)",
+  "de": "Blatt (n. n.)",
+  "zh": "叶子（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 349
+ },
+ {
+  "fr": "février (n.m.)",
+  "en": "February (n.)",
+  "es": "febrero (n.m.)",
+  "de": "Februar (n. m.)",
+  "zh": "二月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 350
+ },
+ {
+  "fr": "fille (n.f.)",
+  "en": "girl (n.)",
+  "es": "niña (n.f.)",
+  "de": "Mächen (n. n.)",
+  "zh": "女儿（阴性名词）",
+  "unit": "U2",
+  "lesson": "L3",
+  "id": 351
+ },
+ {
+  "fr": "fille (n.f.)",
+  "en": "daughter (n.)",
+  "es": "hija (n.f.)",
+  "de": "Tochter (n. f.)",
+  "zh": "女儿（阴性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 352
+ },
+ {
+  "fr": "film (n.m.)",
+  "en": "film (n.)",
+  "es": "película (n.f.)",
+  "de": "Film (n. m.)",
+  "zh": "电影（阳性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 353
+ },
+ {
+  "fr": "fils (n.m.)",
+  "en": "son (n.)",
+  "es": "hijo (n.m.)",
+  "de": "Sohn (n. m.)",
+  "zh": "儿子（阳性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 354
+ },
+ {
+  "fr": "finir (v.)",
+  "en": "finish (v.)",
+  "es": "acabar (v.)",
+  "de": "beenden (v.)",
+  "zh": "结束（动词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 355
+ },
+ {
+  "fr": "fois (n.f.)",
+  "en": "time (n.)",
+  "es": "vez (n.f.)",
+  "de": "Mal (n. n.)",
+  "zh": "次（阴性名词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 356
+ },
+ {
+  "fr": "fonction (n.f.)",
+  "en": "function (n.)",
+  "es": "función (n.f.)",
+  "de": "Funktion (n. f.)",
+  "zh": "功能（阴性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 357
+ },
+ {
+  "fr": "football (n.m.)",
+  "en": "football (n.)",
+  "es": "fútbol (n.m.)",
+  "de": "Fußball (n. m.)",
+  "zh": "足球（阳性名词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 358
+ },
+ {
+  "fr": "forêt (n.f.)",
+  "en": "forest (n.)",
+  "es": "bosque (n.m.)",
+  "de": "Wald (n. m.)",
+  "zh": "森林（阴性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 359
+ },
+ {
+  "fr": "formation (n.f.)",
+  "en": "training (n.)",
+  "es": "formación (n.f.)",
+  "de": "Ausbildung (n. f.)",
+  "zh": "培训（阴性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 360
+ },
+ {
+  "fr": "formidable (adj.)",
+  "en": "tremendous (adj.)",
+  "es": "formidable (adj.)",
+  "de": "toll (adj.)",
+  "zh": "巨大的（形容词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 361
+ },
+ {
+  "fr": "fort (adj.)",
+  "en": "strong (adj.)",
+  "es": "fuerte (adj.)",
+  "de": "stark (adj.)",
+  "zh": "强壮的（形容词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 362
+ },
+ {
+  "fr": "forum (n.m.)",
+  "en": "forum (n.)",
+  "es": "foro (n.m.)",
+  "de": "Forum (n. n.)",
+  "zh": "论坛（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 363
+ },
+ {
+  "fr": "foulard (n.m.)",
+  "en": "scarf (n.)",
+  "es": "fular (n.m.)",
+  "de": "Halstuch (n. n.)",
+  "zh": "纱巾（阳性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 364
+ },
+ {
+  "fr": "four (n.m.)",
+  "en": "oven (n.)",
+  "es": "horno (n.m.)",
+  "de": "Backofen (n. m.)",
+  "zh": "炉子（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 365
+ },
+ {
+  "fr": "fraise (n.f.)",
+  "en": "strawberry (n.)",
+  "es": "fresa (n.f.)",
+  "de": "Erdbeere (n. f.)",
+  "zh": "草莓（阴性名词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 366
+ },
+ {
+  "fr": "français (adj.)",
+  "en": "French (adj.)",
+  "es": "francés (adj.)",
+  "de": "französisch (adj.)",
+  "zh": "法国的（形容词）",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 367
+ },
+ {
+  "fr": "frère (n.m.)",
+  "en": "brother (n.)",
+  "es": "hermano (n.m.)",
+  "de": "Bruder (n. m.)",
+  "zh": "兄弟（阳性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 368
+ },
+ {
+  "fr": "fresque (n.f.)",
+  "en": "fresco (n.)",
+  "es": "fresco (n.m.)",
+  "de": "Fresko (n. n.)",
+  "zh": "壁画（阴性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 369
+ },
+ {
+  "fr": "frite (n.f.)",
+  "en": "French fry (n.)",
+  "es": "patata frita (n.f.)",
+  "de": "Pommes frites (n. n. Pl.)",
+  "zh": "炸薯条（阴性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 370
+ },
+ {
+  "fr": "fruit (n.m.)",
+  "en": "fruit (n.)",
+  "es": "fruta (n.f.)",
+  "de": "Obst (n. n.)",
+  "zh": "水果（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 371
+ },
+ {
+  "fr": "garage (n.m.)",
+  "en": "garage (n.)",
+  "es": "garaje (n.m.)",
+  "de": "Garage (n. f.)",
+  "zh": "车库（阳性名词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 372
+ },
+ {
+  "fr": "garder (v.)",
+  "en": "keep (v.)",
+  "es": "guardar (v.)",
+  "de": "aufbewahren (v.)",
+  "zh": "看管（动词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 373
+ },
+ {
+  "fr": "gare (n.f.)",
+  "en": "station (n.)",
+  "es": "estación de tren (n.f.)",
+  "de": "Bahnhof (n. m.)",
+  "zh": "车站（阴性名词）",
+  "unit": "U2",
+  "lesson": "L1",
+  "id": 374
+ },
+ {
+  "fr": "gâteau (n.m.)",
+  "en": "cake (n.)",
+  "es": "pastel (n.m.)",
+  "de": "Kuchen (n. m.)",
+  "zh": "蛋糕（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 375
+ },
+ {
+  "fr": "génial (adj.)",
+  "en": "great (adj.)",
+  "es": "genial (adj.)",
+  "de": "genial (adj.)",
+  "zh": "天才的（形容词）",
+  "unit": "U2",
+  "lesson": "L3",
+  "id": 376
+ },
+ {
+  "fr": "génie (n.m.)",
+  "en": "genius (n.)",
+  "es": "genio (n.m.)",
+  "de": "Genie (n. n.)",
+  "zh": "天资（阳性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 377
+ },
+ {
+  "fr": "gens (n.m.pl.)",
+  "en": "people (n.pl.)",
+  "es": "gente (n.f.)",
+  "de": "Leute (n. pl.)",
+  "zh": "人们（阳性名词复数）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 378
+ },
+ {
+  "fr": "gentil (adj.)",
+  "en": "kind (adj.)",
+  "es": "bueno (adj.)",
+  "de": "freundlich (adj.)",
+  "zh": "可爱的（形容词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 379
+ },
+ {
+  "fr": "glace (n.f.)",
+  "en": "ice cream (n.)",
+  "es": "helado (n.m.)",
+  "de": "Eis (n. n.)",
+  "zh": "冰（阴性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 380
+ },
+ {
+  "fr": "grammaire (n.f.)",
+  "en": "grammar (n.)",
+  "es": "gramática (n.f.)",
+  "de": "Grammatik (n. f.)",
+  "zh": "语法（阴性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 381
+ },
+ {
+  "fr": "gramme (n.m.)",
+  "en": "gram (n.)",
+  "es": "gramo (n.m.)",
+  "de": "Gramm (n. n.)",
+  "zh": "克（阳性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 382
+ },
+ {
+  "fr": "grand (adj.)",
+  "en": "big (adj.)",
+  "es": "grande (adj.)",
+  "de": "groß (adj.)",
+  "zh": "大的（形容词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 383
+ },
+ {
+  "fr": "grand-mère (n.f.)",
+  "en": "grandmother (n.)",
+  "es": "abuela (n.f.)",
+  "de": "Großmutter (n. f.)",
+  "zh": "奶奶（阴性名词）",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 384
+ },
+ {
+  "fr": "graphiste (n.)",
+  "en": "graphic designer (n.)",
+  "es": "grafista (n.)",
+  "de": "Grafiker, -in (n. m. / f.)",
+  "zh": "图像工作者（名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 385
+ },
+ {
+  "fr": "gratuit (adj.)",
+  "en": "free (adj.)",
+  "es": "gratuito (adj.)",
+  "de": "kostenlos (adj.)",
+  "zh": "免费的（形容词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 386
+ },
+ {
+  "fr": "grave (adv.)",
+  "en": "serious (adv.)",
+  "es": "grave (adv.)",
+  "de": "arg (adv.)",
+  "zh": "严重地（副词）",
+  "unit": "U1",
+  "lesson": "L3",
+  "id": 387
+ },
+ {
+  "fr": "gris (adj.)",
+  "en": "grey (adj.)",
+  "es": "gris (adj.)",
+  "de": "grau (adj.)",
+  "zh": "灰色的（形容词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 388
+ },
+ {
+  "fr": "groupe (n.m.)",
+  "en": "group (n.)",
+  "es": "grupo (n.m.)",
+  "de": "Gruppe (n. f.)",
+  "zh": "团体（阳性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 389
+ },
+ {
+  "fr": "gymnastique (n.f.)",
+  "en": "gymnastics (n.)",
+  "es": "gimnasia (n.f.)",
+  "de": "Gymnastik (n. f.)",
+  "zh": "体操（阴性名词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 390
+ },
+ {
+  "fr": "habiller (s’) (v.)",
+  "en": "get dressed (v.)",
+  "es": "vestir (se) (v.)",
+  "de": "sich anziehen (v.)",
+  "zh": "穿衣（动词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 391
+ },
+ {
+  "fr": "habitant (n.m.)",
+  "en": "inhabitant (n.)",
+  "es": "habitante (n.m.)",
+  "de": "Einwohner (n. m.)",
+  "zh": "居民（阳性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 392
+ },
+ {
+  "fr": "habiter (v.)",
+  "en": "live (v.)",
+  "es": "vivir (v.)",
+  "de": "wohnen (v.)",
+  "zh": "居住（动词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 393
+ },
+ {
+  "fr": "haut (adj.)",
+  "en": "high (adj.)",
+  "es": "alto (adj.)",
+  "de": "hoch (adj.)",
+  "zh": "高的（形容词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 394
+ },
+ {
+  "fr": "héritage (n.m.)",
+  "en": "heritage (n.)",
+  "es": "herencia (n.f.)",
+  "de": "Erbe (n. n.)",
+  "zh": "继承（阳性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 395
+ },
+ {
+  "fr": "heure (n.f.)",
+  "en": "time, hour (n.)",
+  "es": "hora (n.f.)",
+  "de": "Stunde (n. f.)",
+  "zh": "时间，时（阴性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 396
+ },
+ {
+  "fr": "heureux (adj.)",
+  "en": "happy, fortunate (adj.)",
+  "es": "feliz (adj.)",
+  "de": "glücklich (adj.)",
+  "zh": "幸福的（形容词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 397
+ },
+ {
+  "fr": "histoire (n.f.)",
+  "en": "history (n.)",
+  "es": "historia (n.f.)",
+  "de": "Geschichte (n. f.)",
+  "zh": "历史（阴性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 398
+ },
+ {
+  "fr": "historique (adj.)",
+  "en": "historical (adj.)",
+  "es": "histórico (adj.)",
+  "de": "geschichtlich (adj.)",
+  "zh": "历史的（形容词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 399
+ },
+ {
+  "fr": "hiver (n.m.)",
+  "en": "winter (n.)",
+  "es": "invierno (n.m.)",
+  "de": "Winter (n. m.)",
+  "zh": "冬天（阳性名词）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 400
+ },
+ {
+  "fr": "homme (n.m)",
+  "en": "man (n.)",
+  "es": "hombre (n.m)",
+  "de": "Mann (n. m.)",
+  "zh": "男人（阳性名词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 401
+ },
+ {
+  "fr": "hôpital (n.m.)",
+  "en": "hospital (n.)",
+  "es": "hospital (n.m.)",
+  "de": "Krankenhaus (n. n.)",
+  "zh": "医院（阳性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 402
+ },
+ {
+  "fr": "horaire (n.m.)",
+  "en": "timetable (n.)",
+  "es": "horario (n.m.)",
+  "de": "Zeitplan (n. m.)",
+  "zh": "时间表（阳性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 403
+ },
+ {
+  "fr": "hospitalier (adj.)",
+  "en": "hospital (adj.)",
+  "es": "hospitalario (adj.)",
+  "de": "Krankenhaus- (in Zusammensetzungen)",
+  "zh": "医院的（形容词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 404
+ },
+ {
+  "fr": "hôtel (n.m.)",
+  "en": "hotel (n.)",
+  "es": "hotel (n.m.)",
+  "de": "Hotel (n. n.)",
+  "zh": "宾馆（阳性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 405
+ },
+ {
+  "fr": "humour (n.m.)",
+  "en": "humour (n.)",
+  "es": "humor (n.m.)",
+  "de": "Humor (n. m.)",
+  "zh": "幽默（阳性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 406
+ },
+ {
+  "fr": "idéal (adj.)",
+  "en": "ideal (adj.)",
+  "es": "ideal (adj.)",
+  "de": "ideal (adj.)",
+  "zh": "理想的（形容词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 407
+ },
+ {
+  "fr": "idée (n.f.)",
+  "en": "idea (n.)",
+  "es": "idea (n.f.)",
+  "de": "Idee (n. f.)",
+  "zh": "想法（阴性名词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 408
+ },
+ {
+  "fr": "île (n.f.)",
+  "en": "island (n.)",
+  "es": "isla (n.f.)",
+  "de": "Insel (n. f.)",
+  "zh": "岛（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 409
+ },
+ {
+  "fr": "imaginer (v.)",
+  "en": "imagine (v.)",
+  "es": "imaginar (v.)",
+  "de": "vorstellen (v.)",
+  "zh": "想象（动词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 410
+ },
+ {
+  "fr": "immeuble (n.m.)",
+  "en": "building (n.)",
+  "es": "edificio (n.m.)",
+  "de": "Gebäude (n. n.)",
+  "zh": "不动产（阳性名词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 411
+ },
+ {
+  "fr": "immigré (n.m.)",
+  "en": "immigrant (n.)",
+  "es": "inmigrante (n.m.)",
+  "de": "Zuwanderer (n. m.)",
+  "zh": "入境移民（阳性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 412
+ },
+ {
+  "fr": "important (adj.)",
+  "en": "important (adj.)",
+  "es": "importante (adj.)",
+  "de": "wichtig (adj.)",
+  "zh": "重要的（形容词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 413
+ },
+ {
+  "fr": "impossible (adj.)",
+  "en": "impossible (adj.)",
+  "es": "imposible (adj.)",
+  "de": "unmöglich (adj.)",
+  "zh": "不可能的（形容词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 414
+ },
+ {
+  "fr": "impressionniste (adj.)",
+  "en": "impressionist (adj.)",
+  "es": "impresionista (adj.)",
+  "de": "impressionistisch (adj.)",
+  "zh": "印象主义的（形容词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 415
+ },
+ {
+  "fr": "incroyable (adj.)",
+  "en": "unbelievable (adj.)",
+  "es": "increíble (adj.)",
+  "de": "unglaublich (adj.)",
+  "zh": "难以相信的（形容词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 416
+ },
+ {
+  "fr": "informatique (n.f.)",
+  "en": "computer science (n.)",
+  "es": "informática (n.f.)",
+  "de": "Informatik (n. f.)",
+  "zh": "计算机（阴性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 417
+ },
+ {
+  "fr": "ingénieur (n.)",
+  "en": "engineer (n.)",
+  "es": "ingeniero (n.)",
+  "de": "Ingenieur, -in (n. m. / f.)",
+  "zh": "工程师（名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 418
+ },
+ {
+  "fr": "innovation (n.f.)",
+  "en": "innovation (n.)",
+  "es": "innovación (n.f.)",
+  "de": "Innovation (n. f.)",
+  "zh": "改革（阴性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 419
+ },
+ {
+  "fr": "inquiéter (s’) (v.)",
+  "en": "worry (v.)",
+  "es": "inquietar (se) (v.)",
+  "de": "sich sorgen (v.)",
+  "zh": "使不安（动词）",
+  "unit": "U4",
+  "lesson": "L3",
+  "id": 420
+ },
+ {
+  "fr": "inscription (n.f.)",
+  "en": "registration (n.)",
+  "es": "inscripción (n.f.)",
+  "de": "Inskription (n. f.)",
+  "zh": "登记注册（阴性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 421
+ },
+ {
+  "fr": "inscrire (s’) (v.)",
+  "en": "register (v.)",
+  "es": "inscribir (se) (v.)",
+  "de": "sich einschreiben (v.)",
+  "zh": "登记（动词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 422
+ },
+ {
+  "fr": "installation (n.f.)",
+  "en": "installation (n.)",
+  "es": "instalación (n.f.)",
+  "de": "Installation (n. f.)",
+  "zh": "安装（阴性名词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 423
+ },
+ {
+  "fr": "installer (v.)",
+  "en": "install (v.)",
+  "es": "instalar (v.)",
+  "de": "installieren (v.)",
+  "zh": "安装（动词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 424
+ },
+ {
+  "fr": "intelligent (adj.)",
+  "en": "intelligent (adj.)",
+  "es": "inteligente (adj.)",
+  "de": "intelligent (adj.)",
+  "zh": "聪明的（形容词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 425
+ },
+ {
+  "fr": "intéressant (adj.)",
+  "en": "interesting (adj.)",
+  "es": "interesante (adj.)",
+  "de": "interessant (adj.)",
+  "zh": "有趣的（形容词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 426
+ },
+ {
+  "fr": "intéresser (s’) (v.)",
+  "en": "take an interest in (v.)",
+  "es": "interesar (se) (v.)",
+  "de": "sich interessieren (v.)",
+  "zh": "感兴趣（动词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 427
+ },
+ {
+  "fr": "intérêt (n.m.)",
+  "en": "interest (n.)",
+  "es": "interés (n.m.)",
+  "de": "Interesse (n. n.)",
+  "zh": "利息（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 428
+ },
+ {
+  "fr": "interview (n.f.)",
+  "en": "interview (n.)",
+  "es": "entrevista (n.f.)",
+  "de": "Interview (n. n.)",
+  "zh": "采访（阴性名词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 429
+ },
+ {
+  "fr": "invitation (n.f.)",
+  "en": "invitation (n.)",
+  "es": "invitación (n.f.)",
+  "de": "Einladung (n. f.)",
+  "zh": "邀请（阴性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 430
+ },
+ {
+  "fr": "inviter (v.)",
+  "en": "invite (v.)",
+  "es": "invitar (v.)",
+  "de": "einladen (v.)",
+  "zh": "邀请（动词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 431
+ },
+ {
+  "fr": "jambon (n.m.)",
+  "en": "ham (n.)",
+  "es": "jamón (n.m.)",
+  "de": "Schinken (n. m.)",
+  "zh": "火腿（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 432
+ },
+ {
+  "fr": "janvier (n.m.)",
+  "en": "January (n.)",
+  "es": "enero (n.m.)",
+  "de": "Januar (n. m.)",
+  "zh": "一月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 433
+ },
+ {
+  "fr": "jardin (n.m.)",
+  "en": "garden (n.)",
+  "es": "jardín (n.m.)",
+  "de": "Garten (n. m.)",
+  "zh": "花园（阳性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 434
+ },
+ {
+  "fr": "jaune (adj.)",
+  "en": "yellow (adj.)",
+  "es": "amarillo (adj.)",
+  "de": "gelb (adj.)",
+  "zh": "黄色的（形容词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 435
+ },
+ {
+  "fr": "jeu (n.m.)",
+  "en": "game (n.)",
+  "es": "juego (n.m.)",
+  "de": "Spiel (n. n.)",
+  "zh": "游戏（阳性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 436
+ },
+ {
+  "fr": "jeudi (n.m.)",
+  "en": "Thursday (n.)",
+  "es": "jueves (n.m.)",
+  "de": "Donnerstag (n. m.)",
+  "zh": "星期四（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 437
+ },
+ {
+  "fr": "jeune (adj.)",
+  "en": "young (adj.)",
+  "es": "joven (adj.)",
+  "de": "jung (adj.)",
+  "zh": "年轻的（形容词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 438
+ },
+ {
+  "fr": "jogging (n.m.)",
+  "en": "jogging (n.)",
+  "es": "footing (n.m.)",
+  "de": "Jogging (n. n.)",
+  "zh": "跑步（阳性名词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 439
+ },
+ {
+  "fr": "joli (adj.)",
+  "en": "pretty (adj.)",
+  "es": "bonito (adj.)",
+  "de": "hübsch (adj.)",
+  "zh": "美丽的（形容词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 440
+ },
+ {
+  "fr": "jouer (v.)",
+  "en": "play (v.)",
+  "es": "jugar (v.)",
+  "de": "spielen (v.)",
+  "zh": "玩（动词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 441
+ },
+ {
+  "fr": "journal (n.m.)",
+  "en": "newspaper (n.)",
+  "es": "periódico (n.m.)",
+  "de": "Zeitung (n. f.)",
+  "zh": "报纸（阳性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 442
+ },
+ {
+  "fr": "journalisme (n.m.)",
+  "en": "journalism (n.)",
+  "es": "periodismo (n.m.)",
+  "de": "Journalismus (n. m.)",
+  "zh": "新闻工作（阳性名词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 443
+ },
+ {
+  "fr": "journaliste (n.)",
+  "en": "journalist (n.)",
+  "es": "periodista (n.)",
+  "de": "Journalist (n. m.)",
+  "zh": "新闻记者（名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 444
+ },
+ {
+  "fr": "journée (n.f.)",
+  "en": "day (n.)",
+  "es": "jornada (n.f.)",
+  "de": "Tag (n. m.)",
+  "zh": "天（阴性名词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 445
+ },
+ {
+  "fr": "joyeux (adj.)",
+  "en": "joyful (adj.)",
+  "es": "jovial (adj.)",
+  "de": "fröhlich (adj.)",
+  "zh": "高兴的（形容词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 446
+ },
+ {
+  "fr": "judo (n.m.)",
+  "en": "judo (n.)",
+  "es": "judo (n.m.)",
+  "de": "Judo (n. n.)",
+  "zh": "柔道（阳性名词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 447
+ },
+ {
+  "fr": "juif (adj.)",
+  "en": "Jewish (adj.)",
+  "es": "judío (adj.)",
+  "de": "jüdisch (adj.)",
+  "zh": "犹太的（形容词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 448
+ },
+ {
+  "fr": "juillet (n.m.)",
+  "en": "July (n.)",
+  "es": "julio (n.m.)",
+  "de": "Juli (n. m.)",
+  "zh": "七月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 449
+ },
+ {
+  "fr": "juin (n.m.)",
+  "en": "June (n.)",
+  "es": "junio (n.m.)",
+  "de": "Juni (n. m.)",
+  "zh": "六月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 450
+ },
+ {
+  "fr": "jupe (n.f.)",
+  "en": "skirt (n.)",
+  "es": "falda (n.f.)",
+  "de": "Rock (n. m.)",
+  "zh": "裙子（阴性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 451
+ },
+ {
+  "fr": "jury (n.m.)",
+  "en": "jury (n.)",
+  "es": "jurado (n.m.)",
+  "de": "Jury (n. f.)",
+  "zh": "陪审团（阳性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 452
+ },
+ {
+  "fr": "jus d’orange (n.m.)",
+  "en": "orange juice (n.)",
+  "es": "zumo de naranja (n.m.)",
+  "de": "Orangensaft (n. m.)",
+  "zh": "橙汁（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 453
+ },
+ {
+  "fr": "juste (adv.)",
+  "en": "fair (adv.)",
+  "es": "justo (adv.)",
+  "de": "gerade (adv.)",
+  "zh": "公正地（副词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 454
+ },
+ {
+  "fr": "kilo (n.m.)",
+  "en": "kilo (n.)",
+  "es": "kilo (n.m.)",
+  "de": "Kilo (n. n.)",
+  "zh": "公斤，千克（阳性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 455
+ },
+ {
+  "fr": "kilomètre (n.m.)",
+  "en": "kilometre (n.)",
+  "es": "kilómetro (n.m.)",
+  "de": "Kilometer (n. m.)",
+  "zh": "公里，千米（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 456
+ },
+ {
+  "fr": "là-bas (adv.)",
+  "en": "over there (adv.)",
+  "es": "allí (adv.)",
+  "de": "dort (adv.)",
+  "zh": "那边，在那边（副词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 457
+ },
+ {
+  "fr": "laboratoire (n.m.)",
+  "en": "laboratory (n.)",
+  "es": "laboratorio (n.m.)",
+  "de": "Labor (n. n.)",
+  "zh": "实验室（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 458
+ },
+ {
+  "fr": "lac (n.m.)",
+  "en": "lake (n.)",
+  "es": "lago (n.m.)",
+  "de": "See (n. m.)",
+  "zh": "湖（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 459
+ },
+ {
+  "fr": "lait (n.m.)",
+  "en": "milk (n.)",
+  "es": "leche (n.f.)",
+  "de": "Milch (n. f.)",
+  "zh": "奶（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 460
+ },
+ {
+  "fr": "lampe (n.f.)",
+  "en": "lamp (n.)",
+  "es": "lámpara (n.f.)",
+  "de": "Lampe (n. f.)",
+  "zh": "灯（阴性名词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 461
+ },
+ {
+  "fr": "langue (n.f.)",
+  "en": "language, tongue (n.)",
+  "es": "lengua (n.f.)",
+  "de": "Sprache (n. f.)",
+  "zh": "语言（阴性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 462
+ },
+ {
+  "fr": "leçon (n.f.)",
+  "en": "lesson (n.)",
+  "es": "lección (n.f.)",
+  "de": "Unterrichtsstunde (n. f.)",
+  "zh": "课（阴性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 463
+ },
+ {
+  "fr": "lecteur (n.m.)",
+  "en": "reader, player (n.)",
+  "es": "lector (n.m.)",
+  "de": "Leser (n. m.)",
+  "zh": "读者（阳性名词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 464
+ },
+ {
+  "fr": "légume (n.m.)",
+  "en": "vegetable (n.)",
+  "es": "verdura (n.f.)",
+  "de": "Gemüse (n. n.)",
+  "zh": "蔬菜（阳性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 465
+ },
+ {
+  "fr": "lever (se) (v.)",
+  "en": "get up (v.)",
+  "es": "levantar (se) (v.)",
+  "de": "aufstehen (v.)",
+  "zh": "抬起，上升（动词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 466
+ },
+ {
+  "fr": "libre (adj.)",
+  "en": "free (adj.)",
+  "es": "libre (adj.)",
+  "de": "frei (adj.)",
+  "zh": "自由的（形容词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 467
+ },
+ {
+  "fr": "ligne (en) (n.f.)",
+  "en": "line (on) (n.)",
+  "es": "línea (en) (n.f.)",
+  "de": "online",
+  "zh": "在线（阴性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 468
+ },
+ {
+  "fr": "limonade (n.f.)",
+  "en": "lemonade (n.)",
+  "es": "limonada (n.f.)",
+  "de": "Limonade (n. f.)",
+  "zh": "柠檬水（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 469
+ },
+ {
+  "fr": "liquide (n.m.)",
+  "en": "liquid (n.)",
+  "es": "líquido (n.m.)",
+  "de": "Flüssigkeit (n. f.)",
+  "zh": "液体（阳性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 470
+ },
+ {
+  "fr": "lire (v.)",
+  "en": "read (v.)",
+  "es": "leer (v.)",
+  "de": "lesen (v.)",
+  "zh": "读（动词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 471
+ },
+ {
+  "fr": "lit (n.m.)",
+  "en": "bed (n.)",
+  "es": "cama (n.f.)",
+  "de": "Bett (n. n.)",
+  "zh": "床（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 472
+ },
+ {
+  "fr": "litre (n.m.)",
+  "en": "litre (n.)",
+  "es": "litro (n.m.)",
+  "de": "Liter (n. m.)",
+  "zh": "升（阳性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 473
+ },
+ {
+  "fr": "locataire (n.)",
+  "en": "tenant (n.)",
+  "es": "inquilino (n.)",
+  "de": "Mieter, -in (n. m. / f.)",
+  "zh": "租户（名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 474
+ },
+ {
+  "fr": "loger (v.)",
+  "en": "put up, house (v.)",
+  "es": "alojar (v.)",
+  "de": "wohnen (v.)",
+  "zh": "住宿（动词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 475
+ },
+ {
+  "fr": "loisir (n.m.)",
+  "en": "leisure (n.)",
+  "es": "ocio (n.m.)",
+  "de": "Freizeit (n. f.)",
+  "zh": "空闲时间（阳性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 476
+ },
+ {
+  "fr": "long (adj.)",
+  "en": "long (adj.)",
+  "es": "largo (adj.)",
+  "de": "lang (adj.)",
+  "zh": "长的（形容词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 477
+ },
+ {
+  "fr": "longtemps (adv.)",
+  "en": "for a long time (adv.)",
+  "es": "mucho tiempo (adv.)",
+  "de": "lange (adv.)",
+  "zh": "长久，很久（副词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 478
+ },
+ {
+  "fr": "louer (v.)",
+  "en": "rent (v.)",
+  "es": "alquilar (v.)",
+  "de": "mieten (v.)",
+  "zh": "租赁（动词）",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 479
+ },
+ {
+  "fr": "loyer (n.m.)",
+  "en": "rent (n.)",
+  "es": "alquiler (n.m.)",
+  "de": "Miete (n. f.)",
+  "zh": "租金（阳性名词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 480
+ },
+ {
+  "fr": "lumière (n.f.)",
+  "en": "light (n.)",
+  "es": "luz (n.f.)",
+  "de": "Licht (n. n.)",
+  "zh": "光（阴性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 481
+ },
+ {
+  "fr": "lundi (n.m.)",
+  "en": "Monday (n.)",
+  "es": "lunes (n.m.)",
+  "de": "Montag (n. m.)",
+  "zh": "星期一（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 482
+ },
+ {
+  "fr": "luxe (n.m.)",
+  "en": "luxury (n.)",
+  "es": "lujo (n.m.)",
+  "de": "Luxus (n. m.)",
+  "zh": "奢侈（阳性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 483
+ },
+ {
+  "fr": "madame (n.f.)",
+  "en": "madam (n.)",
+  "es": "señora (n.f.)",
+  "de": "Frau (n. f.)",
+  "zh": "夫人（阴性名词）",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 484
+ },
+ {
+  "fr": "magazine (n.m.)",
+  "en": "magazine (n.)",
+  "es": "revista (n.f.)",
+  "de": "Magazin (n. n.)",
+  "zh": "杂志（阳性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 485
+ },
+ {
+  "fr": "magicien (n.m.)",
+  "en": "magician (n.)",
+  "es": "mago (n.m.)",
+  "de": "Zauberer (n. m.)",
+  "zh": "魔术师（阳性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 486
+ },
+ {
+  "fr": "magnifique (adj.)",
+  "en": "magnificent (adj.)",
+  "es": "magnífico (adj.)",
+  "de": "großartig (adj.)",
+  "zh": "壮丽的（形容词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 487
+ },
+ {
+  "fr": "mai (n.m.)",
+  "en": "May (n.)",
+  "es": "mayo (n.m.)",
+  "de": "Mai (n. m.)",
+  "zh": "五月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 488
+ },
+ {
+  "fr": "mairie (n.f.)",
+  "en": "town hall (n.)",
+  "es": "ayuntamiento (n.m.)",
+  "de": "Rathaus (n. n.)",
+  "zh": "市政府（阴性名词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 489
+ },
+ {
+  "fr": "maison (n.f.)",
+  "en": "house (n.)",
+  "es": "casa (n.f.)",
+  "de": "Haus (n. n.)",
+  "zh": "房屋（阴性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 490
+ },
+ {
+  "fr": "malade (adj.)",
+  "en": "sick (adj.)",
+  "es": "enfermo (adj.)",
+  "de": "krank (adj.)",
+  "zh": "生病的（形容词）",
+  "unit": "U4",
+  "lesson": "L3",
+  "id": 491
+ },
+ {
+  "fr": "manger (v.)",
+  "en": "eat (v.)",
+  "es": "comer (v.)",
+  "de": "essen (v.)",
+  "zh": "吃（动词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 492
+ },
+ {
+  "fr": "manière (n.f.)",
+  "en": "way (n.)",
+  "es": "manera (n.f.)",
+  "de": "Weise (n. f.)",
+  "zh": "方式，方法（阴性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 493
+ },
+ {
+  "fr": "manteau (n.m.)",
+  "en": "coat (n.)",
+  "es": "abrigo (n.m.)",
+  "de": "Mantel (n. m.)",
+  "zh": "大衣，外套（阳性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 494
+ },
+ {
+  "fr": "marathon (n.m.)",
+  "en": "marathon (n.)",
+  "es": "maratón (n.f.)",
+  "de": "Marathon (n. m.)",
+  "zh": "马拉松赛跑（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 495
+ },
+ {
+  "fr": "marcher (fonctionner) (v.)",
+  "en": "work (function) (v.)",
+  "es": "andar (funcionar) (v.)",
+  "de": "funktionieren (v.)",
+  "zh": "运行（动词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 496
+ },
+ {
+  "fr": "mardi (n.m.)",
+  "en": "Tuesday (n.)",
+  "es": "martes (n.m.)",
+  "de": "Dienstag (n. m.)",
+  "zh": "星期二（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 497
+ },
+ {
+  "fr": "marié (adj.)",
+  "en": "married (adj.)",
+  "es": "casado (adj.)",
+  "de": "verheiratet (adj.)",
+  "zh": "已婚的（形容词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 498
+ },
+ {
+  "fr": "marquise (n.f.)",
+  "en": "marchioness (n.)",
+  "es": "marquesa (n.f.)",
+  "de": "Markise (n. f.)",
+  "zh": "侯爵夫人（阴性名词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 499
+ },
+ {
+  "fr": "mars (n.m.)",
+  "en": "march (n.)",
+  "es": "marte (n.m.)",
+  "de": "März (n. m.)",
+  "zh": "三月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 500
+ },
+ {
+  "fr": "matin (n.m.)",
+  "en": "morning (n.)",
+  "es": "mañana (n.m.)",
+  "de": "Morgen (n. m.)",
+  "zh": "早晨（阳性名词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 501
+ },
+ {
+  "fr": "mauvais (adj.)",
+  "en": "bad (adj.)",
+  "es": "malo (adj.)",
+  "de": "schlecht (adj.)",
+  "zh": "坏的，不好的（形容词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 502
+ },
+ {
+  "fr": "mayonnaise (n.f.)",
+  "en": "mayonnaise (n.)",
+  "es": "mayonesa (n.f.)",
+  "de": "Mayonnaise (n. f.)",
+  "zh": "蛋黄酱（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 503
+ },
+ {
+  "fr": "médaille (n.f.)",
+  "en": "medal (n.)",
+  "es": "medalla (n.f.)",
+  "de": "Medaille (n. f.)",
+  "zh": "奖章（阴性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 504
+ },
+ {
+  "fr": "médecin (n.m.)",
+  "en": "doctor (n.)",
+  "es": "médico (n.m.)",
+  "de": "Arzt (n. m.)",
+  "zh": "医生（阳性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 505
+ },
+ {
+  "fr": "meilleur (adj.)",
+  "en": "better (adj.)",
+  "es": "mejor (adj.)",
+  "de": "besser (adj.)",
+  "zh": "最好的（形容词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 506
+ },
+ {
+  "fr": "membre (n.m.)",
+  "en": "member (n.)",
+  "es": "miembro (n.m.)",
+  "de": "Mitglied (n. n.)",
+  "zh": "成员（阳性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 507
+ },
+ {
+  "fr": "menu (n.m.)",
+  "en": "menu (n.)",
+  "es": "menú (n.m.)",
+  "de": "Menü (n. n.)",
+  "zh": "菜单（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 508
+ },
+ {
+  "fr": "mer (n.f.)",
+  "en": "sea (n.)",
+  "es": "mar (n.m.)",
+  "de": "Meer (n. n.)",
+  "zh": "海（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 509
+ },
+ {
+  "fr": "merci",
+  "en": "thank you",
+  "es": "gracias",
+  "de": "danke",
+  "zh": "谢谢",
+  "unit": "U0",
+  "lesson": "L3",
+  "id": 510
+ },
+ {
+  "fr": "mercredi (n.m.)",
+  "en": "Wednesday (n.)",
+  "es": "miércoles (n.m.)",
+  "de": "Mittwoch (n. m.)",
+  "zh": "星期三（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 511
+ },
+ {
+  "fr": "mère (n.f.)",
+  "en": "mother (n.)",
+  "es": "madre (n.f.)",
+  "de": "Mutter (n. f.)",
+  "zh": "母亲（阴性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 512
+ },
+ {
+  "fr": "méthode (n.f.)",
+  "en": "method (n.)",
+  "es": "método (n.m.)",
+  "de": "Methode (n. f.)",
+  "zh": "方法（阴性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 513
+ },
+ {
+  "fr": "mètre (n.m.)",
+  "en": "metre (n.)",
+  "es": "metro (n.m.)",
+  "de": "Meter (n. m.)",
+  "zh": "米（阳性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 514
+ },
+ {
+  "fr": "métro (n.m.)",
+  "en": "metro (n.)",
+  "es": "metro (n.m.)",
+  "de": "U-Bahn (n. f.)",
+  "zh": "地铁（阳性名词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 515
+ },
+ {
+  "fr": "mettre (se) (v.)",
+  "en": "begin, put (v.)",
+  "es": "poner (se) (v.)",
+  "de": "beginnen (v.)",
+  "zh": "放（动词）",
+  "unit": "U5",
+  "lesson": "L3",
+  "id": 516
+ },
+ {
+  "fr": "meuble (n.m.)",
+  "en": "furniture (n.)",
+  "es": "mueble (n.m.)",
+  "de": "Möbel (n. n.)",
+  "zh": "家具（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 517
+ },
+ {
+  "fr": "midi (n.m.)",
+  "en": "midday (n.)",
+  "es": "mediodía (n.m.)",
+  "de": "Mittag (n. m.)",
+  "zh": "中午（阳性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 518
+ },
+ {
+  "fr": "million (n.m.)",
+  "en": "million (n.)",
+  "es": "millón (n.m.)",
+  "de": "Million (n. f.)",
+  "zh": "百万（阳性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 519
+ },
+ {
+  "fr": "ministre (n.m.)",
+  "en": "minister (n.)",
+  "es": "ministro (n.m.)",
+  "de": "Minister (n. m.)",
+  "zh": "部长（阳性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 520
+ },
+ {
+  "fr": "minute (n.f.)",
+  "en": "minute (n.)",
+  "es": "minuto (n.m.)",
+  "de": "Minute (n. f.)",
+  "zh": "分（阴性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 521
+ },
+ {
+  "fr": "mobile (adj.)",
+  "en": "mobile (adj.)",
+  "es": "móvil (adj.)",
+  "de": "beweglich (adj.)",
+  "zh": "移动的（形容词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 522
+ },
+ {
+  "fr": "mode (n.f.)",
+  "en": "fashion (n.)",
+  "es": "moda (n.f.)",
+  "de": "Mode (n. f.)",
+  "zh": "模式（阴性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 523
+ },
+ {
+  "fr": "modèle (n.m.)",
+  "en": "model (n.)",
+  "es": "modelo (n.m.)",
+  "de": "Modell (n. n.)",
+  "zh": "榜样（阳性名词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 524
+ },
+ {
+  "fr": "moderne (adj.)",
+  "en": "modern (adj.)",
+  "es": "moderno (adj.)",
+  "de": "modern (adj.)",
+  "zh": "现代的（形容词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 525
+ },
+ {
+  "fr": "monde (n.m.)",
+  "en": "world (n.)",
+  "es": "mundo (n.m.)",
+  "de": "Welt (n. f.)",
+  "zh": "世界（阳性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 526
+ },
+ {
+  "fr": "monnaie (n.f.)",
+  "en": "change (n.)",
+  "es": "moneda (n.f.)",
+  "de": "Münze (n. f.)",
+  "zh": "货币（阴性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 527
+ },
+ {
+  "fr": "monsieur (n.m.)",
+  "en": "gentleman (n.)",
+  "es": "señor (n.m.)",
+  "de": "Herr (n. m.)",
+  "zh": "先生（阳性名词）",
+  "unit": "U0",
+  "lesson": "L3",
+  "id": 528
+ },
+ {
+  "fr": "montagne (n.f.)",
+  "en": "mountain (n.)",
+  "es": "montaña (n.f.)",
+  "de": "Gebirge (n. n.)",
+  "zh": "山（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 529
+ },
+ {
+  "fr": "monter (v.)",
+  "en": "go up (v.)",
+  "es": "montar (v.)",
+  "de": "hinaufgehen (v.)",
+  "zh": "上（动词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 530
+ },
+ {
+  "fr": "montrer (v.)",
+  "en": "show (v.)",
+  "es": "mostrar (v.)",
+  "de": "zeigen (v.)",
+  "zh": "出示（动词）",
+  "unit": "U7",
+  "lesson": "L3",
+  "id": 531
+ },
+ {
+  "fr": "monument (n.m.)",
+  "en": "monument (n.)",
+  "es": "monumento (n.m.)",
+  "de": "Denkmal (n. n.)",
+  "zh": "纪念性建筑物（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 532
+ },
+ {
+  "fr": "morceau (n.m.)",
+  "en": "bit (n.)",
+  "es": "trozo (n.m.)",
+  "de": "Stück (n. n.)",
+  "zh": "块（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 533
+ },
+ {
+  "fr": "mort (n.f.)",
+  "en": "death (n.)",
+  "es": "muerte (n.f.)",
+  "de": "Tod (n. m.)",
+  "zh": "死亡（阴性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 534
+ },
+ {
+  "fr": "mot de passe (n.m.)",
+  "en": "password (n.)",
+  "es": "contraseña (n.m.)",
+  "de": "Passwort (n. n.)",
+  "zh": "密码（阳性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 535
+ },
+ {
+  "fr": "moule (n.f.)",
+  "en": "mould, mussel (n.)",
+  "es": "molde (n.m.)",
+  "de": "Miesmuschel (n. f.)",
+  "zh": "模型（阴性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 536
+ },
+ {
+  "fr": "mourir (v.)",
+  "en": "die (v.)",
+  "es": "morir (v.)",
+  "de": "sterben (v.)",
+  "zh": "死亡（动词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 537
+ },
+ {
+  "fr": "moustique (n.m.)",
+  "en": "mosquito (n.)",
+  "es": "mosquito (n.m.)",
+  "de": "Mücke (n. f.)",
+  "zh": "蚊子（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 538
+ },
+ {
+  "fr": "moutarde (n.f.)",
+  "en": "mustard (n.)",
+  "es": "mostaza (n.f.)",
+  "de": "Senf (n. m.)",
+  "zh": "芥菜（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 539
+ },
+ {
+  "fr": "musculation (n.f.)",
+  "en": "body-building (n.)",
+  "es": "ejercicios de pesas (n.m.pl.)",
+  "de": "Bodybuilding (n. n.)",
+  "zh": "肌肉锻炼（阴性名词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 540
+ },
+ {
+  "fr": "musée (n.m.)",
+  "en": "museum (n.)",
+  "es": "museo (n.m.)",
+  "de": "Museum (n. n.)",
+  "zh": "博物馆（阳性名词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 541
+ },
+ {
+  "fr": "musique (n.f.)",
+  "en": "music (n.)",
+  "es": "música (n.f.)",
+  "de": "Musik (n. f.)",
+  "zh": "音乐（阴性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 542
+ },
+ {
+  "fr": "musulman (adj.)",
+  "en": "Muslim (adj.)",
+  "es": "musulmán (adj.)",
+  "de": "islamisch (adj.)",
+  "zh": "伊斯兰教的（形容词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 543
+ },
+ {
+  "fr": "natation (n.f.)",
+  "en": "swimming (n.)",
+  "es": "natación (n.f.)",
+  "de": "Schwimmen (n. n.)",
+  "zh": "游泳（阴性名词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 544
+ },
+ {
+  "fr": "national (adj.)",
+  "en": "national (adj.)",
+  "es": "nacional (adj.)",
+  "de": "national (adj.)",
+  "zh": "国家的（形容词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 545
+ },
+ {
+  "fr": "nationalité (n.f.)",
+  "en": "nationality (n.)",
+  "es": "nacionalidad (n.f.)",
+  "de": "Nationalität (n. f.)",
+  "zh": "国籍（阴性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 546
+ },
+ {
+  "fr": "naturel (adj.)",
+  "en": "natural (adj.)",
+  "es": "natural (adj.)",
+  "de": "natürlich (adj.)",
+  "zh": "自然的（形容词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 547
+ },
+ {
+  "fr": "neiger (v.)",
+  "en": "snow (v.)",
+  "es": "nevar (v.)",
+  "de": "schneien (v.)",
+  "zh": "下雪（动词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 548
+ },
+ {
+  "fr": "neuf (adj.)",
+  "en": "new (adj.)",
+  "es": "nuevo (adj.)",
+  "de": "neu (adj.)",
+  "zh": "新的（形容词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 549
+ },
+ {
+  "fr": "noël (n.m.)",
+  "en": "Christmas (n.)",
+  "es": "navidad (n.f.)",
+  "de": "Weihnachten (n. n.)",
+  "zh": "圣诞节（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 550
+ },
+ {
+  "fr": "noir (adj.)",
+  "en": "black (adj.)",
+  "es": "negro (adj.)",
+  "de": "schwarz (adj.)",
+  "zh": "黑的（形容词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 551
+ },
+ {
+  "fr": "nom (n.m.)",
+  "en": "name (n.)",
+  "es": "nombre (n.m.)",
+  "de": "Name (n. m.)",
+  "zh": "名字（阳性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 552
+ },
+ {
+  "fr": "nombreux (adj.)",
+  "en": "many (adj.)",
+  "es": "numerosos (adj.)",
+  "de": "zahlreich (adj.)",
+  "zh": "大量的（形容词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 553
+ },
+ {
+  "fr": "normal (adj.)",
+  "en": "normal (adj.)",
+  "es": "normal (adj.)",
+  "de": "normal (adj.)",
+  "zh": "正常的（形容词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 554
+ },
+ {
+  "fr": "nouveau (adj.)",
+  "en": "new (adj.)",
+  "es": "nuevo (adj.)",
+  "de": "neu (adj.)",
+  "zh": "新出现的（形容词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 555
+ },
+ {
+  "fr": "novembre (n.m.)",
+  "en": "November (n.)",
+  "es": "noviembre (n.m.)",
+  "de": "November (n. m.)",
+  "zh": "十一月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 556
+ },
+ {
+  "fr": "nuit (n.f.)",
+  "en": "night (n.)",
+  "es": "noche (n.f.)",
+  "de": "Nacht (n. f.)",
+  "zh": "夜晚（阴性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 557
+ },
+ {
+  "fr": "numéro (n.m.)",
+  "en": "number (n.)",
+  "es": "número (n.m.)",
+  "de": "Nummer (n. f.)",
+  "zh": "号码（阳性名词）",
+  "unit": "U2",
+  "lesson": "L1",
+  "id": 558
+ },
+ {
+  "fr": "nymphéa (n.m.)",
+  "en": "white water lily (n.)",
+  "es": "nenúfar (n.m.)",
+  "de": "Seerose (n. f.)",
+  "zh": "睡莲（阳性名词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 559
+ },
+ {
+  "fr": "objectif (n.m.)",
+  "en": "objective (n.)",
+  "es": "objetivo (n.m.)",
+  "de": "Ziel (n. n.)",
+  "zh": "目标，目的（阳性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 560
+ },
+ {
+  "fr": "objet (n.m.)",
+  "en": "object (n.)",
+  "es": "objeto (n.m.)",
+  "de": "Gegenstand (n. m.)",
+  "zh": "物体，对象（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 561
+ },
+ {
+  "fr": "occasion (n.f.)",
+  "en": "occasion (n.)",
+  "es": "ocasión (n.f.)",
+  "de": "Gelegenheit (n. f.)",
+  "zh": "机会（阴性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 562
+ },
+ {
+  "fr": "occupé (adj.)",
+  "en": "busy (adj.)",
+  "es": "ocupado (adj.)",
+  "de": "beschäftigt (adj.)",
+  "zh": "忙碌的（形容词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 563
+ },
+ {
+  "fr": "océan (n.m.)",
+  "en": "ocean (n.)",
+  "es": "océano (n.m.)",
+  "de": "Ozean (n. m.)",
+  "zh": "海洋（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 564
+ },
+ {
+  "fr": "octobre (n.m.)",
+  "en": "October (n.)",
+  "es": "octubre (n.m.)",
+  "de": "Oktober (n. m.)",
+  "zh": "十月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 565
+ },
+ {
+  "fr": "œuf (n.m.)",
+  "en": "egg (n.)",
+  "es": "huevo (n.m.)",
+  "de": "Ei (n. n.)",
+  "zh": "鸡蛋（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 566
+ },
+ {
+  "fr": "œuvre (n.f.)",
+  "en": "work (n.)",
+  "es": "obra (n.f.)",
+  "de": "Werk (n. n.)",
+  "zh": "工作，劳动（阴性名词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 567
+ },
+ {
+  "fr": "oignon (n.m.)",
+  "en": "onion (n.)",
+  "es": "cebolla (n.f.)",
+  "de": "Zwiebel (n. f.)",
+  "zh": "洋葱（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 568
+ },
+ {
+  "fr": "olive (n.f.)",
+  "en": "olive (n.)",
+  "es": "aceituna (n.f.)",
+  "de": "Olive (n. f.)",
+  "zh": "油橄榄（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 569
+ },
+ {
+  "fr": "oncle (n.m.)",
+  "en": "uncle (n.)",
+  "es": "tío (n.m.)",
+  "de": "Onkel (n. m.)",
+  "zh": "叔叔（阳性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 570
+ },
+ {
+  "fr": "ordinateur (n.m.)",
+  "en": "computer (n.)",
+  "es": "ordenador (n.m.)",
+  "de": "Computer (n. m.)",
+  "zh": "电脑（阳性名词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 571
+ },
+ {
+  "fr": "oreiller (n.m.)",
+  "en": "pillow (n.)",
+  "es": "almohadón (n.m.)",
+  "de": "Kopfkissen (n. n.)",
+  "zh": "枕头（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 572
+ },
+ {
+  "fr": "oriental (adj.)",
+  "en": "eastern (adj.)",
+  "es": "oriental (adj.)",
+  "de": "orientalisch (adj.)",
+  "zh": "东面的，东方的（形容词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 573
+ },
+ {
+  "fr": "original (adj.)",
+  "en": "original (adj.)",
+  "es": "original (adj.)",
+  "de": "original (adj.)",
+  "zh": "原始的（形容词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 574
+ },
+ {
+  "fr": "oublier (v.)",
+  "en": "forget (v.)",
+  "es": "olvidar (v.)",
+  "de": "vergessen (v.)",
+  "zh": "忘记（动词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 575
+ },
+ {
+  "fr": "ouvrir (v.)",
+  "en": "open (v.)",
+  "es": "abrir (v.)",
+  "de": "öffnen (v.)",
+  "zh": "打开（动词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 576
+ },
+ {
+  "fr": "pacs (n.m.)",
+  "en": "civil partnership (n.)",
+  "es": "pareja de hecho (n.m.)",
+  "de": "eingetragene Partnerschaft (n. f.)",
+  "zh": "同居的两个人之间的协议（阳性名词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 577
+ },
+ {
+  "fr": "page (n.f.)",
+  "en": "page (n.)",
+  "es": "página (n.f.)",
+  "de": "Seite (n. f.)",
+  "zh": "页（阴性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 578
+ },
+ {
+  "fr": "pain (n.m.)",
+  "en": "bread (n.)",
+  "es": "pan (n.m.)",
+  "de": "Brot (n. n.)",
+  "zh": "面包（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 579
+ },
+ {
+  "fr": "panier (n.m.)",
+  "en": "basket (n.)",
+  "es": "cesta (n.f.)",
+  "de": "Korb (n. m.)",
+  "zh": "篮(阳性名词)",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 580
+ },
+ {
+  "fr": "pantalon (n.m.)",
+  "en": "trousers (n.pl.)",
+  "es": "pantalón (n.m.)",
+  "de": "Hose (n. f.)",
+  "zh": "长裤(阳性名词)",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 581
+ },
+ {
+  "fr": "papeterie (n.f.)",
+  "en": "stationery (n.)",
+  "es": "papelería (n.f.)",
+  "de": "Papierhandlung (n. f.)",
+  "zh": "造纸厂(阴性名词)",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 582
+ },
+ {
+  "fr": "papier (n.m.)",
+  "en": "paper (n.)",
+  "es": "papel (n.m.)",
+  "de": "Papier (n. n.)",
+  "zh": "纸张(阳性名词)",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 583
+ },
+ {
+  "fr": "parapluie (n.m.)",
+  "en": "umbrella (n.)",
+  "es": "paraguas (n.m.)",
+  "de": "Regenschirm (n. m.)",
+  "zh": "雨伞(阳性名词)",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 584
+ },
+ {
+  "fr": "parc (n.m.)",
+  "en": "park (n.)",
+  "es": "parque (n.m.)",
+  "de": "Park (n. m.)",
+  "zh": "公园(阳性名词)",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 585
+ },
+ {
+  "fr": "pardon",
+  "en": "sorry, excuse me",
+  "es": "perdón",
+  "de": "Entschuldigung",
+  "zh": "对不起",
+  "unit": "U0",
+  "lesson": "L3",
+  "id": 586
+ },
+ {
+  "fr": "pareil (adj.)",
+  "en": "the same (adj.)",
+  "es": "igual (adj.)",
+  "de": "gleich (adj.)",
+  "zh": "相同的(形容词)",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 587
+ },
+ {
+  "fr": "parfait (adj.)",
+  "en": "perfect (adj.)",
+  "es": "perfecto (adj.)",
+  "de": "perfekt (adj.)",
+  "zh": "完美的(形容词)",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 588
+ },
+ {
+  "fr": "parfum (n.m.)",
+  "en": "perfume (n.)",
+  "es": "perfume (n.m.)",
+  "de": "Parfum (n. n.)",
+  "zh": "香水(阳性名词)",
+  "unit": "U1",
+  "lesson": "L3",
+  "id": 589
+ },
+ {
+  "fr": "parking (n.m.)",
+  "en": "car park (n.)",
+  "es": "aparcamiento (n.m.)",
+  "de": "Parkplatz (n. m.)",
+  "zh": "停车场(阳性名词)",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 590
+ },
+ {
+  "fr": "parlement (n.m.)",
+  "en": "parliament (n.)",
+  "es": "parlamento (n.m.)",
+  "de": "Parlament (n. n.)",
+  "zh": "国会,议会(阳性名词)",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 591
+ },
+ {
+  "fr": "parler (v.)",
+  "en": "speak (v.)",
+  "es": "hablar (v.)",
+  "de": "sprechen (v.)",
+  "zh": "讲话(动词)",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 592
+ },
+ {
+  "fr": "participer (v.)",
+  "en": "participate (v.)",
+  "es": "participar (v.)",
+  "de": "teilnehmen (v.)",
+  "zh": "参加（动词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 593
+ },
+ {
+  "fr": "partie (n.f.)",
+  "en": "party, match (n.)",
+  "es": "parte (n.f.)",
+  "de": "Teil (n. m.)",
+  "zh": "部分（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 594
+ },
+ {
+  "fr": "partir (v.)",
+  "en": "leave (v.)",
+  "es": "partir (v.)",
+  "de": "abfahren (v.)",
+  "zh": "离开（动词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 595
+ },
+ {
+  "fr": "passager (n.m.)",
+  "en": "passenger (n.)",
+  "es": "pasajero (n.m.)",
+  "de": "Passagier (n. m.)",
+  "zh": "乘客（阳性名词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 596
+ },
+ {
+  "fr": "passer (se) (v.)",
+  "en": "take place (v.)",
+  "es": "pasar (se) (v.)",
+  "de": "passieren (v.)",
+  "zh": "发生（动词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 597
+ },
+ {
+  "fr": "passer (v.)",
+  "en": "pass (v.)",
+  "es": "pasar (v.)",
+  "de": "vergehen (v.)",
+  "zh": "经过（动词）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 598
+ },
+ {
+  "fr": "pâte (n.f.)",
+  "en": "pastry (n.)",
+  "es": "pasta (n.f.)",
+  "de": "Teil (n. m.)",
+  "zh": "面团，酱（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 599
+ },
+ {
+  "fr": "pâté (n.m.)",
+  "en": "pâté (n.)",
+  "es": "paté (n.m.)",
+  "de": "Pastete (n. f.)",
+  "zh": "肉酱（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 600
+ },
+ {
+  "fr": "pâtisserie (n.f.)",
+  "en": "cake shop (n.)",
+  "es": "pastelería (n.f.)",
+  "de": "Konditorei (n. f.)",
+  "zh": "糕点（阴性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 601
+ },
+ {
+  "fr": "payer (v.)",
+  "en": "pay (v.)",
+  "es": "pagar (v.)",
+  "de": "zahlen (v.)",
+  "zh": "支付（动词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 602
+ },
+ {
+  "fr": "pays (n.m.)",
+  "en": "country (n.)",
+  "es": "país (n.m.)",
+  "de": "Land (n. n.)",
+  "zh": "国家（阳性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 603
+ },
+ {
+  "fr": "paysage (n.m.)",
+  "en": "landscape (n.)",
+  "es": "paisaje (n.m.)",
+  "de": "Landschaft (n. f.)",
+  "zh": "风景（阳性名词）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 604
+ },
+ {
+  "fr": "peindre (v.)",
+  "en": "paint (v.)",
+  "es": "pintar (v.)",
+  "de": "malen (v.)",
+  "zh": "画（动词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 605
+ },
+ {
+  "fr": "peintre (n.m.)",
+  "en": "painter (n.)",
+  "es": "pintor (n.m.)",
+  "de": "Maler (n. m.)",
+  "zh": "图画（阳性名词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 606
+ },
+ {
+  "fr": "penser (v.)",
+  "en": "think (v.)",
+  "es": "pensar (v.)",
+  "de": "denken (v.)",
+  "zh": "想（动词）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 607
+ },
+ {
+  "fr": "perdre (v.)",
+  "en": "lose (v.)",
+  "es": "perder (v.)",
+  "de": "verlieren (v.)",
+  "zh": "失去（动词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 608
+ },
+ {
+  "fr": "père (n.m.)",
+  "en": "father (n.)",
+  "es": "padre (n.m.)",
+  "de": "Vater (n. m.)",
+  "zh": "父亲（阳性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 609
+ },
+ {
+  "fr": "personnalité (n.f.)",
+  "en": "personality (n.)",
+  "es": "personalidad (n.f.)",
+  "de": "Persönlichkeit (n. f.)",
+  "zh": "人格（阴性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 610
+ },
+ {
+  "fr": "personne (n.f.)",
+  "en": "person (n.)",
+  "es": "persona (n.f.)",
+  "de": "Person (n. f.)",
+  "zh": "人（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 611
+ },
+ {
+  "fr": "petit (adj.)",
+  "en": "small (adj.)",
+  "es": "pequeño (adj.)",
+  "de": "klein (adj.)",
+  "zh": "小的（形容词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 612
+ },
+ {
+  "fr": "petite-fille (n.f.)",
+  "en": "granddaughter (n.)",
+  "es": "nieta (n.f.)",
+  "de": "Enkeltochter (n. f.)",
+  "zh": "孙女，外孙女（阴性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 613
+ },
+ {
+  "fr": "peut-être (adv.)",
+  "en": "perhaps (adv.)",
+  "es": "quizás (adv.)",
+  "de": "vielleicht (adv.)",
+  "zh": "可能地（副词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 614
+ },
+ {
+  "fr": "photo (n.f.)",
+  "en": "photo (n.)",
+  "es": "foto (n.f.)",
+  "de": "Foto (n. n.)",
+  "zh": "照片（阴性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 615
+ },
+ {
+  "fr": "pièce (n.f.)",
+  "en": "room, piece (n.)",
+  "es": "pieza (n.f.)",
+  "de": "Zimmer, Stück (n. n.)",
+  "zh": "片（阴性名词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 616
+ },
+ {
+  "fr": "place (n.f.)",
+  "en": "square (n.)",
+  "es": "plaza (n.f.)",
+  "de": "Platz (n. m.)",
+  "zh": "广场（阴性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 617
+ },
+ {
+  "fr": "plage (n.f.)",
+  "en": "beach (n.)",
+  "es": "playa (n.f.)",
+  "de": "Strand (n. m.)",
+  "zh": "沙滩（阴性名词）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 618
+ },
+ {
+  "fr": "plaire (v.)",
+  "en": "please (v.)",
+  "es": "gustar (v.)",
+  "de": "gefallen (v.)",
+  "zh": "使高兴（动词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 619
+ },
+ {
+  "fr": "plaisanter (v.)",
+  "en": "joke (v.)",
+  "es": "bromear (v.)",
+  "de": "Spaß machen (v.)",
+  "zh": "开玩笑（动词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 620
+ },
+ {
+  "fr": "plaisir (n.m.)",
+  "en": "pleasure (n.)",
+  "es": "placer (n.m.)",
+  "de": "Freude (n. f.)",
+  "zh": "愉快，高兴（阳性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 621
+ },
+ {
+  "fr": "plante (n.f.)",
+  "en": "plant (n.)",
+  "es": "planta (n.f.)",
+  "de": "Pflanze (n. f.)",
+  "zh": "植物（阴性名词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 622
+ },
+ {
+  "fr": "plat (n.m.)",
+  "en": "dish (n.)",
+  "es": "plato (n.m.)",
+  "de": "Gericht (n. n.)",
+  "zh": "盘子（阳性名词）",
+  "unit": "U1",
+  "lesson": "Pr",
+  "id": 623
+ },
+ {
+  "fr": "plein (adj.)",
+  "en": "full (adj.)",
+  "es": "lleno (adj.)",
+  "de": "voll (adj.)",
+  "zh": "满的（形容词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 624
+ },
+ {
+  "fr": "pleuvoir (v.)",
+  "en": "rain (v.)",
+  "es": "llover (v.)",
+  "de": "regnen (v.)",
+  "zh": "下雨（动词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 625
+ },
+ {
+  "fr": "plongée (n.f.)",
+  "en": "diving (n.)",
+  "es": "buceo (n.m.)",
+  "de": "Tauchen (n. n.)",
+  "zh": "潜水（阴性名词）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 626
+ },
+ {
+  "fr": "poisson (n.m.)",
+  "en": "fish (n.)",
+  "es": "pescado (n.m.)",
+  "de": "Fisch (n. m.)",
+  "zh": "鱼（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 627
+ },
+ {
+  "fr": "politique (adj.)",
+  "en": "political (adj.)",
+  "es": "político (adj.)",
+  "de": "politisch (adj.)",
+  "zh": "政治的（形容词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 628
+ },
+ {
+  "fr": "politique (n.f.)",
+  "en": "politics (n.)",
+  "es": "política (n.f.)",
+  "de": "Politik (n. f.)",
+  "zh": "政治（阴性名词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 629
+ },
+ {
+  "fr": "pollution (n.f.)",
+  "en": "pollution (n.)",
+  "es": "contaminación (n.f.)",
+  "de": "Umweltverschmutzung (n. f.)",
+  "zh": "污染（阴性名词）",
+  "unit": "U9",
+  "lesson": "Pr",
+  "id": 630
+ },
+ {
+  "fr": "pomme (n.f.)",
+  "en": "apple (n.)",
+  "es": "manzana (n.f.)",
+  "de": "Apfel (n. m.)",
+  "zh": "苹果（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 631
+ },
+ {
+  "fr": "pomme de terre (n.f.)",
+  "en": "potato (n.)",
+  "es": "patata (n.f.)",
+  "de": "Kartoffel (n. f.)",
+  "zh": "土豆（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 632
+ },
+ {
+  "fr": "pont (n.m.)",
+  "en": "bridge (n.)",
+  "es": "puente (n.m.)",
+  "de": "Brücke (n. f.)",
+  "zh": "桥（阳性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 633
+ },
+ {
+  "fr": "porc (n.m.)",
+  "en": "pork (n.)",
+  "es": "cerdo (n.m.)",
+  "de": "Schwein (n. n.)",
+  "zh": "猪（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 634
+ },
+ {
+  "fr": "portable (n.m.)",
+  "en": "mobile phone (n.)",
+  "es": "portátil (n.m.)",
+  "de": "Handy (n. n.)",
+  "zh": "手提收音机（阳性名词）",
+  "unit": "U5",
+  "lesson": "L3",
+  "id": 635
+ },
+ {
+  "fr": "porte (n.f.)",
+  "en": "door (n.)",
+  "es": "puerta (n.f.)",
+  "de": "Tür (n. f.)",
+  "zh": "门（阴性名词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 636
+ },
+ {
+  "fr": "porter (v.)",
+  "en": "wear (v.)",
+  "es": "llevar (v.)",
+  "de": "tragen (v.)",
+  "zh": "携带（动词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 637
+ },
+ {
+  "fr": "possible (adj.)",
+  "en": "possible (adj.)",
+  "es": "posible (adj.)",
+  "de": "möglich (adj.)",
+  "zh": "可能的（形容词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 638
+ },
+ {
+  "fr": "poste (n.m.)",
+  "en": "post (n.)",
+  "es": "puesto (n.m.)",
+  "de": "Stelle (n. f.)",
+  "zh": "岗位（阳性名词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 639
+ },
+ {
+  "fr": "poulet (n.m.)",
+  "en": "chicken (n.)",
+  "es": "pollo (n.m.)",
+  "de": "Huhn (n. n.)",
+  "zh": "小鸡（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 640
+ },
+ {
+  "fr": "pousser (v.)",
+  "en": "push, grow (v.)",
+  "es": "empujar (v.)",
+  "de": "schieben (v.)",
+  "zh": "推（动词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 641
+ },
+ {
+  "fr": "pouvoir (v.)",
+  "en": "be able to (v.)",
+  "es": "poder (v.)",
+  "de": "können (v.)",
+  "zh": "能（动词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 642
+ },
+ {
+  "fr": "pratique (adj.)",
+  "en": "practical (adj.)",
+  "es": "práctico (adj.)",
+  "de": "praktisch (adj.)",
+  "zh": "实际的（形容词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 643
+ },
+ {
+  "fr": "préférer (v.)",
+  "en": "prefer (v.)",
+  "es": "preferir (v.)",
+  "de": "bevorzugen (v.)",
+  "zh": "更喜欢（动词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 644
+ },
+ {
+  "fr": "préhistorique (adj.)",
+  "en": "prehistoric (adj.)",
+  "es": "prehistórico (adj.)",
+  "de": "prähistorisch (adj.)",
+  "zh": "史前的（形容词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 645
+ },
+ {
+  "fr": "prendre (v.)",
+  "en": "take (v.)",
+  "es": "coger (v.)",
+  "de": "nehmen (v.)",
+  "zh": "拿（动词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 646
+ },
+ {
+  "fr": "prénom (n.m.)",
+  "en": "first name (n.)",
+  "es": "nombre (n.m.)",
+  "de": "Vorname (n. m.)",
+  "zh": "姓（阳性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 647
+ },
+ {
+  "fr": "préparation (n.f.)",
+  "en": "preparation (n.)",
+  "es": "preparación (n.f.)",
+  "de": "Vorbereitung (n. f.)",
+  "zh": "准备（阴性名词）",
+  "unit": "U5",
+  "lesson": "L3",
+  "id": 648
+ },
+ {
+  "fr": "préparer (v.)",
+  "en": "prepare (v.)",
+  "es": "preparar (v.)",
+  "de": "vorbereiten (v.)",
+  "zh": "准备（动词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 649
+ },
+ {
+  "fr": "présentation (n.f.)",
+  "en": "presentation (n.)",
+  "es": "presentación (n.f.)",
+  "de": "Präsentation (n. f.)",
+  "zh": "介绍（阴性名词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 650
+ },
+ {
+  "fr": "présenter (v.)",
+  "en": "present (v.)",
+  "es": "presentar (v.)",
+  "de": "präsentieren (v.)",
+  "zh": "介绍（动词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 651
+ },
+ {
+  "fr": "principal (adj.)",
+  "en": "main (adj.)",
+  "es": "principal (adj.)",
+  "de": "Haupt- (in Zusammensetzungen)",
+  "zh": "主要的（形容词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 652
+ },
+ {
+  "fr": "prix (n.m.)",
+  "en": "price, award (n.)",
+  "es": "precio (n.m.)",
+  "de": "Preis (n. m.)",
+  "zh": "价格（阳性名词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 653
+ },
+ {
+  "fr": "prochain (adj.)",
+  "en": "next (adj.)",
+  "es": "próximo (adj.)",
+  "de": "nächste (adj.)",
+  "zh": "下一次的（形容词）",
+  "unit": "U4",
+  "lesson": "L1",
+  "id": 654
+ },
+ {
+  "fr": "producteur (n.m.)",
+  "en": "producer (n.)",
+  "es": "productor (n.m.)",
+  "de": "Produzent (n. m.)",
+  "zh": "生产者（阳性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 655
+ },
+ {
+  "fr": "produire (v.)",
+  "en": "produce (v.)",
+  "es": "producir (v.)",
+  "de": "produzieren (v.)",
+  "zh": "生产（动词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 656
+ },
+ {
+  "fr": "produit (n.m.)",
+  "en": "product (n.)",
+  "es": "producto (n.m.)",
+  "de": "Produkt (n. n.)",
+  "zh": "产品（阳性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 657
+ },
+ {
+  "fr": "profession (n.f.)",
+  "en": "profession (n.)",
+  "es": "profesión (n.f.)",
+  "de": "Beruf (n. m.)",
+  "zh": "职业（阴性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 658
+ },
+ {
+  "fr": "professionnel (adj.)",
+  "en": "professional (adj.)",
+  "es": "profesional (adj.)",
+  "de": "beruflich (adj.)",
+  "zh": "专业的（形容词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 659
+ },
+ {
+  "fr": "programme (n.m.)",
+  "en": "programme (TV), program (computer) (n.)",
+  "es": "programa (n.m.)",
+  "de": "Programm (n. n.)",
+  "zh": "节目（阳性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 660
+ },
+ {
+  "fr": "projection (n.f.)",
+  "en": "projection (n.)",
+  "es": "proyección (n.f.)",
+  "de": "Projektion (n. f.)",
+  "zh": "发射（阴性名词）",
+  "unit": "U7",
+  "lesson": "L3",
+  "id": 661
+ },
+ {
+  "fr": "projet (n.m.)",
+  "en": "project (n.)",
+  "es": "proyecto (n.m.)",
+  "de": "Projekt (n. n.)",
+  "zh": "项目（阳性名词）",
+  "unit": "U4",
+  "lesson": "L1",
+  "id": 662
+ },
+ {
+  "fr": "promenade (n.f.)",
+  "en": "walk (n.)",
+  "es": "paseo (n.m.)",
+  "de": "Spaziergang (n. m.)",
+  "zh": "散步（阴性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 663
+ },
+ {
+  "fr": "promener (se) (v.)",
+  "en": "walk (v.)",
+  "es": "pasear (se) (v.)",
+  "de": "spazieren gehen (v.)",
+  "zh": "散步（动词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 664
+ },
+ {
+  "fr": "prononcer (v.)",
+  "en": "pronounce (v.)",
+  "es": "pronunciar (v.)",
+  "de": "aussprechen (v.)",
+  "zh": "宣布（动词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 665
+ },
+ {
+  "fr": "proposer (v.)",
+  "en": "propose (v.)",
+  "es": "proponer (v.)",
+  "de": "vorschlagen (v.)",
+  "zh": "建议（动词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 666
+ },
+ {
+  "fr": "proposition (n.f.)",
+  "en": "proposal (n.)",
+  "es": "proposición (n.f.)",
+  "de": "Vorschlag (n. m.)",
+  "zh": "建议（阴性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 667
+ },
+ {
+  "fr": "public (n.m.)",
+  "en": "public (n.)",
+  "es": "público (n.m.)",
+  "de": "Öffentlichkeit (n. f.)",
+  "zh": "公众（阳性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 668
+ },
+ {
+  "fr": "publication (n.f.)",
+  "en": "publication (n.)",
+  "es": "publicación (n.f.)",
+  "de": "Veröffentlichung (n. f.)",
+  "zh": "公布（阴性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 669
+ },
+ {
+  "fr": "pull (n.m.)",
+  "en": "jumper (n.)",
+  "es": "jersey (n.m.)",
+  "de": "Pullover (n. m.)",
+  "zh": "套衫（阳性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 670
+ },
+ {
+  "fr": "quart (n.m.)",
+  "en": "quarter (n.)",
+  "es": "cuarto (n.m.)",
+  "de": "Viertel (n. n.)",
+  "zh": "四分之一（阳性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 671
+ },
+ {
+  "fr": "quartier (n.m.)",
+  "en": "district (n.)",
+  "es": "barrio (n.m.)",
+  "de": "Stadtteil (n. m.)",
+  "zh": "区（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 672
+ },
+ {
+  "fr": "quitter (v.)",
+  "en": "quit (v.)",
+  "es": "dejar (v.)",
+  "de": "verlassen (v.)",
+  "zh": "离开（动词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 673
+ },
+ {
+  "fr": "radio (n.f.)",
+  "en": "radio (n.)",
+  "es": "radio (n.f.)",
+  "de": "Radio (n. n.)",
+  "zh": "无线广播（阴性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 674
+ },
+ {
+  "fr": "radio-réveil (n.m.)",
+  "en": "alarm clock (n.)",
+  "es": "radiodespertador (n.m.)",
+  "de": "Radiowecker (n. m.)",
+  "zh": "收音机闹钟（阳性名词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 675
+ },
+ {
+  "fr": "rallye (n.m.)",
+  "en": "rally (n.)",
+  "es": "rally (n.m.)",
+  "de": "Rallye (n. f.)",
+  "zh": "赛跑会（阳性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 676
+ },
+ {
+  "fr": "randonnée (n.f.)",
+  "en": "hiking (n.)",
+  "es": "caminata (n.f.)",
+  "de": "Wanderung (n. f.)",
+  "zh": "出游，远足（阴性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 677
+ },
+ {
+  "fr": "rap (n.m.)",
+  "en": "rap (n.)",
+  "es": "rap (n.m.)",
+  "de": "Rap (n. m.)",
+  "zh": "说唱（阳性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 678
+ },
+ {
+  "fr": "rapide (adj.)",
+  "en": "fast (adj.)",
+  "es": "rápido (adj.)",
+  "de": "schnell (adj.)",
+  "zh": "快的（形容词）",
+  "unit": "U9",
+  "lesson": "L1",
+  "id": 679
+ },
+ {
+  "fr": "rappeler (se) (v.)",
+  "en": "remember (v.)",
+  "es": "acordar (se) (v.)",
+  "de": "sich erinnern (v.)",
+  "zh": "回忆起（动词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 680
+ },
+ {
+  "fr": "rappeler (v.)",
+  "en": "call back (v.)",
+  "es": "recordar (v.)",
+  "de": "erinnern (v.)",
+  "zh": "召回（动词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 681
+ },
+ {
+  "fr": "rapporter (v.)",
+  "en": "report (v.)",
+  "es": "devolver (v.)",
+  "de": "berichten (v.)",
+  "zh": "再拿来（动词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 682
+ },
+ {
+  "fr": "rater (v.)",
+  "en": "miss (v.)",
+  "es": "perder (v.)",
+  "de": "versäumen (v.)",
+  "zh": "失败（动词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 683
+ },
+ {
+  "fr": "recevoir (v.)",
+  "en": "receive (v.)",
+  "es": "recibir (v.)",
+  "de": "empfangen (v.)",
+  "zh": "收到（动词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 684
+ },
+ {
+  "fr": "recherche (n.f.)",
+  "en": "research (n.)",
+  "es": "búsqueda (n.f.)",
+  "de": "Suche (n. f.)",
+  "zh": "寻找（阴性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 685
+ },
+ {
+  "fr": "récompense (n.f.)",
+  "en": "reward (n.)",
+  "es": "recompensa (n.f.)",
+  "de": "Lohn (n. m.)",
+  "zh": "补偿（阴性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 686
+ },
+ {
+  "fr": "refuser (v.)",
+  "en": "refuse (v.)",
+  "es": "rechazar (v.)",
+  "de": "ablehnen (v.)",
+  "zh": "拒绝（动词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 687
+ },
+ {
+  "fr": "régime (n.m.)",
+  "en": "diet, regime (n.)",
+  "es": "régimen (n.m.)",
+  "de": "Regime (n. n.)",
+  "zh": "政体（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 688
+ },
+ {
+  "fr": "région (n.f.)",
+  "en": "region (n.)",
+  "es": "región (n.f.)",
+  "de": "Region (n. f.)",
+  "zh": "地区（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 689
+ },
+ {
+  "fr": "regretter (v.)",
+  "en": "regret (v.)",
+  "es": "arrepentir (se) (v.)",
+  "de": "bedauern (v.)",
+  "zh": "后悔（动词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 690
+ },
+ {
+  "fr": "reine (n.f.)",
+  "en": "queen (n.)",
+  "es": "reina (n.f.)",
+  "de": "Königin (n. f.)",
+  "zh": "王后，皇后（阴性名词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 691
+ },
+ {
+  "fr": "relier (v.)",
+  "en": "link up (v.)",
+  "es": "unir (v.)",
+  "de": "verbinden (v.)",
+  "zh": "连接（动词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 692
+ },
+ {
+  "fr": "rembourser (v.)",
+  "en": "repay (v.)",
+  "es": "reembolsar (v.)",
+  "de": "zurückerstatten (v.)",
+  "zh": "偿还（动词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 693
+ },
+ {
+  "fr": "remercier (v.)",
+  "en": "thank (v.)",
+  "es": "agradecer (v.)",
+  "de": "danken (v.)",
+  "zh": "感谢（动词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 694
+ },
+ {
+  "fr": "rendez-vous (n.m.)",
+  "en": "appointment, date (n.)",
+  "es": "cita (n.f.)",
+  "de": "Termin (n. m.)",
+  "zh": "约会（阳性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 695
+ },
+ {
+  "fr": "rentrer (v.)",
+  "en": "return (v.)",
+  "es": "entrar (v.)",
+  "de": "zurückkommen (v.)",
+  "zh": "回来（动词）",
+  "unit": "U4",
+  "lesson": "L3",
+  "id": 696
+ },
+ {
+  "fr": "répéter (v.)",
+  "en": "repeat (v.)",
+  "es": "repetir (v.)",
+  "de": "wiederholen (v.)",
+  "zh": "重复（动词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 697
+ },
+ {
+  "fr": "répondre (v.)",
+  "en": "answer (v.)",
+  "es": "responder (v.)",
+  "de": "antworten (v.)",
+  "zh": "回答（动词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 698
+ },
+ {
+  "fr": "reposer (se) (v.)",
+  "en": "rest (v.)",
+  "es": "descansar (v.)",
+  "de": "sich ausruhen (v.)",
+  "zh": "休息（动词）",
+  "unit": "U4",
+  "lesson": "L3",
+  "id": 699
+ },
+ {
+  "fr": "responsable (adj.)",
+  "en": "responsible (adj.)",
+  "es": "responsable (adj.)",
+  "de": "verantwortlich (adj.)",
+  "zh": "负责的（形容词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 700
+ },
+ {
+  "fr": "restaurant (n.m.)",
+  "en": "restaurant (n.)",
+  "es": "restaurante (n.m.)",
+  "de": "Restaurant (n. n.)",
+  "zh": "饭店（阳性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 701
+ },
+ {
+  "fr": "rester (v.)",
+  "en": "stay (v.)",
+  "es": "permanecer (v.)",
+  "de": "bleiben (v.)",
+  "zh": "待（动词）",
+  "unit": "U4",
+  "lesson": "L3",
+  "id": 702
+ },
+ {
+  "fr": "retenue (n.f.)",
+  "en": "restraint (n.)",
+  "es": "retención (n.f.)",
+  "de": "Abzug (n. m.)",
+  "zh": "扣留，扣除（阴性名词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 703
+ },
+ {
+  "fr": "retour (n.m.)",
+  "en": "return (n.)",
+  "es": "regreso (n.m.)",
+  "de": "Rückkehr (n. f.)",
+  "zh": "返回（阳性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 704
+ },
+ {
+  "fr": "retraite (n.f.)",
+  "en": "retirement (n.)",
+  "es": "jubilación (n.f.)",
+  "de": "Rente (n. f.)",
+  "zh": "退休（阴性名词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 705
+ },
+ {
+  "fr": "réunion (n.f.)",
+  "en": "meeting (n.)",
+  "es": "reunión (n.f.)",
+  "de": "Wiedervereinigung (n. f.)",
+  "zh": "集合（阴性名词）",
+  "unit": "U5",
+  "lesson": "L3",
+  "id": 706
+ },
+ {
+  "fr": "rêve (n.m.)",
+  "en": "dream (n.)",
+  "es": "sueño (n.m.)",
+  "de": "Traum (n. m.)",
+  "zh": "梦想（阳性名词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 707
+ },
+ {
+  "fr": "réveiller (se) (v.)",
+  "en": "wake up (v.)",
+  "es": "despertar (se) (v.)",
+  "de": "aufwachen (v.)",
+  "zh": "醒来（动词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 708
+ },
+ {
+  "fr": "rez-de-chaussée (n.m.)",
+  "en": "ground floor (n.)",
+  "es": "planta baja (n.f.)",
+  "de": "Erdgeschoss (n. n.)",
+  "zh": "底层（阳性名词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 709
+ },
+ {
+  "fr": "rivière (n.f.)",
+  "en": "river (n.)",
+  "es": "río (n.m.)",
+  "de": "Fluss (n. m.)",
+  "zh": "河（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 710
+ },
+ {
+  "fr": "riz (n.m.)",
+  "en": "rice (n.)",
+  "es": "arroz (n.m.)",
+  "de": "Reis (n. m.)",
+  "zh": "米（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 711
+ },
+ {
+  "fr": "robe (n.f.)",
+  "en": "dress (n.)",
+  "es": "vestido (n.m.)",
+  "de": "Kleid (n. n.)",
+  "zh": "连衣裙（阴性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 712
+ },
+ {
+  "fr": "roi (n.m.)",
+  "en": "king (n.)",
+  "es": "rey (n.m.)",
+  "de": "König (n. m.)",
+  "zh": "国王（阳性名词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 713
+ },
+ {
+  "fr": "roller (n.m.)",
+  "en": "rollerskate, rollerblade (n.)",
+  "es": "patín (n.m.)",
+  "de": "Inline Skater (n. m.)",
+  "zh": "旱冰鞋（阳性名词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 714
+ },
+ {
+  "fr": "roman (n.m.)",
+  "en": "novel (n.)",
+  "es": "novela (n.f.)",
+  "de": "Roman (n. m.)",
+  "zh": "长篇小说（阳性名词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 715
+ },
+ {
+  "fr": "romantique (adj.)",
+  "en": "romantic (adj.)",
+  "es": "romántico (adj.)",
+  "de": "romantisch (adj.)",
+  "zh": "浪漫主义的（形容词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 716
+ },
+ {
+  "fr": "rue (n.f.)",
+  "en": "street (n.)",
+  "es": "calle (n.f.)",
+  "de": "Straße (n. f.)",
+  "zh": "街道（阴性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 717
+ },
+ {
+  "fr": "rythme (n.m.)",
+  "en": "rhythm (n.)",
+  "es": "ritmo (n.m.)",
+  "de": "Rhythmus (n. m.)",
+  "zh": "节奏（阳性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 718
+ },
+ {
+  "fr": "s’il vous plaît",
+  "en": "please",
+  "es": "por favor",
+  "de": "bitte",
+  "zh": "请",
+  "unit": "U0",
+  "lesson": "L3",
+  "id": 719
+ },
+ {
+  "fr": "salade (n.f.)",
+  "en": "salad, lettuce (n.)",
+  "es": "ensalada (n.f.)",
+  "de": "Salat (n. m.)",
+  "zh": "沙拉（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 720
+ },
+ {
+  "fr": "salle à manger (n.f.)",
+  "en": "dining room (n.)",
+  "es": "comedor (n.f.)",
+  "de": "Speisesaal (n. m.)",
+  "zh": "饭厅（阴性名词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 721
+ },
+ {
+  "fr": "salle de bain (n.f.)",
+  "en": "bathroom (n.)",
+  "es": "cuarto de baño (n.m.)",
+  "de": "Badezimmer (n. n.)",
+  "zh": "浴室（阴性名词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 722
+ },
+ {
+  "fr": "salon (n.m.)",
+  "en": "living room (n.)",
+  "es": "salón (n.m.)",
+  "de": "Wohnzimmer (n. n.)",
+  "zh": "客厅（阳性名词）",
+  "unit": "U5",
+  "lesson": "L3",
+  "id": 723
+ },
+ {
+  "fr": "salut",
+  "en": "hi",
+  "es": "hola",
+  "de": "Hallo, Tschüss",
+  "zh": "你好",
+  "unit": "U0",
+  "lesson": "L1",
+  "id": 724
+ },
+ {
+  "fr": "samedi (n.m.)",
+  "en": "saturday (n.)",
+  "es": "sábado (n.m.)",
+  "de": "Samstag (n. m.)",
+  "zh": "星期六（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 725
+ },
+ {
+  "fr": "santé (n.f.)",
+  "en": "health (n.)",
+  "es": "salud (n.f.)",
+  "de": "Gesundheit (n. f.)",
+  "zh": "健康（阴性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 726
+ },
+ {
+  "fr": "satisfait (adj.)",
+  "en": "satisfied (adj.)",
+  "es": "satisfecho (adj.)",
+  "de": "zufrieden (adj.)",
+  "zh": "满意的（形容词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 727
+ },
+ {
+  "fr": "sauce (n.f.)",
+  "en": "sauce (n.)",
+  "es": "salsa (n.f.)",
+  "de": "Sauce (n. f.)",
+  "zh": "调味汁（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 728
+ },
+ {
+  "fr": "saucisson (n.m.)",
+  "en": "salami (n.)",
+  "es": "salchichón (n.m.)",
+  "de": "Würstchen (n. n.)",
+  "zh": "腊肠（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 729
+ },
+ {
+  "fr": "saumon (n.m.)",
+  "en": "salmon (n.)",
+  "es": "salmón (n.m.)",
+  "de": "Lachs (n. m.)",
+  "zh": "鲑鱼（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 730
+ },
+ {
+  "fr": "savoir (v.)",
+  "en": "know (v.)",
+  "es": "saber (v.)",
+  "de": "wissen (v.)",
+  "zh": "知道（动词）",
+  "unit": "U4",
+  "lesson": "L1",
+  "id": 731
+ },
+ {
+  "fr": "scène (n.f.)",
+  "en": "stage (n.)",
+  "es": "escena (n.f.)",
+  "de": "Szene (n. f.)",
+  "zh": "场景（阴性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 732
+ },
+ {
+  "fr": "science-fiction (n.f.)",
+  "en": "science fiction (n.)",
+  "es": "ciencia ficción (n.f.)",
+  "de": "Science fiction (n. f.)",
+  "zh": "科学幻想小说（阴性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 733
+ },
+ {
+  "fr": "scientifique (adj.)",
+  "en": "scientific (adj.)",
+  "es": "científico (adj.)",
+  "de": "wissenschaftlich (adj.)",
+  "zh": "科学地（形容词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 734
+ },
+ {
+  "fr": "sculpture (n.f.)",
+  "en": "sculpture (n.)",
+  "es": "escultura (n.f.)",
+  "de": "Skulptur (n. f.)",
+  "zh": "雕刻（阴性名词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 735
+ },
+ {
+  "fr": "séance (n.f.)",
+  "en": "session (n.)",
+  "es": "sesión (n.f.)",
+  "de": "Sitzung (n. f.)",
+  "zh": "会议（阴性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 736
+ },
+ {
+  "fr": "secrétaire (n.)",
+  "en": "secretary (n.)",
+  "es": "secretario (n.)",
+  "de": "Sekretär, -in (n. m. / f.)",
+  "zh": "秘书（名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 737
+ },
+ {
+  "fr": "sécurité (n.f.)",
+  "en": "security (n.)",
+  "es": "seguridad (n.f.)",
+  "de": "Sicherheit (n. f.)",
+  "zh": "安全（阴性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 738
+ },
+ {
+  "fr": "sentimental (adj.)",
+  "en": "sentimental (adj.)",
+  "es": "sentimental (adj.)",
+  "de": "sentimental (adj.)",
+  "zh": "多愁善感的（形容词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 739
+ },
+ {
+  "fr": "séparer (v.)",
+  "en": "separate (v.)",
+  "es": "separar (v.)",
+  "de": "trennen (v.)",
+  "zh": "分开（动词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 740
+ },
+ {
+  "fr": "septembre (n.m.)",
+  "en": "September (n.)",
+  "es": "septiembre (n.m.)",
+  "de": "September (n. m.)",
+  "zh": "九月（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 741
+ },
+ {
+  "fr": "série (n.f.)",
+  "en": "series (n.)",
+  "es": "serie (n.f.)",
+  "de": "Serie (n. f.)",
+  "zh": "系列（阴性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 742
+ },
+ {
+  "fr": "serveur (n.m.)",
+  "en": "server (n.)",
+  "es": "servidor (n.m.)",
+  "de": "Server (n. m.)",
+  "zh": "服务也（阳性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 743
+ },
+ {
+  "fr": "service (n.m.)",
+  "en": "department (n.)",
+  "es": "servicio (n.m.)",
+  "de": "Service (n. m.)",
+  "zh": "服务（阳性名词）",
+  "unit": "U2",
+  "lesson": "L3",
+  "id": 744
+ },
+ {
+  "fr": "seul (adj.)",
+  "en": "alone, only (adj.)",
+  "es": "solo (adj.)",
+  "de": "allein (adj.)",
+  "zh": "单独的（形容词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 745
+ },
+ {
+  "fr": "siècle (n.m.)",
+  "en": "century (n.)",
+  "es": "siglo (n.m.)",
+  "de": "Jahrhundert (n. n.)",
+  "zh": "世纪（阳性名词）",
+  "unit": "U2",
+  "lesson": "Pr",
+  "id": 746
+ },
+ {
+  "fr": "simple (adj.)",
+  "en": "simple (adj.)",
+  "es": "simple (adj.)",
+  "de": "einfach (adj.)",
+  "zh": "简单的（形容词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 747
+ },
+ {
+  "fr": "site (n.m.)",
+  "en": "site (n.)",
+  "es": "sitio (n.m.)",
+  "de": "Standort (n. m.)",
+  "zh": "风景（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 748
+ },
+ {
+  "fr": "situé (adj.)",
+  "en": "located (adj.)",
+  "es": "situado (adj.)",
+  "de": "gelegen (adj.)",
+  "zh": "位于……的（形容词）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 749
+ },
+ {
+  "fr": "ski (n.m.)",
+  "en": "skiing (n.)",
+  "es": "esquí (n.m.)",
+  "de": "Ski (n. m.)",
+  "zh": "滑雪（阳性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 750
+ },
+ {
+  "fr": "skier (v.)",
+  "en": "ski (v.)",
+  "es": "esquiar (v.)",
+  "de": "Ski fahren (v.)",
+  "zh": "滑雪者（名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 751
+ },
+ {
+  "fr": "société (n.f.)",
+  "en": "company, society (n.)",
+  "es": "sociedad (n.f.)",
+  "de": "Gesellschaft (n. f.)",
+  "zh": "社会（阴性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 752
+ },
+ {
+  "fr": "sœur (n.f.)",
+  "en": "sister (n.)",
+  "es": "hermana (n.f.)",
+  "de": "Schwester (n. f.)",
+  "zh": "姐妹（阴性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 753
+ },
+ {
+  "fr": "soir (n.m.)",
+  "en": "evening (n.)",
+  "es": "tarde (n.m.)",
+  "de": "Abend (n. m.)",
+  "zh": "傍晚（阳性名词）",
+  "unit": "U3",
+  "lesson": "L3",
+  "id": 754
+ },
+ {
+  "fr": "soir (n.m.)",
+  "en": "evening (n.)",
+  "es": "tarde (n.f.)",
+  "de": "Abend (n. m.)",
+  "zh": "傍晚（阳性名词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 755
+ },
+ {
+  "fr": "soirée (n.f.)",
+  "en": "evening (n.)",
+  "es": "velada (n.f.)",
+  "de": "Abend (n. m.)",
+  "zh": "夜间（阴性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 756
+ },
+ {
+  "fr": "soleil (n.m.)",
+  "en": "sun (n.)",
+  "es": "sol (n.m.)",
+  "de": "Sonne (n. f.)",
+  "zh": "太阳（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 757
+ },
+ {
+  "fr": "sombre (adj.)",
+  "en": "dark (adj.)",
+  "es": "oscuro (adj.)",
+  "de": "düster (adj.)",
+  "zh": "阴暗的（形容词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 758
+ },
+ {
+  "fr": "son (n.m.)",
+  "en": "sound (n.)",
+  "es": "sonido (n.m.)",
+  "de": "Klang (n. m.)",
+  "zh": "声音（阳性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 759
+ },
+ {
+  "fr": "sortie (n.f.)",
+  "en": "exit (n.)",
+  "es": "salida (n.f.)",
+  "de": "Ausgang (n. m.)",
+  "zh": "出口（阴性名词）",
+  "unit": "U2",
+  "lesson": "L1",
+  "id": 760
+ },
+ {
+  "fr": "sortir (v.)",
+  "en": "exit, go out (v.)",
+  "es": "salir (v.)",
+  "de": "ausgehen (v.)",
+  "zh": "出去（动词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 761
+ },
+ {
+  "fr": "souhaiter (v.)",
+  "en": "wish (v.)",
+  "es": "desear (v.)",
+  "de": "wünschen (v.)",
+  "zh": "期望（动词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 762
+ },
+ {
+  "fr": "sourd (adj.)",
+  "en": "deaf (adj.)",
+  "es": "sordo (adj.)",
+  "de": "taub (adj.)",
+  "zh": "沉闷的（形容词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 763
+ },
+ {
+  "fr": "souvenir (n.m.)",
+  "en": "memory, souvenir (n.)",
+  "es": "recuerdo (n.m.)",
+  "de": "Erinnerung (n. f.)",
+  "zh": "记忆（阳性名词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 764
+ },
+ {
+  "fr": "spécialité (n.f.)",
+  "en": "speciality (n.)",
+  "es": "especialidad (n.f.)",
+  "de": "Spezialität (n. f.)",
+  "zh": "专科，专业（阴性名词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 765
+ },
+ {
+  "fr": "spectacle (n.m.)",
+  "en": "show (n.)",
+  "es": "espectáculo (n.m.)",
+  "de": "Vorstellung (n. f.)",
+  "zh": "景象，场面（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 766
+ },
+ {
+  "fr": "sport (n.m)",
+  "en": "sport (n.)",
+  "es": "deporte (n.m)",
+  "de": "Sport (n. m.)",
+  "zh": "运动（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 767
+ },
+ {
+  "fr": "sportif (adj.)",
+  "en": "sporty (adj.)",
+  "es": "deportivo (adj.)",
+  "de": "sportlich (adj.)",
+  "zh": "运动的（形容词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 768
+ },
+ {
+  "fr": "stable (adj.)",
+  "en": "stable (adj.)",
+  "es": "estable (adj.)",
+  "de": "stabil (adj.)",
+  "zh": "稳定的（形容词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 769
+ },
+ {
+  "fr": "stage (n.m.)",
+  "en": "work experience, training course (n.)",
+  "es": "prácticas (n.f. pl.)",
+  "de": "Praktikum (n. n.)",
+  "zh": "实习期（阳性名词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 770
+ },
+ {
+  "fr": "stagiaire (n.)",
+  "en": "intern, student (n.)",
+  "es": "becario (n.)",
+  "de": "Praktikant, -in (n. m. / f.)",
+  "zh": "实习生（名词）",
+  "unit": "U6",
+  "lesson": "Pr",
+  "id": 771
+ },
+ {
+  "fr": "star (n.f.)",
+  "en": "star (n.)",
+  "es": "estrella (n.f.)",
+  "de": "Star (n. m.)",
+  "zh": "明星（阴性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 772
+ },
+ {
+  "fr": "stresser (v.)",
+  "en": "stress (v.)",
+  "es": "estresar (se) (v.)",
+  "de": "stressen (v.)",
+  "zh": "紧张（动词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 773
+ },
+ {
+  "fr": "style (n.m.)",
+  "en": "style (n.)",
+  "es": "estilo (n.m.)",
+  "de": "Stil (n. m.)",
+  "zh": "风格（阳性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 774
+ },
+ {
+  "fr": "styliste (n.)",
+  "en": "fashion designer (n.)",
+  "es": "estilismo (n.)",
+  "de": "Designer, -in (n. m. / f.)",
+  "zh": "服装设计师（名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 775
+ },
+ {
+  "fr": "stylo (n.m.)",
+  "en": "pen (n.)",
+  "es": "bolígrafo (n.m.)",
+  "de": "Füller (n. m.)",
+  "zh": "钢笔（阳性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 776
+ },
+ {
+  "fr": "sud (n.m.)",
+  "en": "south (n.)",
+  "es": "sur (n.m.)",
+  "de": "Süden (n. m.)",
+  "zh": "南（阳性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 777
+ },
+ {
+  "fr": "suivre (v.)",
+  "en": "follow (v.)",
+  "es": "seguir (v.)",
+  "de": "folgen (v.)",
+  "zh": "跟随（动词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 778
+ },
+ {
+  "fr": "sujet (n.m.)",
+  "en": "subject (n.)",
+  "es": "sujeto (n.m.)",
+  "de": "Thema (n. n.)",
+  "zh": "主题（阳性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 779
+ },
+ {
+  "fr": "super (adv.)",
+  "en": "super (adv.)",
+  "es": "súper (adv.)",
+  "de": "super (adv.)",
+  "zh": "很好，超（副词）",
+  "unit": "U0",
+  "lesson": "L3",
+  "id": 780
+ },
+ {
+  "fr": "supérieur (adj.)",
+  "en": "superior (adj.)",
+  "es": "superior (adj.)",
+  "de": "oberer (adj.)",
+  "zh": "高级的（形容词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 781
+ },
+ {
+  "fr": "supermarché (n.m.)",
+  "en": "supermarket (n.)",
+  "es": "supermercado (n.m.)",
+  "de": "Supermarkt (n. m.)",
+  "zh": "超市（阳性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 782
+ },
+ {
+  "fr": "sûr (adj.)",
+  "en": "sure (adj.)",
+  "es": "seguro (adj.)",
+  "de": "sicher (adj.)",
+  "zh": "确定的（形容词）",
+  "unit": "U9",
+  "lesson": "L3",
+  "id": 783
+ },
+ {
+  "fr": "surpris (adj.)",
+  "en": "surprised (adj.)",
+  "es": "sorprendido (adj.)",
+  "de": "überrascht (adj.)",
+  "zh": "惊奇的（形容词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 784
+ },
+ {
+  "fr": "surprise (n.f.)",
+  "en": "surprise (n.)",
+  "es": "sorpresa (n.f.)",
+  "de": "Überraschung (n. f.)",
+  "zh": "惊喜（阴性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 785
+ },
+ {
+  "fr": "symphonie (n.f.)",
+  "en": "symphony (n.)",
+  "es": "sinfonía (n.f.)",
+  "de": "Symphonie (n. f.)",
+  "zh": "交响乐（阴性名词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 786
+ },
+ {
+  "fr": "tableau (n.m.)",
+  "en": "table (n.)",
+  "es": "tablón (n.m.)",
+  "de": "Tafel (n. f.)",
+  "zh": "图表（阳性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 787
+ },
+ {
+  "fr": "tableau (n.m.)",
+  "en": "painting (n.)",
+  "es": "cuadro (n.m.)",
+  "de": "Bild (n. n.)",
+  "zh": "画儿（阳性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 788
+ },
+ {
+  "fr": "talent (n.m.)",
+  "en": "talent (n.)",
+  "es": "talento (n.m.)",
+  "de": "Talent (n. n.)",
+  "zh": "才能（阳性名词）",
+  "unit": "U8",
+  "lesson": "Pr",
+  "id": 789
+ },
+ {
+  "fr": "tante (n.f.)",
+  "en": "aunt (n.)",
+  "es": "tía (n.f.)",
+  "de": "Tante (n. f.)",
+  "zh": "姑母，姨母（阴性名词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 790
+ },
+ {
+  "fr": "tapis (n.m.)",
+  "en": "rug (n.)",
+  "es": "alfombra (n.f.)",
+  "de": "Teppich (n. m.)",
+  "zh": "地毯（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 791
+ },
+ {
+  "fr": "tarte (n.f.)",
+  "en": "tart (n.)",
+  "es": "tarta (n.f.)",
+  "de": "Kuchen (n. m.)",
+  "zh": "蛋挞（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 792
+ },
+ {
+  "fr": "tas (n.m.)",
+  "en": "pile (n.)",
+  "es": "montón (n.m.)",
+  "de": "Haufen (n. m.)",
+  "zh": "堆（阳性名词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 793
+ },
+ {
+  "fr": "tasse (n.f.)",
+  "en": "cup (n.)",
+  "es": "taza (n.f.)",
+  "de": "Tasse (n. f.)",
+  "zh": "一杯的容量（阴性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 794
+ },
+ {
+  "fr": "taxi (n.m.)",
+  "en": "taxi (n.)",
+  "es": "taxi (n.m.)",
+  "de": "Taxi (n. n.)",
+  "zh": "出租车（阳性名词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 795
+ },
+ {
+  "fr": "technicien (n.m.)",
+  "en": "technician (n.)",
+  "es": "técnico (n.m.)",
+  "de": "Techniker (n. m.)",
+  "zh": "技术人员（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 796
+ },
+ {
+  "fr": "technologique (adj.)",
+  "en": "technological (adj.)",
+  "es": "tecnología (adj.)",
+  "de": "technologisch (adj.)",
+  "zh": "工艺的（形容词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 797
+ },
+ {
+  "fr": "téléphone (n.m.)",
+  "en": "telephone (n.)",
+  "es": "teléfono (n.m.)",
+  "de": "Telefon (n. n.)",
+  "zh": "电话（阳性名词）",
+  "unit": "U1",
+  "lesson": "L1",
+  "id": 798
+ },
+ {
+  "fr": "téléviseur (n.m.)",
+  "en": "television set (n.)",
+  "es": "televisor (n.m.)",
+  "de": "Fernseher (n. m.)",
+  "zh": "电视机（阳性名词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 799
+ },
+ {
+  "fr": "télévision (n.f.)",
+  "en": "TV (n.)",
+  "es": "televisión (n.f.)",
+  "de": "Fernsehen (n. n.)",
+  "zh": "电视（阴性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 800
+ },
+ {
+  "fr": "témoignage (n.m.)",
+  "en": "testimony (n.)",
+  "es": "testimonio (n.m.)",
+  "de": "Aussage (n. f.)",
+  "zh": "证据（阴性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 801
+ },
+ {
+  "fr": "température (n.f.)",
+  "en": "temperature (n.)",
+  "es": "temperatura (n.f.)",
+  "de": "Temperatur (n. f.)",
+  "zh": "温度（阴性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 802
+ },
+ {
+  "fr": "tendance (n.f.)",
+  "en": "trend (n.)",
+  "es": "tendencia (n.f.)",
+  "de": "Trend (n. m.)",
+  "zh": "倾向（阴性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 803
+ },
+ {
+  "fr": "tennis (n.m.)",
+  "en": "tennis (n.)",
+  "es": "tenis (n.m.)",
+  "de": "Tennis (n. n.)",
+  "zh": "网球（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 804
+ },
+ {
+  "fr": "tennis (n.m.)",
+  "en": "tennis (n.)",
+  "es": "tenis (n.m.)",
+  "de": "Tennis (n. n.)",
+  "zh": "网球（阳性名词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 805
+ },
+ {
+  "fr": "terrasse (n.f.)",
+  "en": "terrace (n.)",
+  "es": "terraza (n.f.)",
+  "de": "Terrasse (n. f.)",
+  "zh": "平台（阴性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 806
+ },
+ {
+  "fr": "thé (n.m.)",
+  "en": "tea (n.)",
+  "es": "té (n.m.)",
+  "de": "Tee (n. m.)",
+  "zh": "茶（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 807
+ },
+ {
+  "fr": "théâtre (n.m.)",
+  "en": "theatre (n.)",
+  "es": "teatro (n.m.)",
+  "de": "Theater (n. n.)",
+  "zh": "剧院（阳性名词）",
+  "unit": "U1",
+  "lesson": "L2",
+  "id": 808
+ },
+ {
+  "fr": "thèse (n.f.)",
+  "en": "thesis (n.)",
+  "es": "tesis (n.f.)",
+  "de": "Doktorarbeit (n. f.)",
+  "zh": "论文（阴性名词）",
+  "unit": "U7",
+  "lesson": "Pr",
+  "id": 809
+ },
+ {
+  "fr": "thon (n.m.)",
+  "en": "tuna (n.)",
+  "es": "atún (n.m.)",
+  "de": "Thunfisch (n. m.)",
+  "zh": "金枪鱼（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 810
+ },
+ {
+  "fr": "tiers-monde (n.m.)",
+  "en": "third world (n.)",
+  "es": "tercer mundo (n.m.)",
+  "de": "Dritte Welt (n. f.)",
+  "zh": "第三世界（阳性名词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 811
+ },
+ {
+  "fr": "tissu (n.m.)",
+  "en": "fabric (n.)",
+  "es": "tejido (n.m.)",
+  "de": "Stoff (n. m.)",
+  "zh": "组织（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 812
+ },
+ {
+  "fr": "toilettes (n.f.pl.)",
+  "en": "toilets (n.pl.)",
+  "es": "aseos (n.m.pl.)",
+  "de": "Toiletten (n. f. pl.)",
+  "zh": "洗手间（阴性名词复数）",
+  "unit": "U9",
+  "lesson": "L2",
+  "id": 813
+ },
+ {
+  "fr": "tomate (n.f.)",
+  "en": "tomato (n.)",
+  "es": "tomate (n.m.)",
+  "de": "Tomate (n. f.)",
+  "zh": "番茄（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 814
+ },
+ {
+  "fr": "toucher (v.)",
+  "en": "touch (v.)",
+  "es": "tocar (v.)",
+  "de": "berühren (v.)",
+  "zh": "触（动词）",
+  "unit": "U8",
+  "lesson": "L4",
+  "id": 815
+ },
+ {
+  "fr": "tour (n.f.)",
+  "en": "tower (n.)",
+  "es": "torre (n.f.)",
+  "de": "Turm (n. m.)",
+  "zh": "塔（阴性名词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 816
+ },
+ {
+  "fr": "touriste (n.)",
+  "en": "tourist (n.)",
+  "es": "turista (n.)",
+  "de": "Tourist, -in (n. m. / f.)",
+  "zh": "旅游者（名词）",
+  "unit": "U1",
+  "lesson": "L4",
+  "id": 817
+ },
+ {
+  "fr": "touriste (n.m.)",
+  "en": "tourist (n.)",
+  "es": "turista (n.m.)",
+  "de": "Tourist (n. m.)",
+  "zh": "游客（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 818
+ },
+ {
+  "fr": "tourner (v.)",
+  "en": "turn (v.)",
+  "es": "girar (v.)",
+  "de": "drehen (v.)",
+  "zh": "转弯（动词）",
+  "unit": "U2",
+  "lesson": "L1",
+  "id": 819
+ },
+ {
+  "fr": "tradition (n.f.)",
+  "en": "tradition (n.)",
+  "es": "tradición (n.f.)",
+  "de": "Tradition (n. f.)",
+  "zh": "传统（阴性名词）",
+  "unit": "U8",
+  "lesson": "L2",
+  "id": 820
+ },
+ {
+  "fr": "traditionnel (adj.)",
+  "en": "traditional (adj.)",
+  "es": "tradicional (adj.)",
+  "de": "traditionell (adj.)",
+  "zh": "传统的（形容词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 821
+ },
+ {
+  "fr": "traducteur (n.m.)",
+  "en": "translator (n.)",
+  "es": "traductor (n.m.)",
+  "de": "Übersetzer (n. m.)",
+  "zh": "翻译（阳性名词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 822
+ },
+ {
+  "fr": "train (TGV) (n.m.)",
+  "en": "train (n.)",
+  "es": "tren (n.m.)",
+  "de": "Zug (n. m.)",
+  "zh": "火车（阳性名词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 823
+ },
+ {
+  "fr": "traîneau (n.m.)",
+  "en": "sleigh (n.)",
+  "es": "trineo (n.m.)",
+  "de": "Schlitten (n. m.)",
+  "zh": "雪车（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 824
+ },
+ {
+  "fr": "tranche (n.f.)",
+  "en": "slice (n.)",
+  "es": "loncha (n.f.)",
+  "de": "Scheibe (n. f.)",
+  "zh": "片，薄片（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 825
+ },
+ {
+  "fr": "transaction (n.f.)",
+  "en": "transaction (n.)",
+  "es": "transacción (n.f.)",
+  "de": "Transaktion (n. f.)",
+  "zh": "交易（阴性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 826
+ },
+ {
+  "fr": "transport (n.m.)",
+  "en": "transport (n.)",
+  "es": "transporte (n.m.)",
+  "de": "Transport (n. m.)",
+  "zh": "运输（阳性名词）",
+  "unit": "U7",
+  "lesson": "L2",
+  "id": 827
+ },
+ {
+  "fr": "travail (n.m.)",
+  "en": "work (n.)",
+  "es": "trabajo (n.m.)",
+  "de": "Arbeit (n. f.)",
+  "zh": "工作（阳性名词）",
+  "unit": "U3",
+  "lesson": "Pr",
+  "id": 828
+ },
+ {
+  "fr": "travailler (v.)",
+  "en": "work (v.)",
+  "es": "trabajar (v.)",
+  "de": "arbeiten (v.)",
+  "zh": "工作（动词）",
+  "unit": "U2",
+  "lesson": "L3",
+  "id": 829
+ },
+ {
+  "fr": "traverser (v.)",
+  "en": "cross (v.)",
+  "es": "atravesar (v.)",
+  "de": "überqueren (v.)",
+  "zh": "穿过（动词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 830
+ },
+ {
+  "fr": "traversin (n.m.)",
+  "en": "bolster (n.)",
+  "es": "travesaño (n.m.)",
+  "de": "Nackenrolle (n. f.)",
+  "zh": "横梁（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 831
+ },
+ {
+  "fr": "trouver (v.)",
+  "en": "find (v.)",
+  "es": "encontrar (v.)",
+  "de": "finden (v.)",
+  "zh": "找到（动词）",
+  "unit": "U4",
+  "lesson": "L1",
+  "id": 832
+ },
+ {
+  "fr": "unique (adj.)",
+  "en": "unique (adj.)",
+  "es": "único (adj.)",
+  "de": "einmalig (adj.)",
+  "zh": "唯一的（形容词）",
+  "unit": "U3",
+  "lesson": "L1",
+  "id": 833
+ },
+ {
+  "fr": "unité (n.f.)",
+  "en": "unit (n.)",
+  "es": "unidad (n.f.)",
+  "de": "Einheit (n. f.)",
+  "zh": "单元（阴性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 834
+ },
+ {
+  "fr": "université (n.f.)",
+  "en": "university (n.)",
+  "es": "universidad (n.f.)",
+  "de": "Universität (n. f.)",
+  "zh": "大学（阴性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 835
+ },
+ {
+  "fr": "utile (adj.)",
+  "en": "useful (adj.)",
+  "es": "útil (adj.)",
+  "de": "nützlich (adj.)",
+  "zh": "有用的（形容词）",
+  "unit": "U6",
+  "lesson": "L1",
+  "id": 836
+ },
+ {
+  "fr": "vacances (n.f.pl.)",
+  "en": "holiday (n.)",
+  "es": "vacaciones (n.f.pl.)",
+  "de": "Ferien (n. pl.)",
+  "zh": "假期（阴性名词复数）",
+  "unit": "U5",
+  "lesson": "Pr",
+  "id": 837
+ },
+ {
+  "fr": "valeur (n.f.)",
+  "en": "value (n.)",
+  "es": "valor (n.m.)",
+  "de": "Wert (n. m.9",
+  "zh": "价值（阴性名词）",
+  "unit": "U8",
+  "lesson": "L1",
+  "id": 838
+ },
+ {
+  "fr": "valider (v.)",
+  "en": "validate (v.)",
+  "es": "validar (v.)",
+  "de": "bestätigen (v.)",
+  "zh": "使生效（动词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 839
+ },
+ {
+  "fr": "vanille (n.f.)",
+  "en": "vanilla (n.)",
+  "es": "vainilla (n.f.)",
+  "de": "Vanille (n. f.)",
+  "zh": "香草（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 840
+ },
+ {
+  "fr": "végétarien (adj.)",
+  "en": "vegetarian (adj.)",
+  "es": "vegetariano (adj.)",
+  "de": "vegetarisch (adj.)",
+  "zh": "素食的（形容词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 841
+ },
+ {
+  "fr": "vélo (n.m.)",
+  "en": "bike (n.)",
+  "es": "bicicleta (n.m.)",
+  "de": "Fahrrad (n. n.)",
+  "zh": "自行车（阳性名词）",
+  "unit": "U4",
+  "lesson": "L2",
+  "id": 842
+ },
+ {
+  "fr": "vendre (v.)",
+  "en": "sell (v.)",
+  "es": "vender (v.)",
+  "de": "verkaufen (v.)",
+  "zh": "出售（动词）",
+  "unit": "U6",
+  "lesson": "L2",
+  "id": 843
+ },
+ {
+  "fr": "vendredi (n.m.)",
+  "en": "Friday (n.)",
+  "es": "viernes (n.m.)",
+  "de": "Freitag (n. m.)",
+  "zh": "星期五（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 844
+ },
+ {
+  "fr": "venir (v.)",
+  "en": "come (v.)",
+  "es": "venir (v.)",
+  "de": "kommen (v.)",
+  "zh": "来（动词）",
+  "unit": "U2",
+  "lesson": "L3",
+  "id": 845
+ },
+ {
+  "fr": "vent (n.m.)",
+  "en": "wind (n.)",
+  "es": "viento (n.m.)",
+  "de": "Wind (n. m.)",
+  "zh": "风（阳性名词）",
+  "unit": "U5",
+  "lesson": "L4",
+  "id": 846
+ },
+ {
+  "fr": "véritable (adj.)",
+  "en": "real (adj.)",
+  "es": "verdadero (adj.)",
+  "de": "echt (adj.)",
+  "zh": "真实的（形容词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 847
+ },
+ {
+  "fr": "verre (n.m.)",
+  "en": "glass (n.)",
+  "es": "vaso (n.m.)",
+  "de": "Glas (n. n.)",
+  "zh": "玻璃（阳性名词）",
+  "unit": "U6",
+  "lesson": "L4",
+  "id": 848
+ },
+ {
+  "fr": "version originale (n.f.)",
+  "en": "original version (n.)",
+  "es": "versión original (n.f.)",
+  "de": "Originalfassung (n. f.)",
+  "zh": "原版（阴性名词）",
+  "unit": "U3",
+  "lesson": "L2",
+  "id": 849
+ },
+ {
+  "fr": "veste (n.f.)",
+  "en": "jacket (n.)",
+  "es": "chaqueta (n.f.)",
+  "de": "Jacke (n. f.)",
+  "zh": "上装（阴性名词）",
+  "unit": "U6",
+  "lesson": "L3",
+  "id": 850
+ },
+ {
+  "fr": "viande (n.f.)",
+  "en": "meat (n.)",
+  "es": "carne (n.f.)",
+  "de": "Fleisch (n. n.)",
+  "zh": "肉类（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 851
+ },
+ {
+  "fr": "vide-grenier (n.m.)",
+  "en": "garage sale (n.)",
+  "es": "mercadillo de segunda mano (n.m.)",
+  "de": "Trödelmarkt (n. m.)",
+  "zh": "旧货集市（阳性名词）",
+  "unit": "U9",
+  "lesson": "L4",
+  "id": 852
+ },
+ {
+  "fr": "vieux / vieille (adj.)",
+  "en": "old (adj.)",
+  "es": "viejo / vieja (adj.)",
+  "de": "alt (adj.)",
+  "zh": "年老的（形容词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 853
+ },
+ {
+  "fr": "village (n.m.)",
+  "en": "village (n.)",
+  "es": "pueblo (n.m.)",
+  "de": "Dorf (n. n.)",
+  "zh": "乡村（阳性名词）",
+  "unit": "U4",
+  "lesson": "Pr",
+  "id": 854
+ },
+ {
+  "fr": "ville (n.f.)",
+  "en": "town (n.)",
+  "es": "ciudad (n.f.)",
+  "de": "Stadt (n. f.)",
+  "zh": "城市（阴性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 855
+ },
+ {
+  "fr": "vin (n.m.)",
+  "en": "vine (n.)",
+  "es": "vino (n.m.)",
+  "de": "Wein (n. m.)",
+  "zh": "酒（阳性名词）",
+  "unit": "U2",
+  "lesson": "L4",
+  "id": 856
+ },
+ {
+  "fr": "vinaigrette (n.f.)",
+  "en": "vinaigrette (n.)",
+  "es": "vinagreta (n.f.)",
+  "de": "Salatsauce (n. f.)",
+  "zh": "酸醋调味汁（阴性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 857
+ },
+ {
+  "fr": "visiter (v.)",
+  "en": "visit (v.)",
+  "es": "visitar (v.)",
+  "de": "besuchen (v.)",
+  "zh": "餐馆（动词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 858
+ },
+ {
+  "fr": "vivre (v.)",
+  "en": "live (v.)",
+  "es": "vivir (v.)",
+  "de": "leben (v.)",
+  "zh": "活着，生存（动词）",
+  "unit": "U7",
+  "lesson": "L1",
+  "id": 859
+ },
+ {
+  "fr": "vocabulaire (n.m.)",
+  "en": "vocabulary (n.)",
+  "es": "vocabulario (n.m.)",
+  "de": "Vokabular (n. n.)",
+  "zh": "词汇（阳性名词）",
+  "unit": "U0",
+  "lesson": "L2",
+  "id": 860
+ },
+ {
+  "fr": "vœu (n.m.)",
+  "en": "wish (n.)",
+  "es": "deseo (n.m.)",
+  "de": "Wunsch (n. m.)",
+  "zh": "祝愿（阳性名词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 861
+ },
+ {
+  "fr": "voir (v.)",
+  "en": "see (v.)",
+  "es": "ver (v.)",
+  "de": "sehen (v.)",
+  "zh": "看（动词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 862
+ },
+ {
+  "fr": "voisin (n.m.)",
+  "en": "neighbour (n.)",
+  "es": "vecino (n.m.)",
+  "de": "Nachbar (n. m.)",
+  "zh": "邻居（阳性名词）",
+  "unit": "U7",
+  "lesson": "L4",
+  "id": 863
+ },
+ {
+  "fr": "voiture (n.f.)",
+  "en": "car (n.)",
+  "es": "coche (n.m.)",
+  "de": "Auto (n. n.)",
+  "zh": "汽车（阴性名词）",
+  "unit": "U5",
+  "lesson": "L2",
+  "id": 864
+ },
+ {
+  "fr": "volley-ball (n.m.)",
+  "en": "volleyball (n.)",
+  "es": "voleibol (n.m.)",
+  "de": "Volleyball (n. n.)",
+  "zh": "排球（阳性名词）",
+  "unit": "U8",
+  "lesson": "L3",
+  "id": 865
+ },
+ {
+  "fr": "vouloir (v.)",
+  "en": "want (v.)",
+  "es": "querer (v.)",
+  "de": "wollen (v.)",
+  "zh": "愿意，想（动词）",
+  "unit": "U4",
+  "lesson": "L1",
+  "id": 866
+ },
+ {
+  "fr": "voyage (n.m.)",
+  "en": "trip (n.)",
+  "es": "viaje (n.m.)",
+  "de": "Reise (n. f.)",
+  "zh": "旅行（阳性名词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 867
+ },
+ {
+  "fr": "voyager (v.)",
+  "en": "travel (v.)",
+  "es": "viajar (v.)",
+  "de": "reisen (v.)",
+  "zh": "旅行（动词）",
+  "unit": "U5",
+  "lesson": "L1",
+  "id": 868
+ },
+ {
+  "fr": "vrai (adj.)",
+  "en": "true (adj.)",
+  "es": "verdadero (adj.)",
+  "de": "wahr (adj.)",
+  "zh": "真的（形容词）",
+  "unit": "U3",
+  "lesson": "L4",
+  "id": 869
+ },
+ {
+  "fr": "vue (n.f.)",
+  "en": "view (n.)",
+  "es": "vista (n.f.)",
+  "de": "Aussicht (n. f.)",
+  "zh": "视线（阴性名词）",
+  "unit": "U2",
+  "lesson": "L2",
+  "id": 870
+ },
+ {
+  "fr": "yaourt (n.m.)",
+  "en": "yoghurt (n.)",
+  "es": "yogur (n.m.)",
+  "de": "Joghurt (n. m.)",
+  "zh": "酸奶（阳性名词）",
+  "unit": "U4",
+  "lesson": "L4",
+  "id": 871
+ }
+]
