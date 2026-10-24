@@ -48,3 +48,11 @@ python3 -m venv .venv && .venv/bin/pip install pdfplumber edge-tts faster-whispe
 Les mots non retrouvés dans l'audio éditeur sont listés dans `work/align_report.json`.
 
 Audios et exercices © CLE International — usage personnel uniquement, ne pas publier le dossier `site/talents/`.
+
+## Exposition sur le réseau local
+
+Service systemd `lexique-a1` (`/etc/systemd/system/lexique-a1.service`) → `scripts/serve.py` sur le port 8091
+(serveur stdlib avec support Range, nécessaire pour avancer dans les audios sous Chrome/Safari).
+
+    systemctl status lexique-a1      # état
+    systemctl disable --now lexique-a1   # couper
