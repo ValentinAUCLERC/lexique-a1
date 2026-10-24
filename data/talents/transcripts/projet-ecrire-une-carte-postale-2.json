@@ -1,6 +1,6 @@
 {
  "slug": "projet-ecrire-une-carte-postale-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,12 +11,12 @@
   {
    "start": 1.74,
    "end": 2.25,
-   "text": "projet"
+   "text": "Projet."
   },
   {
    "start": 2.71,
    "end": 3.47,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.41,
@@ -31,7 +31,7 @@
   {
    "start": 9.17,
    "end": 9.67,
-   "text": "plongée"
+   "text": "Plongée."
   },
   {
    "start": 11.5,
@@ -41,12 +41,12 @@
   {
    "start": 13.83,
    "end": 14.24,
-   "text": "gens"
+   "text": "gens."
   },
   {
    "start": 16.19,
    "end": 16.78,
-   "text": "plage"
+   "text": "plages."
   },
   {
    "start": 18.41,
@@ -61,7 +61,7 @@
   {
    "start": 23.32,
    "end": 23.9,
-   "text": "danser"
+   "text": "Danser."
   },
   {
    "start": 25.83,
@@ -71,7 +71,7 @@
   {
    "start": 28.21,
    "end": 28.78,
-   "text": "Espérer."
+   "text": "espérer."
   }
  ]
 }

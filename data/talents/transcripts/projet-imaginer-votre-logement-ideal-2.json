@@ -1,6 +1,6 @@
 {
  "slug": "projet-imaginer-votre-logement-ideal-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -16,7 +16,7 @@
   {
    "start": 2.55,
    "end": 3.39,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.24,
@@ -36,12 +36,12 @@
   {
    "start": 11.16,
    "end": 11.7,
-   "text": "cabinet"
+   "text": "cabinet."
   },
   {
    "start": 13.49,
    "end": 13.94,
-   "text": "droit."
+   "text": "Droits."
   }
  ]
 }

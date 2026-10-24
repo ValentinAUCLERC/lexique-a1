@@ -1,6 +1,6 @@
 {
  "slug": "lecon-1-choisir-un-cadeau-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,22 +11,22 @@
   {
    "start": 4.86,
    "end": 5.76,
-   "text": "ordinateur."
+   "text": "Ordinateur."
   },
   {
    "start": 7.47,
    "end": 7.82,
-   "text": "Cadeau."
+   "text": "cadeau."
   },
   {
    "start": 9.45,
    "end": 10.3,
-   "text": "Basket."
+   "text": "basket"
   },
   {
    "start": 12.02,
    "end": 12.8,
-   "text": "casquette"
+   "text": "Cascette."
   },
   {
    "start": 14.3,
@@ -41,12 +41,12 @@
   {
    "start": 19.49,
    "end": 19.85,
-   "text": "Pris."
+   "text": "Prix."
   },
   {
    "start": 21.58,
    "end": 22.12,
-   "text": "Choix."
+   "text": "choix."
   },
   {
    "start": 23.91,
@@ -56,7 +56,7 @@
   {
    "start": 25.05,
    "end": 25.82,
-   "text": "fonctionner."
+   "text": "Fonctionner."
   },
   {
    "start": 27.89,
@@ -66,7 +66,7 @@
   {
    "start": 30.31,
    "end": 30.99,
-   "text": "Imaginer."
+   "text": "imaginer."
   },
   {
    "start": 32.83,

@@ -1,6 +1,6 @@
 {
  "slug": "lecon-4-consommer-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -16,7 +16,7 @@
   {
    "start": 4.87,
    "end": 5.53,
-   "text": "Légume"
+   "text": "Légumes"
   },
   {
    "start": 7.14,
@@ -66,12 +66,12 @@
   {
    "start": 28.84,
    "end": 29.52,
-   "text": "Bouteille"
+   "text": "Bouteille."
   },
   {
    "start": 31.21,
    "end": 31.93,
-   "text": "verre"
+   "text": "Vert."
   },
   {
    "start": 33.65,
@@ -81,7 +81,7 @@
   {
    "start": 35.82,
    "end": 36.49,
-   "text": "dépasser."
+   "text": "Dépasser."
   },
   {
    "start": 38.14,
@@ -101,7 +101,7 @@
   {
    "start": 45.23,
    "end": 46.1,
-   "text": "Technologique."
+   "text": "technologique."
   },
   {
    "start": 47.8,

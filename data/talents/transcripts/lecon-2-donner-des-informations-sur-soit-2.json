@@ -1,12 +1,12 @@
 {
  "slug": "lecon-2-donner-des-informations-sur-soit-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
    "start": 0.0,
    "end": 1.15,
-   "text": "Unité 1"
+   "text": "Unité 1."
   },
   {
    "start": 1.53,
@@ -21,12 +21,12 @@
   {
    "start": 4.82,
    "end": 5.35,
-   "text": "quartier"
+   "text": "Quartier."
   },
   {
    "start": 7.2,
    "end": 7.84,
-   "text": "Site."
+   "text": "Sites."
   },
   {
    "start": 9.53,
@@ -36,32 +36,32 @@
   {
    "start": 11.86,
    "end": 12.74,
-   "text": "graphiste."
+   "text": "Graphiste."
   },
   {
    "start": 14.35,
    "end": 14.69,
-   "text": "Ami."
+   "text": "Amis."
   },
   {
    "start": 16.62,
    "end": 17.29,
-   "text": "Télévision"
+   "text": "télévision"
   },
   {
    "start": 19.2,
    "end": 19.79,
-   "text": "Théâtre."
+   "text": "Théâtre"
   },
   {
    "start": 21.44,
    "end": 22.03,
-   "text": "cinéma"
+   "text": "Cinéma."
   },
   {
    "start": 23.8,
    "end": 24.51,
-   "text": "sport"
+   "text": "Sport."
   },
   {
    "start": 26.21,
@@ -71,22 +71,22 @@
   {
    "start": 28.74,
    "end": 29.39,
-   "text": "musique."
+   "text": "Musique"
   },
   {
    "start": 30.99,
    "end": 31.56,
-   "text": "chanson"
+   "text": "Chanson."
   },
   {
    "start": 33.3,
    "end": 34.0,
-   "text": "FORUM"
+   "text": "Forum."
   },
   {
    "start": 35.7,
    "end": 36.37,
-   "text": "Lange."
+   "text": "Langue."
   },
   {
    "start": 37.99,
@@ -106,12 +106,12 @@
   {
    "start": 45.14,
    "end": 45.78,
-   "text": "Plus."
+   "text": "Place."
   },
   {
    "start": 47.36,
    "end": 48.1,
-   "text": "boulevard"
+   "text": "Boulevard."
   },
   {
    "start": 49.8,

@@ -1,17 +1,17 @@
 {
  "slug": "lecon-4-connaitre-les-manifestations-de-l-annee-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
    "start": 0.0,
    "end": 3.65,
-   "text": "Unité 2, leçon 4, vocabulaire"
+   "text": "Unité 2, leçon 4, vocabulaire."
   },
   {
    "start": 4.64,
    "end": 5.6,
-   "text": "festival"
+   "text": "Festival."
   },
   {
    "start": 7.15,
@@ -26,17 +26,17 @@
   {
    "start": 11.77,
    "end": 12.34,
-   "text": "monument"
+   "text": "Monument"
   },
   {
    "start": 14.11,
    "end": 14.67,
-   "text": "lundi"
+   "text": "Lundi."
   },
   {
    "start": 16.26,
    "end": 16.9,
-   "text": "Mardi."
+   "text": "mardi"
   },
   {
    "start": 18.47,
@@ -56,7 +56,7 @@
   {
    "start": 25.35,
    "end": 26.01,
-   "text": "samedi"
+   "text": "Samedi"
   },
   {
    "start": 27.86,
@@ -66,12 +66,12 @@
   {
    "start": 30.39,
    "end": 30.99,
-   "text": "janvier."
+   "text": "Janvier."
   },
   {
    "start": 32.7,
    "end": 33.37,
-   "text": "février"
+   "text": "Février"
   },
   {
    "start": 35.23,
@@ -86,12 +86,12 @@
   {
    "start": 39.81,
    "end": 40.18,
-   "text": "MAIS !"
+   "text": "Mai."
   },
   {
    "start": 41.95,
    "end": 42.5,
-   "text": "juin"
+   "text": "juin."
   },
   {
    "start": 44.15,
@@ -101,22 +101,22 @@
   {
    "start": 46.72,
    "end": 47.14,
-   "text": "Oût."
+   "text": "Août."
   },
   {
    "start": 48.68,
    "end": 49.54,
-   "text": "septembre"
+   "text": "Septembre."
   },
   {
    "start": 51.11,
    "end": 51.8,
-   "text": "Octobre"
+   "text": "Octobre."
   },
   {
    "start": 53.4,
    "end": 54.16,
-   "text": "novembre"
+   "text": "Novembre."
   },
   {
    "start": 55.85,
@@ -126,12 +126,12 @@
   {
    "start": 58.44,
    "end": 58.82,
-   "text": "année."
+   "text": "Annie."
   },
   {
    "start": 60.8,
    "end": 61.59,
-   "text": "carnaval"
+   "text": "Carnaval."
   },
   {
    "start": 63.46,
@@ -141,12 +141,12 @@
   {
    "start": 65.45,
    "end": 66.28,
-   "text": "Glace."
+   "text": "glace"
   },
   {
    "start": 67.91,
    "end": 68.36,
-   "text": "Et tu."
+   "text": "Étis."
   },
   {
    "start": 70.43,
@@ -161,17 +161,17 @@
   {
    "start": 75.13,
    "end": 75.83,
-   "text": "Noël"
+   "text": "Noël."
   },
   {
    "start": 77.47,
    "end": 77.87,
-   "text": "vin"
+   "text": "20."
   },
   {
    "start": 79.55,
    "end": 80.49,
-   "text": "Spectacle."
+   "text": "spectacle"
   },
   {
    "start": 82.31,

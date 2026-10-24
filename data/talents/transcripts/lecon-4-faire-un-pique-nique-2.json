@@ -1,12 +1,12 @@
 {
  "slug": "lecon-4-faire-un-pique-nique-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
    "start": 0.0,
    "end": 3.9,
-   "text": "Unité 4 Leçons 4 Vocabulaire"
+   "text": "Unité 4, leçon 4, vocabulaire."
   },
   {
    "start": 4.98,
@@ -16,12 +16,12 @@
   {
    "start": 7.21,
    "end": 7.73,
-   "text": "Carte"
+   "text": "Carte."
   },
   {
    "start": 9.26,
    "end": 9.97,
-   "text": "Campagne."
+   "text": "Campagne"
   },
   {
    "start": 11.37,
@@ -31,17 +31,17 @@
   {
    "start": 14.12,
    "end": 14.45,
-   "text": "Poulet"
+   "text": "Poulet."
   },
   {
    "start": 16.22,
    "end": 16.77,
-   "text": "Beuf !"
+   "text": "Bœuf."
   },
   {
    "start": 18.43,
    "end": 18.95,
-   "text": "Jambon"
+   "text": "Jambon."
   },
   {
    "start": 20.66,
@@ -51,7 +51,7 @@
   {
    "start": 23.2,
    "end": 23.84,
-   "text": "BICON"
+   "text": "Bécon."
   },
   {
    "start": 25.62,
@@ -66,7 +66,7 @@
   {
    "start": 30.2,
    "end": 30.76,
-   "text": "Saumon"
+   "text": "Saumon."
   },
   {
    "start": 32.63,
@@ -81,7 +81,7 @@
   {
    "start": 37.28,
    "end": 37.78,
-   "text": "Poisson"
+   "text": "Poisson."
   },
   {
    "start": 39.72,
@@ -96,17 +96,17 @@
   {
    "start": 44.49,
    "end": 45.05,
-   "text": "Olive."
+   "text": "Olives"
   },
   {
    "start": 46.63,
    "end": 47.33,
-   "text": "Champignon."
+   "text": "Champignons"
   },
   {
    "start": 49.16,
    "end": 49.94,
-   "text": "Concombre"
+   "text": "Concombre."
   },
   {
    "start": 51.59,
@@ -121,7 +121,7 @@
   {
    "start": 56.53,
    "end": 57.28,
-   "text": "Sauce"
+   "text": "Sauce."
   },
   {
    "start": 58.9,
@@ -131,7 +131,7 @@
   {
    "start": 61.41,
    "end": 62.18,
-   "text": "Moutarde."
+   "text": "Moutarde"
   },
   {
    "start": 63.79,
@@ -141,12 +141,12 @@
   {
    "start": 66.76,
    "end": 67.55,
-   "text": "Dessert."
+   "text": "Dessert"
   },
   {
    "start": 69.33,
    "end": 69.86,
-   "text": "Gâteau."
+   "text": "Gâteau"
   },
   {
    "start": 71.65,
@@ -176,32 +176,32 @@
   {
    "start": 84.13,
    "end": 84.96,
-   "text": "Eau minérale"
+   "text": "Eau minérale."
   },
   {
    "start": 86.61,
    "end": 87.38,
-   "text": "Limonade."
+   "text": "Limonade"
   },
   {
    "start": 89.08,
    "end": 89.51,
-   "text": "Menu."
+   "text": "Menu"
   },
   {
    "start": 91.45,
    "end": 91.89,
-   "text": "Heureux !"
+   "text": "Euro."
   },
   {
    "start": 93.88,
    "end": 94.38,
-   "text": "Boisson"
+   "text": "Boisson."
   },
   {
    "start": 96.22,
    "end": 96.78,
-   "text": "Morceau"
+   "text": "Morceaux"
   },
   {
    "start": 98.9,
@@ -211,7 +211,7 @@
   {
    "start": 101.46,
    "end": 102.04,
-   "text": "Tranche"
+   "text": "Tranche."
   },
   {
    "start": 103.72,
@@ -231,7 +231,7 @@
   {
    "start": 111.01,
    "end": 111.33,
-   "text": "Les"
+   "text": "Les."
   },
   {
    "start": 113.2,
@@ -241,7 +241,7 @@
   {
    "start": 116.15,
    "end": 116.35,
-   "text": "T."
+   "text": "Tea."
   },
   {
    "start": 118.17,
@@ -251,27 +251,27 @@
   {
    "start": 120.74,
    "end": 121.24,
-   "text": "Oeuf !"
+   "text": "Oeuf."
   },
   {
    "start": 123.23,
    "end": 123.64,
-   "text": "Pâte."
+   "text": "Pâtes"
   },
   {
    "start": 125.46,
    "end": 125.77,
-   "text": "Riz"
+   "text": "Riz."
   },
   {
    "start": 127.69,
    "end": 128.53,
-   "text": "CHOISIR"
+   "text": "Choisir"
   },
   {
    "start": 130.22,
    "end": 130.74,
-   "text": "MANGER"
+   "text": "Manger."
   },
   {
    "start": 132.74,
@@ -281,7 +281,7 @@
   {
    "start": 135.03,
    "end": 135.85,
-   "text": "Oriental."
+   "text": "Oriental"
   },
   {
    "start": 137.51,

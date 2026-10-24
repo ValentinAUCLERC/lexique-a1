@@ -1,127 +1,132 @@
 {
  "slug": "evaluation-unite-3-2-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "dialogue",
  "segments": [
   {
    "start": 0.0,
-   "end": 7.4,
+   "end": 7.0,
    "text": "2. Dimanche. Vrai ou faux ? Écoutez le dialogue. Cochez la réponse correcte."
   },
   {
-   "start": 8.2,
-   "end": 9.2,
+   "start": 8.38,
+   "end": 8.9,
    "text": "Au café."
   },
   {
-   "start": 10.2,
-   "end": 12.2,
+   "start": 10.38,
+   "end": 12.0,
    "text": "Costanza ! On est là !"
   },
   {
-   "start": 12.4,
-   "end": 16.2,
+   "start": 12.52,
+   "end": 16.0,
    "text": "Ah ! Salut Nicolas ! Merci pour l'itinéraire, Quentin."
   },
   {
-   "start": 16.4,
-   "end": 18.4,
+   "start": 16.54,
+   "end": 18.76,
    "text": "On va au cinéma demain. Tu viens ?"
   },
   {
-   "start": 18.6,
-   "end": 23.2,
-   "text": "Samedi ? Euh... À 9 heures, je vais au cours de français."
+   "start": 18.76,
+   "end": 22.96,
+   "text": "Samedi ? Euh... À 9h, je vais au cours de français."
   },
   {
-   "start": 23.4,
-   "end": 24.6,
+   "start": 23.66,
+   "end": 24.92,
    "text": "Un samedi ?"
   },
   {
-   "start": 24.8,
-   "end": 29.4,
+   "start": 24.92,
+   "end": 29.26,
    "text": "Oui, un samedi. Et ensuite, à midi, je déjeune avec une amie française."
   },
   {
-   "start": 29.8,
-   "end": 31.0,
+   "start": 29.26,
+   "end": 31.26,
    "text": "Et l'après-midi ?"
   },
   {
-   "start": 31.2,
-   "end": 37.0,
-   "text": "À 13 heures, je vais à la bibliothèque. À 14 heures, je vais au parc avec les enfants de mon amie."
+   "start": 31.26,
+   "end": 36.64,
+   "text": "À 13h, je vais à la bibliothèque. À 14h, je vais au parc avec les enfants de mon amie."
   },
   {
-   "start": 37.2,
-   "end": 40.2,
+   "start": 37.38,
+   "end": 39.92,
    "text": "Elle travaille dans un café et je reste avec les enfants."
   },
   {
-   "start": 40.4,
-   "end": 43.6,
-   "text": "Bon... Il y a une séance à 17h30."
+   "start": 40.56,
+   "end": 43.42,
+   "text": "Bon. Il y a une séance à 17h30."
   },
   {
-   "start": 43.8,
-   "end": 47.0,
-   "text": "17h30 ? Euh... Oui, c'est bon !"
+   "start": 44.58,
+   "end": 46.88,
+   "text": "17h30 ? Euh... Oui, c'est bon."
   },
   {
-   "start": 47.2,
-   "end": 52.0,
+   "start": 47.26,
+   "end": 51.76,
    "text": "Ah non, mon père arrive d'Italie. Je vais à la gare, il ne connaît pas la ville."
   },
   {
-   "start": 52.2,
-   "end": 54.8,
+   "start": 52.48,
+   "end": 54.54,
    "text": "Et le soir, on va dîner au restaurant."
   },
   {
-   "start": 55.0,
-   "end": 57.8,
-   "text": "Ah... Donc tu ne viens pas au cinéma demain ?"
+   "start": 55.18,
+   "end": 58.12,
+   "text": "Ah. Donc tu ne viens pas au cinéma demain ?"
   },
   {
-   "start": 58.0,
-   "end": 62.2,
-   "text": "Non, désolé. Demain, samedi, ce n'est pas possible."
+   "start": 58.12,
+   "end": 59.1,
+   "text": "Non, désolé."
   },
   {
-   "start": 62.4,
-   "end": 63.8,
+   "start": 59.82,
+   "end": 61.66,
+   "text": "Demain, samedi, ce n'est pas possible."
+  },
+  {
+   "start": 62.44,
+   "end": 63.26,
    "text": "Et dimanche ?"
   },
   {
-   "start": 64.0,
-   "end": 66.2,
+   "start": 64.02,
+   "end": 65.48,
    "text": "Je suis avec mon père."
   },
   {
-   "start": 66.4,
-   "end": 72.2,
+   "start": 66.46,
+   "end": 71.5,
    "text": "Le matin, on va prendre un petit déjeuner dans le Grand Parc, à côté de la cathédrale."
   },
   {
-   "start": 72.4,
-   "end": 76.2,
+   "start": 72.54,
+   "end": 75.94,
    "text": "À midi, on déjeune avec des amis italiens."
   },
   {
-   "start": 76.4,
-   "end": 79.4,
+   "start": 76.52,
+   "end": 78.84,
    "text": "Et l'après-midi, on va au théâtre."
   },
   {
-   "start": 79.6,
-   "end": 81.8,
+   "start": 80.04,
+   "end": 81.64,
    "text": "Dimanche, je ne suis pas libre."
   },
   {
-   "start": 82.0,
-   "end": 84.4,
-   "text": "Bon... Une prochaine fois, alors."
+   "start": 82.08,
+   "end": 83.76,
+   "text": "Bon. Une prochaine fois, alors."
   }
  ]
 }

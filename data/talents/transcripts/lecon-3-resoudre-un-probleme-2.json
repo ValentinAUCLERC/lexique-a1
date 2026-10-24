@@ -1,6 +1,6 @@
 {
  "slug": "lecon-3-resoudre-un-probleme-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -16,7 +16,7 @@
   {
    "start": 4.78,
    "end": 5.36,
-   "text": "plante."
+   "text": "Plante."
   },
   {
    "start": 7.2,
@@ -31,7 +31,7 @@
   {
    "start": 11.85,
    "end": 12.45,
-   "text": "L'ampoule."
+   "text": "Ampoule."
   },
   {
    "start": 14.33,
@@ -41,12 +41,12 @@
   {
    "start": 16.59,
    "end": 17.27,
-   "text": "Compteur"
+   "text": "Compteur."
   },
   {
    "start": 19.04,
    "end": 19.55,
-   "text": "lampe."
+   "text": "Lampe."
   },
   {
    "start": 21.33,
@@ -61,22 +61,22 @@
   {
    "start": 25.04,
    "end": 25.78,
-   "text": "se passer"
+   "text": "Se passer."
   },
   {
    "start": 27.89,
    "end": 28.66,
-   "text": "SOMBRE"
+   "text": "Sombre."
   },
   {
    "start": 30.53,
    "end": 31.2,
-   "text": "sûr."
+   "text": "Sûr."
   },
   {
    "start": 33.11,
    "end": 33.47,
-   "text": "Va."
+   "text": "bas."
   },
   {
    "start": 34.33,

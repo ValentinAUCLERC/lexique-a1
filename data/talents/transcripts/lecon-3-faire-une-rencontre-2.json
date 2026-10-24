@@ -1,6 +1,6 @@
 {
  "slug": "lecon-3-faire-une-rencontre-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,32 +11,32 @@
   {
    "start": 1.48,
    "end": 2.31,
-   "text": "Leçon 3"
+   "text": "Leçon 3."
   },
   {
    "start": 2.9,
    "end": 3.74,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.7,
    "end": 5.59,
-   "text": "service"
+   "text": "Service."
   },
   {
    "start": 7.16,
    "end": 7.83,
-   "text": "Fille."
+   "text": "fille"
   },
   {
    "start": 9.47,
    "end": 10.16,
-   "text": "venir"
+   "text": "Venir."
   },
   {
    "start": 11.75,
    "end": 12.42,
-   "text": "travailler."
+   "text": "Travailler."
   },
   {
    "start": 14.19,
@@ -46,7 +46,7 @@
   {
    "start": 16.33,
    "end": 17.04,
-   "text": "génial"
+   "text": "Génial."
   }
  ]
 }

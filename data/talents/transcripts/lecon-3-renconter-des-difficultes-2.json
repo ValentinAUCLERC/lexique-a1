@@ -1,6 +1,6 @@
 {
  "slug": "lecon-3-renconter-des-difficultes-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,7 +11,7 @@
   {
    "start": 2.98,
    "end": 3.85,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.96,
@@ -21,32 +21,32 @@
   {
    "start": 7.51,
    "end": 8.16,
-   "text": "Portable."
+   "text": "portable"
   },
   {
    "start": 9.62,
    "end": 10.25,
-   "text": "Réunion."
+   "text": "réunion"
   },
   {
    "start": 11.82,
    "end": 12.34,
-   "text": "salon"
+   "text": "Salon."
   },
   {
    "start": 13.97,
    "end": 14.75,
-   "text": "Préparation"
+   "text": "préparation"
   },
   {
    "start": 16.35,
    "end": 17.15,
-   "text": "Cosmétique."
+   "text": "cosmétiques."
   },
   {
    "start": 18.78,
    "end": 19.31,
-   "text": "Maître."
+   "text": "mettre."
   },
   {
    "start": 19.91,
@@ -61,7 +61,7 @@
   {
    "start": 24.72,
    "end": 25.14,
-   "text": "Donner"
+   "text": "donner."
   }
  ]
 }

@@ -1,131 +1,106 @@
 {
  "slug": "evaluation-unite-5-9",
- "model": "medium",
+ "model": "large-v3",
  "kind": "dialogue",
  "segments": [
   {
    "start": 0.0,
-   "end": 3.4,
+   "end": 3.1,
    "text": "Unité 5. Écoutez les annonces."
   },
   {
-   "start": 4.28,
-   "end": 5.6,
+   "start": 4.4,
+   "end": 5.58,
    "text": "Annonce numéro 1."
   },
   {
-   "start": 7.56,
-   "end": 14.64,
-   "text": "Le TER numéro 17713 en provenance de Marseille"
+   "start": 7.68,
+   "end": 19.26,
+   "text": "Le TER n°17713, en provenance de Marseille et à destination de Lyon, entre en gare quai 1."
   },
   {
-   "start": 14.8,
-   "end": 19.52,
-   "text": "et à destination de Lyon entre en gare quai 1."
-  },
-  {
-   "start": 22.8,
-   "end": 24.12,
+   "start": 22.22,
+   "end": 23.98,
    "text": "Annonce numéro 2."
   },
   {
-   "start": 25.04,
-   "end": 29.92,
-   "text": "Le TGV numéro 4440 à destination de Marseille,"
+   "start": 23.98,
+   "end": 33.86,
+   "text": "Le TGV n°4440, à destination de Marseille, départ 12h21, va partir voie 6."
   },
   {
-   "start": 30.08,
-   "end": 33.92,
-   "text": "départ 12h21, va partir voie 6."
+   "start": 34.82,
+   "end": 40.3,
+   "text": "Attention, nous rappelons aux personnes accompagnant les voyageurs de ne pas monter dans les voitures."
   },
   {
-   "start": 34.08,
-   "end": 36.52,
-   "text": "Attention, nous rappelons aux personnes"
-  },
-  {
-   "start": 36.68,
-   "end": 40.44,
-   "text": "accompagnant les voyageurs de ne pas monter dans les voitures."
-  },
-  {
-   "start": 40.6,
-   "end": 43.64,
+   "start": 41.26,
+   "end": 43.44,
    "text": "Ce train comporte un service de restauration."
   },
   {
-   "start": 46.08,
-   "end": 47.52,
+   "start": 46.14,
+   "end": 47.68,
    "text": "Annonce numéro 3."
   },
   {
-   "start": 48.68,
-   "end": 51.84,
-   "text": "Madame, monsieur, votre attention, s'il vous plaît."
+   "start": 48.78,
+   "end": 51.82,
+   "text": "Madame, Monsieur, votre attention s'il vous plaît."
   },
   {
-   "start": 52.4,
-   "end": 58.84,
-   "text": "Le TGV numéro 9521 en provenance de Montpellier-Saint-Roch"
+   "start": 52.48,
+   "end": 53.68,
+   "text": "Le TGV n°14."
   },
   {
-   "start": 59.0,
-   "end": 60.96,
-   "text": "et à destination de Paris,"
+   "start": 53.98,
+   "end": 64.46,
+   "text": "Le TGV n°9521, en provenance de Montpellier-Saint-Roch et à destination de Paris, va arriver avec un retard de 2h15 environ."
   },
   {
-   "start": 61.12,
-   "end": 64.88,
-   "text": "va arriver avec un retard de 2h15 environ."
-  },
-  {
-   "start": 65.04,
-   "end": 67.12,
+   "start": 65.18,
+   "end": 66.58,
    "text": "Merci de votre compréhension."
   },
   {
-   "start": 69.68,
-   "end": 71.24,
+   "start": 69.38,
+   "end": 71.0,
    "text": "Annonce numéro 4."
   },
   {
-   "start": 73.2,
-   "end": 78.12,
-   "text": "Le TGV numéro 9241 en provenance de Rome"
+   "start": 72.7,
+   "end": 81.78,
+   "text": "Le TGV n°9241, en provenance de Rome, entre en gare quai 12 avec un retard de 30 minutes."
   },
   {
-   "start": 78.28,
-   "end": 82.24,
-   "text": "entre en gare quai 12 avec un retard de 30 minutes."
-  },
-  {
-   "start": 82.4,
-   "end": 85.16,
+   "start": 81.78,
+   "end": 83.78,
    "text": "Nous vous remercions de votre compréhension."
   },
   {
-   "start": 87.24,
-   "end": 88.8,
+   "start": 83.98,
+   "end": 84.54,
+   "text": "Nous vous remercions de votre compréhension."
+  },
+  {
+   "start": 86.78,
+   "end": 88.56,
    "text": "Annonce numéro 5."
   },
   {
    "start": 90.56,
-   "end": 92.04,
+   "end": 91.46,
    "text": "Voie 6."
   },
   {
-   "start": 92.2,
-   "end": 98.04,
-   "text": "Le train Corail intercité numéro 4805"
+   "start": 92.28,
+   "end": 103.36,
+   "text": "Le train Corail-Intercité n°4805, en provenance de Clermont-Ferrand, va entrer en gare voie 6."
   },
   {
-   "start": 98.2,
-   "end": 104.4,
-   "text": "en provenance de Clermont-Ferrand va entrer en gare voie 6."
-  },
-  {
-   "start": 104.56,
-   "end": 106.92,
+   "start": 104.7,
+   "end": 106.4,
    "text": "Éloignez-vous de la bordure du quai."
   }
  ]

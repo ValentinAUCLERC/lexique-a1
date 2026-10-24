@@ -1,6 +1,6 @@
 {
  "slug": "lecon-1-rencontrer-les-membres-d-une-famille-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -21,27 +21,27 @@
   {
    "start": 7.28,
    "end": 7.76,
-   "text": "Père"
+   "text": "Père."
   },
   {
    "start": 9.44,
    "end": 10.12,
-   "text": "mère"
+   "text": "Mère."
   },
   {
    "start": 11.75,
    "end": 12.19,
-   "text": "Cousin"
+   "text": "Cousin."
   },
   {
    "start": 13.97,
    "end": 14.66,
-   "text": "frère"
+   "text": "Frères."
   },
   {
    "start": 16.41,
    "end": 16.99,
-   "text": "sœur"
+   "text": "Sœur."
   },
   {
    "start": 18.7,
@@ -56,7 +56,7 @@
   {
    "start": 23.52,
    "end": 23.97,
-   "text": "Tante."
+   "text": "Tente."
   },
   {
    "start": 25.86,
@@ -66,32 +66,32 @@
   {
    "start": 27.95,
    "end": 28.64,
-   "text": "beau-père."
+   "text": "Beau-père."
   },
   {
    "start": 30.36,
    "end": 31.15,
-   "text": "ambassade."
+   "text": "ambassade"
   },
   {
    "start": 32.86,
    "end": 33.4,
-   "text": "Ciseaux"
+   "text": "Ciseaux."
   },
   {
    "start": 35.42,
    "end": 35.99,
-   "text": "minute"
+   "text": "Minute."
   },
   {
    "start": 37.7,
    "end": 38.39,
-   "text": "pouvoir."
+   "text": "Pouvoir."
   },
   {
    "start": 40.02,
    "end": 40.74,
-   "text": "faire"
+   "text": "Faire"
   },
   {
    "start": 42.49,

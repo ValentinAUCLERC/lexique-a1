@@ -1,6 +1,6 @@
 {
  "slug": "lecon-4-s-adapter-a-un-rythme-de-vie-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -21,67 +21,67 @@
   {
    "start": 7.33,
    "end": 7.91,
-   "text": "Course."
+   "text": "course."
   },
   {
    "start": 9.69,
    "end": 10.14,
-   "text": "Côte."
+   "text": "Côte"
   },
   {
    "start": 11.86,
    "end": 12.42,
-   "text": "roller"
+   "text": "Roller."
   },
   {
    "start": 14.14,
    "end": 14.51,
-   "text": "idée."
+   "text": "idées."
   },
   {
    "start": 16.48,
    "end": 16.84,
-   "text": "copain."
+   "text": "Copain."
   },
   {
    "start": 18.7,
    "end": 19.35,
-   "text": "tennis"
+   "text": "Tennis."
   },
   {
    "start": 21.03,
    "end": 21.48,
-   "text": "Matin."
+   "text": "Matin"
   },
   {
    "start": 23.2,
    "end": 23.84,
-   "text": "soir"
+   "text": "Soir."
   },
   {
    "start": 25.65,
    "end": 26.31,
-   "text": "ennuyé."
+   "text": "Ennuyé."
   },
   {
    "start": 27.12,
    "end": 28.07,
-   "text": "s'ennuyer."
+   "text": "S'ennuyer."
   },
   {
    "start": 29.95,
    "end": 30.49,
-   "text": "lever"
+   "text": "Levé."
   },
   {
    "start": 31.32,
    "end": 32.04,
-   "text": "se lever"
+   "text": "Se lever."
   },
   {
    "start": 34.11,
    "end": 34.69,
-   "text": "promener"
+   "text": "Promener."
   },
   {
    "start": 35.47,
@@ -91,37 +91,37 @@
   {
    "start": 38.45,
    "end": 38.94,
-   "text": "coucher"
+   "text": "Coucher."
   },
   {
    "start": 39.84,
    "end": 40.57,
-   "text": "se coucher"
+   "text": "Se coucher."
   },
   {
    "start": 42.67,
    "end": 43.3,
-   "text": "réveiller"
+   "text": "Réveiller."
   },
   {
    "start": 44.14,
    "end": 44.95,
-   "text": "se réveiller."
+   "text": "Se réveiller."
   },
   {
    "start": 47.09,
    "end": 47.79,
-   "text": "sortir."
+   "text": "Sortir."
   },
   {
    "start": 49.78,
    "end": 50.51,
-   "text": "formidable."
+   "text": "Formidable."
   },
   {
    "start": 52.27,
    "end": 52.63,
-   "text": "VRAI"
+   "text": "Vrai."
   }
  ]
 }

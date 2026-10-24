@@ -1,6 +1,6 @@
 {
  "slug": "lecon-1-dire-son-nom-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,7 +11,7 @@
   {
    "start": 2.29,
    "end": 3.15,
-   "text": "Leçon 1"
+   "text": "Leçon 1."
   },
   {
    "start": 3.69,
@@ -26,37 +26,37 @@
   {
    "start": 8.32,
    "end": 8.98,
-   "text": "artiste."
+   "text": "artiste"
   },
   {
    "start": 11.11,
    "end": 11.83,
-   "text": "étudiante."
+   "text": "étudiante"
   },
   {
    "start": 13.88,
    "end": 14.59,
-   "text": "grand-mère."
+   "text": "Grand-mère."
   },
   {
    "start": 16.81,
    "end": 17.27,
-   "text": "louer."
+   "text": "Louer."
   },
   {
    "start": 19.49,
    "end": 19.95,
-   "text": "appeler."
+   "text": "Appeler."
   },
   {
    "start": 22.15,
    "end": 22.87,
-   "text": "célèbre."
+   "text": "célèbre"
   },
   {
    "start": 24.76,
    "end": 25.33,
-   "text": "français"
+   "text": "Français."
   },
   {
    "start": 27.53,

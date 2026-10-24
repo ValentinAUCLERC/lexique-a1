@@ -1,27 +1,27 @@
 {
  "slug": "lecon-3-aborder-quelqu-un-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
    "start": 0.0,
    "end": 1.16,
-   "text": "Unité 1"
+   "text": "Unité 1."
   },
   {
    "start": 1.59,
    "end": 2.54,
-   "text": "leçon 3"
+   "text": "Leçon 3"
   },
   {
    "start": 3.02,
    "end": 3.88,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.86,
    "end": 5.7,
-   "text": "Cosmétique."
+   "text": "cosmétique"
   },
   {
    "start": 7.47,
@@ -36,22 +36,22 @@
   {
    "start": 12.28,
    "end": 13.03,
-   "text": "comprendre."
+   "text": "Comprendre"
   },
   {
    "start": 14.76,
    "end": 15.37,
-   "text": "connaître"
+   "text": "Connaître."
   },
   {
    "start": 17.18,
    "end": 17.79,
-   "text": "écrire."
+   "text": "écrire"
   },
   {
    "start": 19.84,
    "end": 20.44,
-   "text": "grave"
+   "text": "Grave."
   }
  ]
 }

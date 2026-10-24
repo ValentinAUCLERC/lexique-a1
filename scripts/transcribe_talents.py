@@ -64,7 +64,8 @@ for u in catalog[:10]:
         lesson_words[slug] = [w["tts"] for w in words if w["unit"] == n and w["lesson"] == key]
 
 manifest = json.load(open(os.path.join(AUD, "manifest.json")))
-model = WhisperModel(model_name, device="cpu", compute_type="int8", cpu_threads=14)
+DEVICE = os.environ.get("WHISPER_DEVICE", "cpu")  # "cuda" sur le worker GPU
+model = WhisperModel(model_name, device=DEVICE, compute_type="float16" if DEVICE == "cuda" else "int8", cpu_threads=14)
 for slug, meta in manifest.items():
     dest = os.path.join(OUT, slug + ".json")
     if os.path.exists(dest) and not FORCE:

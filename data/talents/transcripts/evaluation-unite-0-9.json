@@ -1,127 +1,112 @@
 {
  "slug": "evaluation-unite-0-9",
- "model": "medium",
+ "model": "large-v3",
  "kind": "dialogue",
  "segments": [
   {
-   "start": 0.0,
-   "end": 2.0,
-   "text": "Unité zéro."
+   "start": 0.14,
+   "end": 1.06,
+   "text": "Unité 0"
   },
   {
-   "start": 2.0,
-   "end": 3.0,
-   "text": "Un."
+   "start": 1.06,
+   "end": 4.52,
+   "text": "1. Observez les images."
   },
   {
-   "start": 3.0,
-   "end": 5.0,
-   "text": "Observer les images."
+   "start": 5.5,
+   "end": 5.98,
+   "text": "Écoutez."
   },
   {
-   "start": 5.0,
-   "end": 7.0,
-   "text": "Écouter."
+   "start": 7.48,
+   "end": 10.18,
+   "text": "Numérotez les images dans l'ordre du dialogue."
   },
   {
-   "start": 7.0,
-   "end": 11.0,
-   "text": "Numéroter les images dans l'ordre du dialogue."
+   "start": 11.3,
+   "end": 15.04,
+   "text": "Bonjour Mélanie, comment ça va ? Tu veux un café ?"
   },
   {
-   "start": 11.0,
-   "end": 15.0,
-   "text": "Bonjour, Mélanie. Comment ça va ? Tu veux un café ?"
+   "start": 15.04,
+   "end": 16.56,
+   "text": "Salut Greg, oui merci."
   },
   {
-   "start": 15.0,
-   "end": 17.0,
-   "text": "Salut, Greg. Oui, merci."
-  },
-  {
-   "start": 19.0,
-   "end": 21.0,
+   "start": 19.32,
+   "end": 21.5,
    "text": "Greg, tu aimes le cinéma ?"
   },
   {
-   "start": 21.0,
-   "end": 25.0,
+   "start": 21.5,
+   "end": 24.94,
    "text": "Oui, j'aime beaucoup les films avec Omar Sy. Et toi ?"
   },
   {
-   "start": 25.0,
-   "end": 27.0,
+   "start": 24.94,
+   "end": 25.76,
    "text": "J'aime la musique."
   },
   {
-   "start": 27.0,
-   "end": 29.0,
-   "text": "Oui, tu es une artiste."
+   "start": 26.82,
+   "end": 28.74,
+   "text": "Ah oui ? Tu es une artiste ?"
   },
   {
-   "start": 31.0,
-   "end": 33.0,
-   "text": "Deux."
+   "start": 30.0,
+   "end": 36.54,
+   "text": "2. Écoutez le dialogue. Cochez les chiffres de Mélanie."
   },
   {
-   "start": 33.0,
-   "end": 35.0,
-   "text": "Écouter le dialogue."
-  },
-  {
-   "start": 35.0,
-   "end": 37.0,
-   "text": "Cocher les chiffres de Mélanie."
-  },
-  {
-   "start": 38.0,
-   "end": 42.0,
+   "start": 38.2,
+   "end": 41.94,
    "text": "Regarde, j'ai un billet de l'auto. Dis-moi des chiffres."
   },
   {
-   "start": 43.0,
-   "end": 47.0,
-   "text": "Le 3. Le 7."
+   "start": 43.54,
+   "end": 50.92,
+   "text": "Le 3, le 7, le 3, le 7 et puis ?"
   },
   {
-   "start": 47.0,
-   "end": 51.0,
-   "text": "Le 3, le 7 et puis ?"
+   "start": 50.92,
+   "end": 54.66,
+   "text": "Le 9, le 9 et ?"
   },
   {
-   "start": 51.0,
-   "end": 53.0,
-   "text": "Le 9."
-  },
-  {
-   "start": 53.0,
-   "end": 55.0,
-   "text": "Le 9 et ?"
-  },
-  {
-   "start": 55.0,
-   "end": 56.0,
+   "start": 54.66,
+   "end": 55.58,
    "text": "Encore ?"
   },
   {
-   "start": 56.0,
-   "end": 58.0,
-   "text": "Encore deux chiffres."
+   "start": 55.58,
+   "end": 57.02,
+   "text": "Oui, encore deux chiffres."
   },
   {
-   "start": 58.0,
-   "end": 62.0,
-   "text": "Le 0 et le 8."
+   "start": 58.16,
+   "end": 59.66,
+   "text": "Le 0 et ?"
   },
   {
-   "start": 62.0,
-   "end": 63.0,
+   "start": 60.0,
+   "end": 61.6,
+   "text": "Le 8."
+  },
+  {
+   "start": 62.24,
+   "end": 63.1,
    "text": "C'est bon ?"
   },
   {
-   "start": 63.0,
-   "end": 67.0,
-   "text": "Le 0 et le 8. Oui, c'est bon. Merci, Mélanie."
+   "start": 63.1,
+   "end": 66.64,
+   "text": "Le 0 et le 8. Oui, c'est bon. Merci Mélanie."
+  },
+  {
+   "start": 66.64,
+   "end": 67.78,
+   "text": "Sous-titrage ST' 501"
   }
  ]
 }

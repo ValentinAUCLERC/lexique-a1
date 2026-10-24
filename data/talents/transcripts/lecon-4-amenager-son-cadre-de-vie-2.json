@@ -1,6 +1,6 @@
 {
  "slug": "lecon-4-amenager-son-cadre-de-vie-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,7 +11,7 @@
   {
    "start": 4.39,
    "end": 5.21,
-   "text": "innovation."
+   "text": "Innovation."
   },
   {
    "start": 6.87,
@@ -21,7 +21,7 @@
   {
    "start": 9.5,
    "end": 10.07,
-   "text": "meuble."
+   "text": "Meubles"
   },
   {
    "start": 11.75,
@@ -31,7 +31,7 @@
   {
    "start": 14.04,
    "end": 14.9,
-   "text": "distance"
+   "text": "Distance."
   },
   {
    "start": 16.49,
@@ -41,12 +41,12 @@
   {
    "start": 18.84,
    "end": 19.66,
-   "text": "fauteuil"
+   "text": "Fauteuil."
   },
   {
    "start": 21.49,
    "end": 21.99,
-   "text": "Écrans"
+   "text": "Écran."
   },
   {
    "start": 23.95,
@@ -76,7 +76,7 @@
   {
    "start": 35.92,
    "end": 36.43,
-   "text": "Drap."
+   "text": "Draps."
   },
   {
    "start": 38.31,
@@ -86,22 +86,22 @@
   {
    "start": 40.81,
    "end": 41.57,
-   "text": "Traversin"
+   "text": "Traversin."
   },
   {
    "start": 43.51,
    "end": 44.11,
-   "text": "Quit."
+   "text": "Couette."
   },
   {
    "start": 45.93,
    "end": 46.5,
-   "text": "oreiller"
+   "text": "Oreiller."
   },
   {
    "start": 48.41,
    "end": 49.19,
-   "text": "baignoire."
+   "text": "Baignoire."
   },
   {
    "start": 51.08,
@@ -111,27 +111,27 @@
   {
    "start": 53.97,
    "end": 54.87,
-   "text": "Styliste."
+   "text": "Styliste"
   },
   {
    "start": 56.73,
    "end": 57.29,
-   "text": "mode"
+   "text": "Mode."
   },
   {
    "start": 59.1,
    "end": 59.75,
-   "text": "fonction"
+   "text": "Fonctions"
   },
   {
    "start": 61.76,
    "end": 62.65,
-   "text": "vide-grenier"
+   "text": "Vide-grenier."
   },
   {
    "start": 64.65,
    "end": 65.08,
-   "text": "Objet"
+   "text": "Objet."
   },
   {
    "start": 67.13,
@@ -156,17 +156,17 @@
   {
    "start": 77.5,
    "end": 78.15,
-   "text": "peindre."
+   "text": "Peindre."
   },
   {
    "start": 79.83,
    "end": 80.48,
-   "text": "Décorer"
+   "text": "Décorer."
   },
   {
    "start": 82.42,
    "end": 83.03,
-   "text": "adapter."
+   "text": "adapter"
   },
   {
    "start": 85.06,
@@ -181,7 +181,7 @@
   {
    "start": 90.02,
    "end": 90.68,
-   "text": "mobile."
+   "text": "Mobile."
   },
   {
    "start": 92.4,

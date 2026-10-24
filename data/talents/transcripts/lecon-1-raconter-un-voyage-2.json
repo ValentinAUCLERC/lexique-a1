@@ -1,6 +1,6 @@
 {
  "slug": "lecon-1-raconter-un-voyage-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -16,7 +16,7 @@
   {
    "start": 2.86,
    "end": 3.69,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.57,
@@ -26,37 +26,37 @@
   {
    "start": 7.14,
    "end": 7.83,
-   "text": "rêve"
+   "text": "Rêve."
   },
   {
    "start": 9.43,
    "end": 10.26,
-   "text": "Nymphéa"
+   "text": "nymphéa"
   },
   {
    "start": 12.11,
    "end": 13.21,
-   "text": "Coquille Saint-Jacques"
+   "text": "coquille Saint-Jacques"
   },
   {
    "start": 14.97,
    "end": 15.83,
-   "text": "présentation"
+   "text": "Présentation"
   },
   {
    "start": 17.66,
    "end": 18.36,
-   "text": "doctorat"
+   "text": "Doctorat"
   },
   {
    "start": 20.22,
    "end": 20.75,
-   "text": "Romant"
+   "text": "Roman."
   },
   {
    "start": 22.74,
    "end": 23.46,
-   "text": "pièce."
+   "text": "pièce"
   },
   {
    "start": 25.07,
@@ -86,17 +86,17 @@
   {
    "start": 38.27,
    "end": 38.85,
-   "text": "oublier."
+   "text": "oublier"
   },
   {
    "start": 40.77,
    "end": 41.57,
-   "text": "Magnifique !"
+   "text": "Magnifique."
   },
   {
    "start": 43.33,
    "end": 44.38,
-   "text": "Impressionniste."
+   "text": "impressionniste"
   },
   {
    "start": 46.18,
@@ -111,17 +111,17 @@
   {
    "start": 51.42,
    "end": 52.23,
-   "text": "romantique."
+   "text": "romantique"
   },
   {
    "start": 54.05,
    "end": 54.76,
-   "text": "délicieux"
+   "text": "Délicieux."
   },
   {
    "start": 56.68,
    "end": 57.49,
-   "text": "Difficile"
+   "text": "Difficile."
   },
   {
    "start": 59.29,

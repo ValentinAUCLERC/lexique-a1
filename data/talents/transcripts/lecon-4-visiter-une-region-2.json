@@ -1,6 +1,6 @@
 {
  "slug": "lecon-4-visiter-une-region-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -16,7 +16,7 @@
   {
    "start": 5.5,
    "end": 5.92,
-   "text": "traîneau"
+   "text": "Traîneau."
   },
   {
    "start": 7.82,
@@ -26,7 +26,7 @@
   {
    "start": 10.04,
    "end": 10.54,
-   "text": "forêt"
+   "text": "Forêt."
   },
   {
    "start": 12.21,
@@ -36,7 +36,7 @@
   {
    "start": 14.46,
    "end": 14.85,
-   "text": "feu."
+   "text": "Feu."
   },
   {
    "start": 16.66,
@@ -46,7 +46,7 @@
   {
    "start": 18.78,
    "end": 19.57,
-   "text": "température"
+   "text": "Température."
   },
   {
    "start": 21.27,
@@ -71,17 +71,17 @@
   {
    "start": 30.98,
    "end": 31.5,
-   "text": "Océan"
+   "text": "Océan."
   },
   {
    "start": 33.41,
    "end": 34.12,
-   "text": "Kilomètre"
+   "text": "Kilomètres."
   },
   {
    "start": 35.69,
    "end": 36.41,
-   "text": "Bénévole"
+   "text": "bénévole"
   },
   {
    "start": 38.22,
@@ -91,12 +91,12 @@
   {
    "start": 40.8,
    "end": 41.37,
-   "text": "touriste"
+   "text": "Touriste."
   },
   {
    "start": 43.05,
    "end": 43.74,
-   "text": "soleil"
+   "text": "Soleil."
   },
   {
    "start": 45.46,
@@ -106,27 +106,27 @@
   {
    "start": 47.97,
    "end": 48.47,
-   "text": "monter"
+   "text": "Monter."
   },
   {
    "start": 50.38,
    "end": 51.26,
-   "text": "recevoir"
+   "text": "Recevoir."
   },
   {
    "start": 52.95,
    "end": 53.69,
-   "text": "pleuvoir"
+   "text": "Pleuvoir."
   },
   {
    "start": 55.48,
    "end": 56.17,
-   "text": "traverser."
+   "text": "Traverser."
   },
   {
    "start": 57.94,
    "end": 58.52,
-   "text": "neiger"
+   "text": "Neiger."
   },
   {
    "start": 60.32,
@@ -136,12 +136,12 @@
   {
    "start": 63.02,
    "end": 63.19,
-   "text": "Ouh."
+   "text": "O."
   },
   {
    "start": 65.19,
    "end": 65.78,
-   "text": "seul"
+   "text": "Seul."
   },
   {
    "start": 67.44,
@@ -151,12 +151,12 @@
   {
    "start": 70.25,
    "end": 70.97,
-   "text": "naturel"
+   "text": "Naturel."
   },
   {
    "start": 72.83,
    "end": 73.5,
-   "text": "original."
+   "text": "Original."
   }
  ]
 }

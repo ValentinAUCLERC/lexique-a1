@@ -1,6 +1,6 @@
 {
  "slug": "projet-offrir-un-cadeau-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,7 +11,7 @@
   {
    "start": 1.69,
    "end": 2.16,
-   "text": "projet,"
+   "text": "Projet"
   },
   {
    "start": 2.65,
@@ -21,12 +21,12 @@
   {
    "start": 4.44,
    "end": 5.04,
-   "text": "Amitié."
+   "text": "amitié"
   },
   {
    "start": 6.8,
    "end": 7.46,
-   "text": "cuisine"
+   "text": "Cuisine"
   },
   {
    "start": 9.05,
@@ -36,12 +36,12 @@
   {
    "start": 11.01,
    "end": 11.93,
-   "text": "spécialité."
+   "text": "spécialité"
   },
   {
    "start": 13.56,
    "end": 14.33,
-   "text": "stage"
+   "text": "Stage."
   },
   {
    "start": 15.7,

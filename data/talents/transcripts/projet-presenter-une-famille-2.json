@@ -1,6 +1,6 @@
 {
  "slug": "projet-presenter-une-famille-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,17 +11,17 @@
   {
    "start": 1.61,
    "end": 2.1,
-   "text": "projet"
+   "text": "Projet."
   },
   {
    "start": 2.48,
    "end": 3.28,
-   "text": "Vocabulaire."
+   "text": "vocabulaire."
   },
   {
    "start": 4.18,
    "end": 5.04,
-   "text": "communication."
+   "text": "Communication."
   },
   {
    "start": 6.69,
@@ -31,7 +31,7 @@
   {
    "start": 9.2,
    "end": 9.74,
-   "text": "cadre."
+   "text": "Cadre."
   },
   {
    "start": 11.28,
@@ -41,22 +41,22 @@
   {
    "start": 13.81,
    "end": 14.26,
-   "text": "mairie."
+   "text": "Mairie"
   },
   {
    "start": 16.13,
    "end": 16.8,
-   "text": "travail"
+   "text": "Travail."
   },
   {
    "start": 18.41,
    "end": 19.1,
-   "text": "Politique."
+   "text": "Politique"
   },
   {
    "start": 20.69,
    "end": 21.28,
-   "text": "Préparer"
+   "text": "préparer."
   },
   {
    "start": 23.13,
@@ -66,7 +66,7 @@
   {
    "start": 25.53,
    "end": 26.3,
-   "text": "Interessé."
+   "text": "intéressé."
   },
   {
    "start": 26.9,
@@ -86,12 +86,12 @@
   {
    "start": 34.51,
    "end": 35.18,
-   "text": "Interision."
+   "text": "Intelligent."
   },
   {
    "start": 36.84,
    "end": 37.71,
-   "text": "supérieur."
+   "text": "Supérieur."
   },
   {
    "start": 39.39,
@@ -101,17 +101,17 @@
   {
    "start": 41.67,
    "end": 42.5,
-   "text": "traditionnel."
+   "text": "Traditionnel."
   },
   {
    "start": 44.4,
    "end": 44.89,
-   "text": "marié"
+   "text": "Marié."
   },
   {
    "start": 46.78,
    "end": 47.37,
-   "text": "divorcé"
+   "text": "Divorcé."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "slug": "lecon-2-organiser-un-voyage-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -16,12 +16,12 @@
   {
    "start": 5.02,
    "end": 5.57,
-   "text": "billet"
+   "text": "Billet."
   },
   {
    "start": 7.34,
    "end": 7.98,
-   "text": "retenue."
+   "text": "Retenue."
   },
   {
    "start": 9.93,
@@ -36,17 +36,17 @@
   {
    "start": 14.82,
    "end": 15.18,
-   "text": "train"
+   "text": "Train."
   },
   {
    "start": 15.64,
    "end": 16.21,
-   "text": "TGV."
+   "text": "TGV"
   },
   {
    "start": 18.37,
    "end": 18.86,
-   "text": "Taxi"
+   "text": "Taxi."
   },
   {
    "start": 20.7,
@@ -56,17 +56,17 @@
   {
    "start": 23.36,
    "end": 24.19,
-   "text": "Autobus."
+   "text": "autobus"
   },
   {
    "start": 24.56,
    "end": 25.23,
-   "text": "Bus."
+   "text": "bus."
   },
   {
    "start": 27.3,
    "end": 27.99,
-   "text": "voiture"
+   "text": "Voiture."
   },
   {
    "start": 29.85,
@@ -76,7 +76,7 @@
   {
    "start": 32.26,
    "end": 32.82,
-   "text": "Échanger."
+   "text": "échanger."
   },
   {
    "start": 34.55,
@@ -86,7 +86,7 @@
   {
    "start": 37.02,
    "end": 37.6,
-   "text": "Gratuit."
+   "text": "gratuit."
   },
   {
    "start": 39.48,

@@ -1,6 +1,6 @@
 {
  "slug": "lecon-1-s-orienter-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,12 +11,12 @@
   {
    "start": 2.66,
    "end": 3.49,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.33,
    "end": 4.95,
-   "text": "Gare"
+   "text": "gare"
   },
   {
    "start": 6.48,
@@ -26,12 +26,12 @@
   {
    "start": 8.8,
    "end": 9.51,
-   "text": "sortie"
+   "text": "Sortie."
   },
   {
    "start": 11.3,
    "end": 11.97,
-   "text": "couloir"
+   "text": "Couloir."
   },
   {
    "start": 13.6,
@@ -41,12 +41,12 @@
   {
    "start": 16.2,
    "end": 16.85,
-   "text": "Accueil."
+   "text": "accueil"
   },
   {
    "start": 18.52,
    "end": 18.87,
-   "text": "Allez."
+   "text": "aller."
   },
   {
    "start": 20.8,

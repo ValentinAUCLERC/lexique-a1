@@ -1,6 +1,6 @@
 {
  "slug": "lecon-3-faire-du-sport-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,12 +11,12 @@
   {
    "start": 2.74,
    "end": 3.56,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.42,
    "end": 4.89,
-   "text": "fois"
+   "text": "Fois."
   },
   {
    "start": 6.54,
@@ -31,7 +31,7 @@
   {
    "start": 11.1,
    "end": 11.94,
-   "text": "Musculation."
+   "text": "musculation"
   },
   {
    "start": 13.63,
@@ -41,12 +41,12 @@
   {
    "start": 15.95,
    "end": 16.86,
-   "text": "Gymnastique."
+   "text": "gymnastique"
   },
   {
    "start": 18.43,
    "end": 18.87,
-   "text": "Judo."
+   "text": "judo."
   },
   {
    "start": 20.64,
@@ -66,12 +66,12 @@
   {
    "start": 27.77,
    "end": 28.45,
-   "text": "Stresser."
+   "text": "stresser"
   },
   {
    "start": 30.51,
    "end": 31.07,
-   "text": "besoin"
+   "text": "Besoin."
   },
   {
    "start": 31.76,
@@ -81,12 +81,12 @@
   {
    "start": 34.3,
    "end": 34.71,
-   "text": "faim"
+   "text": "Fin."
   },
   {
    "start": 35.58,
    "end": 36.24,
-   "text": "Avoir faim."
+   "text": "avoir faim."
   }
  ]
 }

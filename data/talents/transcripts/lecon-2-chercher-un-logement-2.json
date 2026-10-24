@@ -1,6 +1,6 @@
 {
  "slug": "lecon-2-chercher-un-logement-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,7 +11,7 @@
   {
    "start": 2.87,
    "end": 3.69,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.69,
@@ -21,7 +21,7 @@
   {
    "start": 7.05,
    "end": 7.79,
-   "text": "Ascenseur"
+   "text": "Ascenseur."
   },
   {
    "start": 9.55,
@@ -36,7 +36,7 @@
   {
    "start": 14.92,
    "end": 15.48,
-   "text": "Balcon"
+   "text": "balcon"
   },
   {
    "start": 17.43,
@@ -46,7 +46,7 @@
   {
    "start": 19.86,
    "end": 20.69,
-   "text": "charge"
+   "text": "Charge."
   },
   {
    "start": 22.35,
@@ -56,32 +56,32 @@
   {
    "start": 24.71,
    "end": 25.49,
-   "text": "Salle à manger."
+   "text": "salle à manger"
   },
   {
    "start": 27.44,
    "end": 28.04,
-   "text": "Toilettes"
+   "text": "toilettes"
   },
   {
    "start": 29.85,
    "end": 30.54,
-   "text": "Escalier"
+   "text": "escalier."
   },
   {
    "start": 32.62,
    "end": 33.13,
-   "text": "cave"
+   "text": "cave."
   },
   {
    "start": 34.78,
    "end": 35.4,
-   "text": "ancien"
+   "text": "ancien."
   },
   {
    "start": 37.13,
    "end": 37.92,
-   "text": "Situé."
+   "text": "situé."
   },
   {
    "start": 39.91,
@@ -91,7 +91,7 @@
   {
    "start": 42.44,
    "end": 43.26,
-   "text": "électrique."
+   "text": "électrique"
   },
   {
    "start": 44.96,
@@ -101,7 +101,7 @@
   {
    "start": 47.72,
    "end": 48.32,
-   "text": "Occupé."
+   "text": "Occupé"
   },
   {
    "start": 50.4,

@@ -1,6 +1,6 @@
 {
  "slug": "projet-faire-un-programme-de-sortie-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,7 +11,7 @@
   {
    "start": 1.54,
    "end": 2.07,
-   "text": "Projet."
+   "text": "Projet"
   },
   {
    "start": 2.45,
@@ -31,7 +31,7 @@
   {
    "start": 9.47,
    "end": 9.95,
-   "text": "Ille."
+   "text": "Île."
   },
   {
    "start": 11.5,
@@ -41,7 +41,7 @@
   {
    "start": 13.98,
    "end": 14.38,
-   "text": "Jeu."
+   "text": "Je."
   },
   {
    "start": 16.33,
@@ -61,7 +61,7 @@
   {
    "start": 24.31,
    "end": 24.92,
-   "text": "village."
+   "text": "Village."
   },
   {
    "start": 26.83,
@@ -76,12 +76,12 @@
   {
    "start": 31.98,
    "end": 32.82,
-   "text": "Bignade."
+   "text": "Baignade."
   },
   {
    "start": 34.26,
    "end": 35.1,
-   "text": "rivière"
+   "text": "Rivière."
   },
   {
    "start": 36.73,
@@ -101,12 +101,12 @@
   {
    "start": 43.97,
    "end": 44.54,
-   "text": "soirée"
+   "text": "Soirée"
   },
   {
    "start": 46.33,
    "end": 47.06,
-   "text": "CREATION"
+   "text": "Création."
   },
   {
    "start": 48.94,
@@ -116,7 +116,7 @@
   {
    "start": 51.45,
    "end": 52.04,
-   "text": "médecin"
+   "text": "Médecin."
   },
   {
    "start": 53.92,
@@ -126,12 +126,12 @@
   {
    "start": 56.36,
    "end": 56.96,
-   "text": "Région"
+   "text": "Région."
   },
   {
    "start": 58.89,
    "end": 59.66,
-   "text": "cheval"
+   "text": "Cheval."
   },
   {
    "start": 61.38,
@@ -141,7 +141,7 @@
   {
    "start": 63.86,
    "end": 64.34,
-   "text": "Jouer"
+   "text": "Jouer."
   },
   {
    "start": 66.17,
@@ -161,17 +161,17 @@
   {
    "start": 72.55,
    "end": 73.45,
-   "text": "s'amuser."
+   "text": "S'amuser."
   },
   {
    "start": 75.37,
    "end": 76.29,
-   "text": "sportif."
+   "text": "sportif"
   },
   {
    "start": 77.86,
    "end": 78.81,
-   "text": "Préhistorique."
+   "text": "Préhistorique"
   }
  ]
 }

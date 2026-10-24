@@ -1,6 +1,6 @@
 {
  "slug": "lecon-2-aller-au-cinema-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -16,7 +16,7 @@
   {
    "start": 4.56,
    "end": 5.16,
-   "text": "foot"
+   "text": "faute"
   },
   {
    "start": 6.89,
@@ -26,7 +26,7 @@
   {
    "start": 9.17,
    "end": 9.75,
-   "text": "bourgeois"
+   "text": "Bourgeois."
   },
   {
    "start": 11.57,
@@ -36,7 +36,7 @@
   {
    "start": 14.02,
    "end": 14.78,
-   "text": "Chômeur"
+   "text": "Chômeur."
   },
   {
    "start": 16.43,
@@ -46,12 +46,12 @@
   {
    "start": 18.66,
    "end": 19.58,
-   "text": "association."
+   "text": "Association."
   },
   {
    "start": 21.49,
    "end": 22.12,
-   "text": "Émotion."
+   "text": "Émotions."
   },
   {
    "start": 24.09,
@@ -71,7 +71,7 @@
   {
    "start": 31.28,
    "end": 31.92,
-   "text": "mourir"
+   "text": "Mourir."
   },
   {
    "start": 33.52,
@@ -81,7 +81,7 @@
   {
    "start": 35.71,
    "end": 36.28,
-   "text": "épouser."
+   "text": "Épouser."
   },
   {
    "start": 38.08,
@@ -91,22 +91,22 @@
   {
    "start": 40.24,
    "end": 40.98,
-   "text": "Hospitalier."
+   "text": "hospitalier."
   },
   {
    "start": 42.76,
    "end": 43.46,
-   "text": "Catholique."
+   "text": "catholique"
   },
   {
    "start": 45.07,
    "end": 45.65,
-   "text": "juif"
+   "text": "juif."
   },
   {
    "start": 47.17,
    "end": 47.74,
-   "text": "musulman"
+   "text": "musulmans"
   }
  ]
 }

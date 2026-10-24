@@ -1,97 +1,97 @@
 {
  "slug": "evaluation-unite-2-9",
- "model": "medium",
+ "model": "large-v3",
  "kind": "dialogue",
  "segments": [
   {
-   "start": 0.0,
-   "end": 7.4,
+   "start": 0.18,
+   "end": 7.06,
    "text": "Unité 2. Observez les trois plans. Écoutez le dialogue. Cochez le bon plan."
   },
   {
-   "start": 10.4,
-   "end": 13.0,
-   "text": "Allô Quentin ? C'est Costanza."
+   "start": 10.54,
+   "end": 12.72,
+   "text": "Allô, Quentin ? C'est Costanza."
   },
   {
-   "start": 13.0,
-   "end": 15.4,
-   "text": "Ah, Costanza, où es-tu ?"
+   "start": 13.2,
+   "end": 15.0,
+   "text": "Ah, Costanza ! Où es-tu ?"
   },
   {
-   "start": 15.4,
-   "end": 18.6,
+   "start": 15.58,
+   "end": 18.8,
    "text": "Je suis à la Villa des Jeunes Européens. Et toi ?"
   },
   {
-   "start": 18.6,
-   "end": 22.0,
-   "text": "Moi, je suis au Café de la paix. Tu viens ?"
+   "start": 18.8,
+   "end": 22.1,
+   "text": "Moi, je suis au Café de la Paix. Tu viens ?"
   },
   {
-   "start": 22.0,
-   "end": 23.8,
+   "start": 22.1,
+   "end": 23.94,
    "text": "Oh oui ! C'est où ?"
   },
   {
-   "start": 23.8,
-   "end": 28.0,
+   "start": 23.94,
+   "end": 27.72,
    "text": "Je t'explique. À la sortie de la Villa des Jeunes Européens,"
   },
   {
-   "start": 28.2,
-   "end": 31.2,
+   "start": 27.72,
+   "end": 30.58,
    "text": "tu tournes à gauche et tu vas tout droit."
   },
   {
-   "start": 31.2,
-   "end": 36.2,
+   "start": 31.24,
+   "end": 35.58,
    "text": "Ensuite, tu tournes dans la première rue à droite, à côté de l'église."
   },
   {
-   "start": 36.2,
-   "end": 40.4,
+   "start": 36.04,
+   "end": 39.72,
    "text": "Tu continues tout droit. Il y a un parc et un cinéma."
   },
   {
-   "start": 40.4,
-   "end": 43.0,
+   "start": 40.38,
+   "end": 42.44,
    "text": "Tu tournes à gauche devant le cinéma."
   },
   {
-   "start": 43.0,
-   "end": 46.6,
+   "start": 43.08,
+   "end": 45.86,
    "text": "Le café est à côté du restaurant chez Patrice."
   },
   {
-   "start": 46.6,
-   "end": 50.0,
-   "text": "Je répète. Je vais à gauche, tout droit,"
+   "start": 46.58,
+   "end": 52.64,
+   "text": "Je répète. Je vais à gauche, tout droit, puis première rue à droite, à côté de l'église."
   },
   {
-   "start": 50.0,
-   "end": 53.2,
-   "text": "puis première rue à droite, à côté de l'église."
-  },
-  {
-   "start": 53.2,
-   "end": 56.6,
+   "start": 53.24,
+   "end": 56.06,
    "text": "Ensuite, tout droit et à gauche devant le cinéma."
   },
   {
-   "start": 56.6,
-   "end": 59.4,
+   "start": 56.06,
+   "end": 59.12,
    "text": "Il y a un restaurant et le café est à côté."
   },
   {
-   "start": 59.4,
-   "end": 61.4,
+   "start": 59.52,
+   "end": 61.5,
    "text": "Bravo ! À tout de suite !"
   },
   {
-   "start": 61.4,
-   "end": 63.4,
+   "start": 61.5,
+   "end": 64.06,
    "text": "À tout de suite ! Ciao !"
+  },
+  {
+   "start": 64.06,
+   "end": 65.06,
+   "text": "..."
   }
  ]
 }

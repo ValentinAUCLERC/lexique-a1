@@ -1,6 +1,6 @@
 {
  "slug": "lecon-1-parler-de-ses-loisirs-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,17 +11,17 @@
   {
    "start": 2.52,
    "end": 3.38,
-   "text": "Vocabulaire."
+   "text": "Vocabulaire"
   },
   {
    "start": 4.29,
    "end": 5.07,
-   "text": "valeur"
+   "text": "Valeur."
   },
   {
    "start": 6.53,
    "end": 7.23,
-   "text": "Accordéon"
+   "text": "Accordéon."
   },
   {
    "start": 8.99,
@@ -31,12 +31,12 @@
   {
    "start": 11.16,
    "end": 11.79,
-   "text": "chorale"
+   "text": "Chorale"
   },
   {
    "start": 13.28,
    "end": 14.02,
-   "text": "Traducteur"
+   "text": "Traducteur."
   },
   {
    "start": 15.83,
@@ -56,12 +56,12 @@
   {
    "start": 22.93,
    "end": 23.81,
-   "text": "Sculpture."
+   "text": "Sculpture"
   },
   {
    "start": 25.71,
    "end": 25.93,
-   "text": "TÀ"
+   "text": "Ça."
   },
   {
    "start": 27.94,
@@ -71,17 +71,17 @@
   {
    "start": 30.26,
    "end": 30.77,
-   "text": "abîmer."
+   "text": "abîmer"
   },
   {
    "start": 32.57,
    "end": 33.3,
-   "text": "regretter."
+   "text": "Regretter."
   },
   {
    "start": 34.99,
    "end": 35.59,
-   "text": "rater"
+   "text": "Rater."
   },
   {
    "start": 37.3,
@@ -101,22 +101,22 @@
   {
    "start": 43.72,
    "end": 44.46,
-   "text": "Contemporain."
+   "text": "Contemporain"
   },
   {
    "start": 46.37,
    "end": 47.06,
-   "text": "féminin"
+   "text": "Féminin."
   },
   {
    "start": 48.95,
    "end": 49.54,
-   "text": "fort"
+   "text": "Fort."
   },
   {
    "start": 51.4,
    "end": 51.68,
-   "text": "plein"
+   "text": "plein."
   }
  ]
 }

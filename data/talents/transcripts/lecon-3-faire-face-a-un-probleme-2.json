@@ -1,6 +1,6 @@
 {
  "slug": "lecon-3-faire-face-a-un-probleme-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,22 +11,22 @@
   {
    "start": 2.96,
    "end": 3.71,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.58,
    "end": 5.33,
-   "text": "reposer."
+   "text": "reposer"
   },
   {
    "start": 5.85,
    "end": 6.76,
-   "text": "se reposer."
+   "text": "Se reposer."
   },
   {
    "start": 8.69,
    "end": 9.3,
-   "text": "Rester."
+   "text": "rester."
   },
   {
    "start": 11.35,

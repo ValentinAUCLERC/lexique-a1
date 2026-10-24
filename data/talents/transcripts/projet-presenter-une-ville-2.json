@@ -1,6 +1,6 @@
 {
  "slug": "projet-presenter-une-ville-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,22 +11,22 @@
   {
    "start": 1.6,
    "end": 2.13,
-   "text": "projet"
+   "text": "Projet"
   },
   {
    "start": 2.58,
    "end": 3.42,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.69,
    "end": 5.41,
-   "text": "CAPITAL"
+   "text": "capitale"
   },
   {
    "start": 7.3,
    "end": 7.96,
-   "text": "FRESQUE"
+   "text": "Fresque."
   },
   {
    "start": 9.73,
@@ -36,7 +36,7 @@
   {
    "start": 11.94,
    "end": 12.49,
-   "text": "Frite."
+   "text": "Frites."
   },
   {
    "start": 14.24,
@@ -46,67 +46,67 @@
   {
    "start": 16.55,
    "end": 17.14,
-   "text": "million."
+   "text": "Million."
   },
   {
    "start": 19.14,
    "end": 19.75,
-   "text": "Bière."
+   "text": "bière"
   },
   {
    "start": 21.47,
    "end": 22.19,
-   "text": "Communauté"
+   "text": "communauté."
   },
   {
    "start": 24.16,
    "end": 24.68,
-   "text": "Habitant"
+   "text": "habitant"
   },
   {
    "start": 26.73,
    "end": 27.38,
-   "text": "Chose."
+   "text": "chose"
   },
   {
    "start": 29.2,
    "end": 29.92,
-   "text": "Exemple."
+   "text": "Exemples"
   },
   {
    "start": 31.71,
    "end": 32.17,
-   "text": "Midi."
+   "text": "midi."
   },
   {
    "start": 34.12,
    "end": 34.83,
-   "text": "siècle"
+   "text": "siècle."
   },
   {
    "start": 36.55,
    "end": 37.23,
-   "text": "Plaisanter."
+   "text": "plaisanter."
   },
   {
    "start": 39.07,
    "end": 39.73,
-   "text": "déjeuner"
+   "text": "Déjeuner."
   },
   {
    "start": 41.62,
    "end": 42.25,
-   "text": "Nombreux."
+   "text": "nombreux."
   },
   {
    "start": 44.01,
    "end": 44.72,
-   "text": "célèbre."
+   "text": "Célèbre."
   },
   {
    "start": 46.31,
    "end": 46.96,
-   "text": "Européen."
+   "text": "européen."
   }
  ]
 }

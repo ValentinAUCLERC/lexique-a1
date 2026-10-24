@@ -1,6 +1,6 @@
 {
  "slug": "lecon-3-choisir-des-vetements-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -26,7 +26,7 @@
   {
    "start": 9.64,
    "end": 10.09,
-   "text": "HUB"
+   "text": "Rob."
   },
   {
    "start": 12.0,
@@ -36,12 +36,12 @@
   {
    "start": 14.21,
    "end": 14.83,
-   "text": "Veste."
+   "text": "Vest."
   },
   {
    "start": 16.38,
    "end": 16.95,
-   "text": "Costume."
+   "text": "Costume"
   },
   {
    "start": 18.59,
@@ -51,7 +51,7 @@
   {
    "start": 21.0,
    "end": 21.39,
-   "text": "pull."
+   "text": "Pull."
   },
   {
    "start": 22.97,
@@ -71,7 +71,7 @@
   {
    "start": 29.73,
    "end": 30.37,
-   "text": "foulard"
+   "text": "Foulard"
   },
   {
    "start": 32.09,
@@ -81,7 +81,7 @@
   {
    "start": 34.37,
    "end": 35.05,
-   "text": "cravate."
+   "text": "Cravate."
   },
   {
    "start": 36.76,
@@ -91,12 +91,12 @@
   {
    "start": 39.13,
    "end": 40.01,
-   "text": "Boucle d'oreille."
+   "text": "Boucles d'oreille."
   },
   {
    "start": 41.85,
    "end": 42.32,
-   "text": "Collier"
+   "text": "Collier."
   },
   {
    "start": 44.21,
@@ -106,12 +106,12 @@
   {
    "start": 46.7,
    "end": 47.22,
-   "text": "Aise."
+   "text": "aise."
   },
   {
    "start": 47.83,
    "end": 48.49,
-   "text": "À l'aise!"
+   "text": "à l'aise."
   },
   {
    "start": 50.17,
@@ -121,12 +121,12 @@
   {
    "start": 52.45,
    "end": 53.04,
-   "text": "Essayer."
+   "text": "Essayez."
   },
   {
    "start": 55.0,
    "end": 55.36,
-   "text": "aider."
+   "text": "Aider."
   },
   {
    "start": 57.15,
@@ -141,17 +141,17 @@
   {
    "start": 60.7,
    "end": 61.6,
-   "text": "Décontracté."
+   "text": "décontracté."
   },
   {
    "start": 63.48,
    "end": 63.94,
-   "text": "Court."
+   "text": "court."
   },
   {
    "start": 65.66,
    "end": 66.14,
-   "text": "Parfait."
+   "text": "parfait."
   },
   {
    "start": 67.92,
@@ -176,7 +176,7 @@
   {
    "start": 77.03,
    "end": 77.6,
-   "text": "Noir"
+   "text": "Noir."
   }
  ]
 }

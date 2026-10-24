@@ -1,172 +1,162 @@
 {
  "slug": "evaluation-unite-9-9",
- "model": "medium",
+ "model": "large-v3",
  "kind": "dialogue",
  "segments": [
   {
-   "start": 0.0,
-   "end": 7.0,
+   "start": 0.08,
+   "end": 6.9,
    "text": "Unité 9. Vrai ou faux ? Écoutez le dialogue. Cochez les réponses correctes."
   },
   {
-   "start": 7.0,
-   "end": 9.0,
+   "start": 7.58,
+   "end": 9.3,
    "text": "Bonjour tous les deux !"
   },
   {
-   "start": 9.0,
-   "end": 11.0,
+   "start": 9.3,
+   "end": 11.2,
    "text": "Bonjour Quentin, tu vas bien ?"
   },
   {
-   "start": 11.0,
-   "end": 14.0,
+   "start": 11.2,
+   "end": 13.96,
    "text": "Oui, j'ai une grande nouvelle à vous annoncer."
   },
   {
-   "start": 14.0,
-   "end": 15.0,
+   "start": 14.48,
+   "end": 15.34,
    "text": "Ah oui ?"
   },
   {
-   "start": 15.0,
-   "end": 20.0,
+   "start": 15.34,
+   "end": 19.94,
    "text": "Oui, samedi je déménage. Je pars de la villa des jeunes européens."
   },
   {
-   "start": 20.0,
-   "end": 21.0,
+   "start": 20.52,
+   "end": 21.36,
    "text": "Ah bon ?"
   },
   {
-   "start": 21.0,
-   "end": 22.0,
+   "start": 21.36,
+   "end": 22.36,
    "text": "Tu vas où ?"
   },
   {
-   "start": 22.0,
-   "end": 24.0,
+   "start": 22.36,
+   "end": 24.28,
    "text": "J'ai trouvé un appartement pas très loin."
   },
   {
-   "start": 24.0,
-   "end": 26.0,
+   "start": 24.76,
+   "end": 26.72,
    "text": "Et tu vas y habiter tout seul ?"
   },
   {
-   "start": 27.0,
-   "end": 29.0,
-   "text": "Non, avec ma copine."
+   "start": 26.72,
+   "end": 29.18,
+   "text": "Euh, non, avec ma copine."
   },
   {
-   "start": 29.0,
-   "end": 31.0,
+   "start": 29.18,
+   "end": 31.18,
    "text": "Tu as une copine ?"
   },
   {
-   "start": 31.0,
-   "end": 34.0,
-   "text": "Ça alors ? Ça fait deux nouvelles ?"
+   "start": 31.74,
+   "end": 34.38,
+   "text": "Ça alors, ça fait deux nouvelles."
   },
   {
-   "start": 34.0,
-   "end": 39.0,
-   "text": "Oui, oui. Bon, mais vous êtes invité chez moi ?"
+   "start": 35.12,
+   "end": 38.78,
+   "text": "Oui, oui, bon, mais vous êtes invité chez moi."
   },
   {
-   "start": 39.0,
-   "end": 41.0,
+   "start": 39.56,
+   "end": 41.2,
    "text": "Ton appartement est grand ?"
   },
   {
-   "start": 41.0,
-   "end": 44.0,
+   "start": 41.2,
+   "end": 43.9,
    "text": "Il y a deux pièces, le salon et la chambre."
   },
   {
-   "start": 44.0,
-   "end": 47.0,
+   "start": 44.48,
+   "end": 47.36,
    "text": "Une petite salle de bain avec les toilettes et une cuisine."
   },
   {
-   "start": 47.0,
-   "end": 51.0,
+   "start": 47.94,
+   "end": 50.96,
    "text": "Ce n'est pas très grand, mais pour nous deux c'est suffisant."
   },
   {
-   "start": 51.0,
-   "end": 53.0,
-   "text": "Et puis il est très clair."
+   "start": 51.52,
+   "end": 57.46,
+   "text": "Et puis, il est très clair, les fenêtres sont grandes et on voit le parc qui est près de l'église."
   },
   {
-   "start": 53.0,
-   "end": 57.0,
-   "text": "Les fenêtres sont grandes et on voit le parc qui est près de l'église."
-  },
-  {
-   "start": 57.0,
-   "end": 59.0,
+   "start": 57.84,
+   "end": 58.46,
    "text": "Quelle est sa superficie ?"
   },
   {
-   "start": 59.0,
-   "end": 62.0,
-   "text": "Il mesure 40 mètres carrés, ça va."
+   "start": 59.18,
+   "end": 61.98,
+   "text": "Il mesure 40 mètres carrés. Ça va."
   },
   {
-   "start": 62.0,
-   "end": 63.0,
+   "start": 62.7,
+   "end": 64.04,
    "text": "Tu as des meubles ?"
   },
   {
-   "start": 63.0,
-   "end": 68.0,
+   "start": 64.04,
+   "end": 68.32,
    "text": "Non, mais la mère de ma copine va nous donner des étagères et un fauteuil."
   },
   {
-   "start": 68.0,
-   "end": 73.0,
+   "start": 68.9,
+   "end": 73.28,
    "text": "Mon père va nous apporter un canapé. Nous devons acheter un lit et une table."
   },
   {
-   "start": 73.0,
-   "end": 75.0,
+   "start": 74.02,
+   "end": 75.44,
    "text": "Et pour la cuisine ?"
   },
   {
-   "start": 75.0,
-   "end": 78.0,
-   "text": "Ce n'est pas nécessaire, elle est équipée."
+   "start": 75.44,
+   "end": 82.08,
+   "text": "Ah, ce n'est pas nécessaire. Elle est équipée. Il y a un frigidaire, un four et la table de cuisson."
   },
   {
-   "start": 78.0,
-   "end": 82.0,
-   "text": "Il y a un frigidaire, un four et la table de cuisson."
-  },
-  {
-   "start": 82.0,
-   "end": 85.0,
+   "start": 82.56,
+   "end": 85.66,
    "text": "Et ton vélo ? Tu ne peux pas le laisser dans la rue ?"
   },
   {
-   "start": 85.0,
-   "end": 90.0,
-   "text": "Non, non, mais il y a un garage pour les vélos et même une cave."
+   "start": 85.66,
+   "end": 88.54,
+   "text": "Non, non, mais il y a un garage pour les vélos."
   },
   {
-   "start": 90.0,
-   "end": 93.0,
-   "text": "Eh bien, quelle nouvelle !"
+   "start": 88.54,
+   "end": 90.58,
+   "text": "Et même une cave !"
   },
   {
-   "start": 93.0,
-   "end": 98.0,
-   "text": "Mais ça veut dire que Costanza et moi, on n'est plus que tous les deux pour nos soirées ?"
+   "start": 90.58,
+   "end": 98.1,
+   "text": "Eh bien, quelle nouvelle ! Mais ça veut dire que Costanza et moi, on n'est plus que tous les deux pour nos soirées ?"
   },
   {
-   "start": 98.0,
-   "end": 100.0,
-   "text": "Tu oublies Kevin, Nicolas."
+   "start": 98.1,
+   "end": 100.78,
+   "text": "Tu oublies Kevin, Nicolas !"
   }
  ]
 }

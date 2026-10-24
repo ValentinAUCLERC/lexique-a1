@@ -1,6 +1,6 @@
 {
  "slug": "lecon-2-trouver-une-adresse-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,17 +11,17 @@
   {
    "start": 4.2,
    "end": 4.7,
-   "text": "maison"
+   "text": "Maison."
   },
   {
    "start": 6.46,
    "end": 7.05,
-   "text": "ville."
+   "text": "Ville."
   },
   {
    "start": 8.69,
    "end": 9.45,
-   "text": "histoire."
+   "text": "Histoire"
   },
   {
    "start": 11.02,
@@ -56,7 +56,7 @@
   {
    "start": 25.77,
    "end": 26.54,
-   "text": "cathédrale."
+   "text": "cathédrale"
   },
   {
    "start": 28.32,
@@ -66,7 +66,7 @@
   {
    "start": 30.78,
    "end": 31.5,
-   "text": "terrasse"
+   "text": "Terrasse."
   },
   {
    "start": 33.18,
@@ -76,17 +76,17 @@
   {
    "start": 35.66,
    "end": 36.27,
-   "text": "Parc."
+   "text": "parc."
   },
   {
    "start": 37.94,
    "end": 38.53,
-   "text": "Arrivé"
+   "text": "Arriver."
   },
   {
    "start": 40.38,
    "end": 41.06,
-   "text": "voir"
+   "text": "Voir."
   },
   {
    "start": 42.68,
@@ -96,12 +96,12 @@
   {
    "start": 45.23,
    "end": 45.74,
-   "text": "vieux"
+   "text": "Vieux."
   },
   {
    "start": 47.27,
    "end": 48.13,
-   "text": "vieille."
+   "text": "Vieille."
   },
   {
    "start": 50.0,
@@ -111,12 +111,12 @@
   {
    "start": 52.52,
    "end": 53.08,
-   "text": "petit."
+   "text": "Petit."
   },
   {
    "start": 54.83,
    "end": 55.21,
-   "text": "beau."
+   "text": "Beau."
   },
   {
    "start": 56.91,
@@ -126,12 +126,12 @@
   {
    "start": 59.47,
    "end": 60.16,
-   "text": "Cher"
+   "text": "Cher."
   },
   {
    "start": 61.89,
    "end": 62.62,
-   "text": "pratique."
+   "text": "Pratique."
   },
   {
    "start": 64.26,
@@ -141,7 +141,7 @@
   {
    "start": 66.45,
    "end": 66.86,
-   "text": "grand."
+   "text": "Grand."
   }
  ]
 }

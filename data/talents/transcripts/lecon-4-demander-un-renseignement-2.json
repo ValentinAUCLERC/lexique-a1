@@ -1,6 +1,6 @@
 {
  "slug": "lecon-4-demander-un-renseignement-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,7 +11,7 @@
   {
    "start": 2.73,
    "end": 3.59,
-   "text": "Vocabulaire."
+   "text": "vocabulaire"
   },
   {
    "start": 4.84,
@@ -21,7 +21,7 @@
   {
    "start": 7.26,
    "end": 7.99,
-   "text": "cathédrale."
+   "text": "cathédrale"
   },
   {
    "start": 10.0,
@@ -31,7 +31,7 @@
   {
    "start": 12.21,
    "end": 12.76,
-   "text": "Écrivain."
+   "text": "écrivain"
   },
   {
    "start": 14.63,
@@ -46,7 +46,7 @@
   {
    "start": 19.53,
    "end": 19.96,
-   "text": "Homme."
+   "text": "homme."
   },
   {
    "start": 21.7,
@@ -56,12 +56,12 @@
   {
    "start": 24.17,
    "end": 24.89,
-   "text": "artiste."
+   "text": "artiste"
   },
   {
    "start": 26.61,
    "end": 27.32,
-   "text": "touriste"
+   "text": "Touriste."
   },
   {
    "start": 29.03,
@@ -71,7 +71,7 @@
   {
    "start": 31.62,
    "end": 32.32,
-   "text": "politique."
+   "text": "politique"
   },
   {
    "start": 34.03,

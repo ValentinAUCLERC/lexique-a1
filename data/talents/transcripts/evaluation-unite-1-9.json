@@ -1,77 +1,37 @@
 {
  "slug": "evaluation-unite-1-9",
- "model": "medium",
+ "model": "large-v3",
  "kind": "dialogue",
  "segments": [
   {
    "start": 0.0,
-   "end": 4.0,
-   "text": "Unité 1. Lisez la fiche de renseignement."
+   "end": 7.62,
+   "text": "Unité 1. Lisez la fiche de renseignement. Écoutez le dialogue. Complétez la fiche de renseignement."
   },
   {
-   "start": 4.0,
-   "end": 8.0,
-   "text": "Écoutez le dialogue. Complitez la fiche de renseignement."
+   "start": 8.3,
+   "end": 17.46,
+   "text": "Bonjour Madame. Bonjour. Je suis Quentin Rumeau. Ah oui, Quentin, bonjour. Et bienvenue à la Villa des Jeunes Européens. Merci."
   },
   {
-   "start": 8.0,
-   "end": 12.0,
-   "text": "Bonjour madame. Bonjour. Je suis Quentin Rumeau."
+   "start": 17.46,
+   "end": 29.82,
+   "text": "Je dois compléter la fiche. Donc, votre prénom est ? Quentin, Q-U-E-N-T-I-N. Et mon nom de famille, Rumeau, R-U-M-O."
   },
   {
-   "start": 12.0,
-   "end": 16.0,
-   "text": "Ah oui Quentin, bonjour et bienvenue à la Villa des Jeunes Européens."
+   "start": 30.42,
+   "end": 46.64,
+   "text": "Votre nationalité ? Je suis français. Quel est votre numéro de téléphone ? C'est le 06 10 05 09 03. Votre adresse ? J'habite 1 rue de la Madeleine à Paris."
   },
   {
-   "start": 16.0,
-   "end": 20.0,
-   "text": "Merci. Je dois compléter la fiche."
+   "start": 46.92,
+   "end": 47.44,
+   "text": "Merci."
   },
   {
-   "start": 20.0,
-   "end": 26.0,
-   "text": "Donc votre prénom est ? Quentin, Q-U-E-N-T-I-N"
-  },
-  {
-   "start": 26.0,
-   "end": 30.0,
-   "text": "Et mon nom de famille Rumeau. R-U-M-O"
-  },
-  {
-   "start": 30.0,
-   "end": 33.0,
-   "text": "Votre nationalité ? Je suis français."
-  },
-  {
-   "start": 33.0,
-   "end": 35.0,
-   "text": "Quel est votre numéro de téléphone ?"
-  },
-  {
-   "start": 35.0,
-   "end": 42.0,
-   "text": "C'est le 06 10 05 09 03"
-  },
-  {
-   "start": 42.0,
-   "end": 47.0,
-   "text": "Votre adresse ? J'habite 1 rue de la Madeleine à Paris."
-  },
-  {
-   "start": 47.0,
-   "end": 50.0,
-   "text": "Merci. Ah et votre courriel ?"
-  },
-  {
-   "start": 50.0,
-   "end": 62.0,
-   "text": "Mon adresse électronique est qrumeau.com"
-  },
-  {
-   "start": 62.0,
-   "end": 64.0,
-   "text": "Parfait, merci."
+   "start": 47.46,
+   "end": 63.34,
+   "text": "Ah, et votre courriel ? Mon adresse électronique est qurumo.gmail.com. Parfait. Merci."
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "slug": "lecon-1-se-presenter-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -11,7 +11,7 @@
   {
    "start": 1.54,
    "end": 2.41,
-   "text": "Leçon 1"
+   "text": "Leçon 1."
   },
   {
    "start": 2.99,
@@ -26,7 +26,7 @@
   {
    "start": 7.05,
    "end": 7.88,
-   "text": "ingénieur"
+   "text": "Ingénieur."
   },
   {
    "start": 9.78,
@@ -41,12 +41,12 @@
   {
    "start": 14.9,
    "end": 15.64,
-   "text": "petite-fille"
+   "text": "Petite fille."
   },
   {
    "start": 17.5,
    "end": 17.84,
-   "text": "Non."
+   "text": "Noms."
   },
   {
    "start": 19.73,
@@ -61,7 +61,7 @@
   {
    "start": 24.54,
    "end": 25.42,
-   "text": "nationalité"
+   "text": "Nationalité."
   },
   {
    "start": 27.47,
@@ -71,12 +71,12 @@
   {
    "start": 29.97,
    "end": 30.71,
-   "text": "Téléphone"
+   "text": "téléphone."
   },
   {
    "start": 32.56,
    "end": 33.24,
-   "text": "Courriel"
+   "text": "Courriel."
   },
   {
    "start": 35.04,
@@ -106,22 +106,22 @@
   {
    "start": 47.57,
    "end": 48.37,
-   "text": "asseoir"
+   "text": "Asseoir."
   },
   {
    "start": 48.82,
    "end": 49.75,
-   "text": "s'asseoir."
+   "text": "S'asseoir."
   },
   {
    "start": 51.65,
    "end": 52.11,
-   "text": "Nouveau."
+   "text": "Nouveau"
   },
   {
    "start": 54.17,
    "end": 54.77,
-   "text": "belge"
+   "text": "Belge."
   }
  ]
 }

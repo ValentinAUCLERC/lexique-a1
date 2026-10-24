@@ -1,6 +1,6 @@
 {
  "slug": "lecon-2-acheter-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -36,7 +36,7 @@
   {
    "start": 14.91,
    "end": 15.74,
-   "text": "magazine"
+   "text": "Magazine."
   },
   {
    "start": 17.47,
@@ -46,7 +46,7 @@
   {
    "start": 19.75,
    "end": 20.22,
-   "text": "Produit."
+   "text": "Produits."
   },
   {
    "start": 22.17,

@@ -1,6 +1,6 @@
 {
  "slug": "lecon-1-engager-la-conversation-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -21,7 +21,7 @@
   {
    "start": 7.3,
    "end": 7.9,
-   "text": "époque."
+   "text": "époque"
   },
   {
    "start": 9.45,
@@ -31,7 +31,7 @@
   {
    "start": 11.58,
    "end": 12.21,
-   "text": "symphonie"
+   "text": "Symphonie."
   },
   {
    "start": 13.83,
@@ -51,7 +51,7 @@
   {
    "start": 20.73,
    "end": 21.37,
-   "text": "présenter."
+   "text": "Présenter"
   },
   {
    "start": 23.14,
@@ -61,17 +61,17 @@
   {
    "start": 25.58,
    "end": 26.23,
-   "text": "croire"
+   "text": "croire."
   },
   {
    "start": 27.86,
    "end": 28.51,
-   "text": "vivre."
+   "text": "vivre"
   },
   {
    "start": 30.14,
    "end": 30.82,
-   "text": "Intéressant."
+   "text": "Intéressant"
   }
  ]
 }

@@ -1,77 +1,132 @@
 {
  "slug": "evaluation-unite-8-9",
- "model": "medium",
+ "model": "large-v3",
  "kind": "dialogue",
  "segments": [
   {
-   "start": 0.0,
-   "end": 7.36,
-   "text": "Unité 8. Lisez les propositions. Écoutez le dialogue. Cochez la réponse correcte."
+   "start": 0.1,
+   "end": 7.1,
+   "text": "Unité 8. Lisez les propositions, écoutez le dialogue, cochez la réponse correcte."
   },
   {
-   "start": 7.36,
-   "end": 15.6,
-   "text": "Bonjour les garçons ! Salut Costanza, comment vas-tu ? Ça va, ça va. Mon père est reparti"
+   "start": 7.84,
+   "end": 9.58,
+   "text": "Bonjour les garçons !"
   },
   {
-   "start": 15.6,
-   "end": 21.24,
-   "text": "pour le bar. Il est bien arrivé ? Oui, oui. Il a laissé un message sur le répondeur"
+   "start": 9.58,
+   "end": 12.16,
+   "text": "Salut Costanza, comment vas-tu ?"
   },
   {
-   "start": 21.24,
-   "end": 28.48,
-   "text": "de la villa des jeunes européens. Et votre film, il était bien ? Bof ! Hein ? Il"
+   "start": 12.16,
+   "end": 16.28,
+   "text": "Ça va, ça va. Mon père est reparti pour Bari."
   },
   {
-   "start": 28.48,
-   "end": 34.36,
-   "text": "était super bien tu veux dire ? Vous n'êtes pas d'accord. Qu'avez-vous vu ? Nous avons"
+   "start": 16.82,
+   "end": 18.18,
+   "text": "Il est bien arrivé ?"
   },
   {
-   "start": 34.36,
-   "end": 40.16,
-   "text": "vu le dernier film de Claude Lelouche. Un plus une. De quoi parle le film ? D'un"
+   "start": 18.18,
+   "end": 22.78,
+   "text": "Oui, oui. Il a laissé un message sur le répondeur de la Villa des Jeunes Européens."
   },
   {
-   "start": 40.16,
-   "end": 46.0,
-   "text": "compositeur qui fait des musiques de films. Un jour, il part en Inde pour travailler et"
+   "start": 24.0,
+   "end": 26.0,
+   "text": "Et votre film, il était bien ?"
   },
   {
-   "start": 46.0,
-   "end": 51.04,
-   "text": "il rencontre une jeune femme qui est très différente de lui. Et tu n'as pas aimé"
+   "start": 26.0,
+   "end": 26.4,
+   "text": "Bof."
   },
   {
-   "start": 51.04,
-   "end": 56.8,
-   "text": "Quentin ? Non, c'est un film romantique. Je l'ai trouvée stupide. Je n'aime pas"
+   "start": 27.24,
+   "end": 30.98,
+   "text": "Hein ? Il était super bien, tu veux dire ?"
   },
   {
-   "start": 56.84,
-   "end": 64.64,
-   "text": "les films romantiques. Je préfère les comédies. Et toi Nicolas ? Moi j'ai adoré. Les acteurs"
+   "start": 30.98,
+   "end": 33.98,
+   "text": "Vous n'êtes pas d'accord. Qu'avez-vous vu ?"
   },
   {
-   "start": 64.64,
-   "end": 72.08,
-   "text": "sont super. Jean Dujardin est magnifique. Les paysages sont très beaux. Bof ! En plus,"
+   "start": 33.98,
+   "end": 37.86,
+   "text": "Nous avons vu le dernier film de Claude Lelouch, 1 plus 1."
   },
   {
-   "start": 72.08,
-   "end": 76.8,
-   "text": "on connaît la fin rapidement. Et puis, je n'aime pas ces acteurs. Tu n'as pas aimé"
+   "start": 38.32,
+   "end": 40.02,
+   "text": "De quoi parle le film ?"
   },
   {
-   "start": 76.8,
-   "end": 83.44,
-   "text": "la musique ? Elle était magnifique. Bon, d'accord. La musique était très belle. Mais"
+   "start": 40.02,
+   "end": 42.28,
+   "text": "D'un compositeur qui fait des musiques de film."
   },
   {
-   "start": 83.44,
-   "end": 87.2,
-   "text": "le film était trop long. Quentin, tu n'es jamais content."
+   "start": 43.2,
+   "end": 49.34,
+   "text": "Un jour, il part en Inde pour travailler et il rencontre une jeune femme qui est très différente de lui."
+  },
+  {
+   "start": 49.98,
+   "end": 52.0,
+   "text": "Et tu n'as pas aimé, Quentin ?"
+  },
+  {
+   "start": 52.0,
+   "end": 55.84,
+   "text": "Non, c'est un film romantique. Je l'ai trouvé stupide."
+  },
+  {
+   "start": 56.38,
+   "end": 59.38,
+   "text": "Je n'aime pas les films romantiques. Je préfère les comédies."
+  },
+  {
+   "start": 59.96,
+   "end": 61.54,
+   "text": "Et toi, Nicolas ?"
+  },
+  {
+   "start": 61.54,
+   "end": 70.26,
+   "text": "Moi, j'ai adoré. Les acteurs sont super. Jean Dujardin est magnifique. Les paysages sont très beaux."
+  },
+  {
+   "start": 70.9,
+   "end": 75.78,
+   "text": "Bof. En plus, on connaît la fin rapidement. Et puis, je n'aime pas ses acteurs."
+  },
+  {
+   "start": 76.24,
+   "end": 79.68,
+   "text": "Tu n'as pas aimé la musique ? Elle était magnifique."
+  },
+  {
+   "start": 79.68,
+   "end": 84.9,
+   "text": "Bon, d'accord, la musique était très belle. Mais le film était trop long."
+  },
+  {
+   "start": 85.28,
+   "end": 85.98,
+   "text": "Quentin !"
+  },
+  {
+   "start": 86.0,
+   "end": 86.98,
+   "text": "Tu n'es jamais content."
+  },
+  {
+   "start": 86.98,
+   "end": 87.98,
+   "text": "Quentin !"
   }
  ]
 }

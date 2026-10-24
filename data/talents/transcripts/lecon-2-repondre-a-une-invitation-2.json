@@ -1,6 +1,6 @@
 {
  "slug": "lecon-2-repondre-a-une-invitation-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -21,7 +21,7 @@
   {
    "start": 7.1,
    "end": 7.34,
-   "text": "Pong."
+   "text": "Pont."
   },
   {
    "start": 9.11,
@@ -31,12 +31,12 @@
   {
    "start": 11.68,
    "end": 12.31,
-   "text": "commerce."
+   "text": "Commerce."
   },
   {
    "start": 13.8,
    "end": 14.37,
-   "text": "randonnée"
+   "text": "Randonnée"
   },
   {
    "start": 16.13,
@@ -46,7 +46,7 @@
   {
    "start": 18.55,
    "end": 19.11,
-   "text": "Examen."
+   "text": "Examen"
   },
   {
    "start": 20.89,
@@ -71,7 +71,7 @@
   {
    "start": 30.04,
    "end": 30.52,
-   "text": "chalet"
+   "text": "Chalet."
   },
   {
    "start": 32.59,
@@ -106,7 +106,7 @@
   {
    "start": 47.77,
    "end": 49.64,
-   "text": "habiller, s'habiller."
+   "text": "habiller, s'habiller"
   },
   {
    "start": 51.74,
@@ -116,7 +116,7 @@
   {
    "start": 54.04,
    "end": 54.7,
-   "text": "important."
+   "text": "Important."
   },
   {
    "start": 56.55,

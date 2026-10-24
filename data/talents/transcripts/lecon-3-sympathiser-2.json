@@ -1,6 +1,6 @@
 {
  "slug": "lecon-3-sympathiser-2",
- "model": "medium",
+ "model": "large-v3",
  "kind": "vocab",
  "segments": [
   {
@@ -41,12 +41,12 @@
   {
    "start": 14.06,
    "end": 14.82,
-   "text": "Excusez."
+   "text": "Excuser."
   },
   {
    "start": 15.67,
    "end": 16.66,
-   "text": "s'excuser"
+   "text": "S'excuser."
   },
   {
    "start": 18.81,

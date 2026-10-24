@@ -39,7 +39,7 @@ Audios introuvables dans l'archive (jamais capturés) : vocabulaire U7 L3, vocab
 python3 -m venv .venv && .venv/bin/pip install pdfplumber edge-tts faster-whisper
 .venv/bin/python scripts/build.py               # lexique + audio TTS (Denise/Henri)
 .venv/bin/python scripts/fetch_talents.py       # audios éditeur depuis web.archive.org (idempotent)
-.venv/bin/python scripts/transcribe_talents.py  # transcriptions (Whisper medium, ~1 h CPU la 1re fois)
+.venv/bin/python scripts/transcribe_talents.py  # transcriptions (Whisper medium, ~1 h CPU ; WHISPER_DEVICE=cuda + large-v3 sur le worker GPU : ~3 min)
 .venv/bin/python scripts/build_units.py         # unités + extraits audio par mot -> site/units.js, words.js
 .venv/bin/python scripts/qa_audio.py small      # contrôle de l'audio TTS
 ```
