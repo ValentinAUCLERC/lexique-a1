@@ -17,6 +17,7 @@ src = open(os.path.join(ROOT, "site/words.js"), encoding="utf-8").read()
 words = json.loads(src[src.index("=") + 1:].rstrip().rstrip(";"))
 
 model_name = sys.argv[1] if len(sys.argv) > 1 else "small"
+voice = os.environ.get("VOICE", "f")  # f = Denise, m = Henri
 only = {int(x) for x in sys.argv[2:]}
 if only:
     words = [w for w in words if w["id"] in only]
@@ -41,12 +42,14 @@ def load_audio(path):
     import numpy as np
     pcm = subprocess.run(["ffmpeg", "-nostdin", "-loglevel", "error", "-i", path, "-f", "f32le", "-ac", "1", "-ar", "16000", "-"],
                          check=True, capture_output=True).stdout
-    return np.frombuffer(pcm, dtype=np.float32)
+    a = np.frombuffer(pcm, dtype=np.float32)
+    pad = np.zeros(8000, dtype=np.float32)  # 0,5 s de silence : Whisper hallucine moins sur les mots isolés
+    return np.concatenate([pad, a, pad])
 
 
 out = []
 for w in words:
-    segs, _ = model.transcribe(load_audio(os.path.join(ROOT, "site", w["audio"])), language="fr", beam_size=5,
+    segs, _ = model.transcribe(load_audio(os.path.join(ROOT, "site", w["audio"][voice])), language="fr", beam_size=5,
                                condition_on_previous_text=False, vad_filter=False)
     heard = " ".join(s.text.strip() for s in segs)
     a, b = norm(w["tts"]), norm(heard)

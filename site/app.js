@@ -29,6 +29,7 @@
     hideZh: false,
     hideFr: false,
     slow: false,
+    voice: "f",
     shuffle: false,
   };
   let state;
@@ -61,7 +62,7 @@
   function play(word, btn) {
     stopUi();
     audio.pause();
-    audio.src = word.audio;
+    audio.src = word.audio[state.voice] || word.audio.f;
     audio.playbackRate = state.slow ? 0.7 : 1;
     if ("preservesPitch" in audio) audio.preservesPitch = true;
     playingBtn = btn;
@@ -106,6 +107,12 @@
     s.append(chip("全部 Tous", scope.length, state.status === "all", () => setF("status", "all")));
     s.append(chip("要复习 À revoir", scope.length - done, state.status === "todo", () => setF("status", "todo")));
     s.append(chip("已掌握 Maîtrisés", done, state.status === "done", () => setF("status", "done")));
+
+    // mobile : garder la puce active visible dans les rangées défilantes
+    document.querySelectorAll(".chips").forEach((row) => {
+      const on = row.querySelector('[aria-pressed="true"]');
+      if (on && row.scrollWidth > row.clientWidth) row.scrollLeft = Math.max(0, on.offsetLeft - row.offsetLeft - 40);
+    });
   }
 
   function setF(key, val) {
@@ -232,6 +239,12 @@
       save();
       if (key !== "slow") render();
     });
+  });
+
+  $("male-voice").checked = state.voice === "m";
+  $("male-voice").addEventListener("change", (e) => {
+    state.voice = e.target.checked ? "m" : "f";
+    save();
   });
 
   $("reset").addEventListener("click", () => {

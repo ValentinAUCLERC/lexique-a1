@@ -17,9 +17,11 @@ import edge_tts
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, "site")
 AUDIO_DIR = os.path.join(SITE, "audio")
-VOICE = "fr-FR-DeniseNeural"
+# deux voix neuronales : l'apprenant entend deux timbres, et on garde une alternative si l'une prononce mal un mot
+VOICES = {"f": "fr-FR-DeniseNeural", "m": "fr-FR-HenriNeural"}
 RATE = "-10%"  # un peu plus lent que la normale : niveau A1
 CONCURRENCY = 6
+MIN_BYTES = 6000  # un mot isolé fait ~10-12 Ko ; en dessous, la synthèse a été coupée
 
 POS_ALLOWED = {"n.m.", "n.mf.", "n.f.", "n.m.pl.", "n.f.pl.", "v.", "adj.", "adv.", "expr.", "prép.", "pron.", "conj."}
 
@@ -47,7 +49,10 @@ def load():
         assert a["pos"] in POS_ALLOWED, (i, a["pos"])
         assert "（" not in a["zh"], (i, a["zh"])
         tts = a["tts"].strip()
-        h = hashlib.sha1(f"{VOICE}|{RATE}|{tts}".encode()).hexdigest()[:8]
+        audio = {}
+        for key, voice in VOICES.items():
+            h = hashlib.sha1(f"{voice}|{RATE}|{tts}".encode()).hexdigest()[:8]
+            audio[key] = f"audio/{key}/{i}-{h}.mp3"
         words.append({
             "id": i,
             "fr": a["display"],
@@ -59,37 +64,43 @@ def load():
             "en": r["en"],
             "unit": int(r["unit"].lstrip("U")),
             "lesson": r["lesson"],
-            "audio": f"audio/{i}-{h}.mp3",
+            "audio": audio,
         })
     return words
 
 
 async def synth(words):
-    os.makedirs(AUDIO_DIR, exist_ok=True)
-    wanted = {os.path.basename(w["audio"]) for w in words}
-    # nettoie les anciens fichiers (texte modifié)
-    for f in os.listdir(AUDIO_DIR):
-        if f not in wanted:
-            os.remove(os.path.join(AUDIO_DIR, f))
-    todo = [w for w in words if not os.path.exists(os.path.join(SITE, w["audio"]))]
-    print(f"Audio : {len(todo)} à générer / {len(words)}")
+    jobs = []  # (word, voice_key)
+    for key in VOICES:
+        d = os.path.join(AUDIO_DIR, key)
+        os.makedirs(d, exist_ok=True)
+        wanted = {os.path.basename(w["audio"][key]) for w in words}
+        for f in os.listdir(d):  # nettoie les anciens fichiers (texte modifié)
+            if f not in wanted:
+                os.remove(os.path.join(d, f))
+        jobs += [(w, key) for w in words if not os.path.exists(os.path.join(SITE, w["audio"][key]))]
+    print(f"Audio : {len(jobs)} à générer / {len(words) * len(VOICES)}")
     sem = asyncio.Semaphore(CONCURRENCY)
     errors = []
 
-    async def one(w):
+    async def one(w, key):
         async with sem:
-            dest = os.path.join(SITE, w["audio"])
+            dest = os.path.join(SITE, w["audio"][key])
+            last = None
             for attempt in range(4):
                 try:
-                    await edge_tts.Communicate(w["tts"], VOICE, rate=RATE).save(dest + ".tmp")
+                    await edge_tts.Communicate(w["tts"], VOICES[key], rate=RATE).save(dest + ".tmp")
+                    # flux parfois coupé sans exception (throttling) : fichier tronqué ~2 Ko
+                    if os.path.getsize(dest + ".tmp") < MIN_BYTES:
+                        raise RuntimeError(f"audio tronqué ({os.path.getsize(dest + '.tmp')} o)")
                     os.replace(dest + ".tmp", dest)
                     return
                 except Exception as e:  # réseau / throttling
                     await asyncio.sleep(2 * (attempt + 1))
                     last = e
-            errors.append((w["id"], w["tts"], repr(last)))
+            errors.append((w["id"], key, w["tts"], repr(last)))
 
-    await asyncio.gather(*(one(w) for w in todo))
+    await asyncio.gather(*(one(w, k) for w, k in jobs))
     if errors:
         print("ERREURS :", errors)
         sys.exit(1)
