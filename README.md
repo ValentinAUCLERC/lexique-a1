@@ -56,3 +56,10 @@ Service systemd `lexique-a1` (`/etc/systemd/system/lexique-a1.service`) → `scr
 
     systemctl status lexique-a1      # état
     systemctl disable --now lexique-a1   # couper
+
+## GitHub Pages
+
+    scripts/deploy_pages.sh   # pousse site/ (audios compris) sur la branche orpheline gh-pages
+
+Le site est public (balise noindex, mais accessible à quiconque a le lien) : il contient les audios © CLE International.
+En cas de demande de retrait : désactiver Pages et supprimer la branche gh-pages.
